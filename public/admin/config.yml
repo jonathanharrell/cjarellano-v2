@@ -5,19 +5,46 @@ backend:
 media_folder: public/img
 public_folder: img
 collections:
+  - name: "projects"
+    label: "Projects"
+    folder: content/projects
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Categories", name: "categories", widget: "select", multiple: true, options: [ "Writing", "Directing", "Editing", "Motion Graphics" ] }
+      - { label: "Type", name: "type", widget: "string" }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Video", name: "video", widget: "string" }
+      - label: "Quotes"
+        name: "quotes"
+        widget: "list"
+        fields:
+          - { label: "Text", name: "text", widget: "string" }
+          - { label: "Source", name: "source", widget: "string" }
+      - label: "Awards"
+        name: "awards"
+        widget: "list"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Source", name: "source", widget: "string" }
+          - { label: "Link", name: "link", widget: "string" }
   - name: "pages"
     label: "Pages"
     files:
-    - label: "Home"
-      name: "home"
-      file: "content/home.md"
-      fields:
-        - { label: "Title", name: "title", widget: "string"}
-        - { label: "Publish Date", name: "date", widget: "datetime" }
-        - { label: "Body", name: "body", widget: "markdown"}
-        - label: 'Cats'
-          name: "cats"
-          widget: list
-          fields:
-            - { label: "Name", name: "name", widget: "string"}
-            - { label: "Description", name: "description", widget: "text"}
+      - label: "Home"
+        name: "home"
+        file: "content/home.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - label: 'Cats'
+            name: "cats"
+            widget: list
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Description", name: "description", widget: "text" }
