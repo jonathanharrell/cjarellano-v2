@@ -18,7 +18,7 @@ collections:
       - { label: "Categories", name: "categories", widget: "select", multiple: true, options: [ "Writing", "Directing", "Editing", "Motion Graphics" ] }
       - { label: "Type", name: "type", widget: "string" }
       - { label: "Image", name: "image", widget: "image" }
-      - { label: "Video", name: "video", widget: "string" }
+      - { label: "Video", name: "video", widget: "string", required: false }
       - label: "Quotes"
         name: "quotes"
         widget: "list"
@@ -31,7 +31,7 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Source", name: "source", widget: "string" }
-          - { label: "Link", name: "link", widget: "string" }
+          - { label: "Link", name: "link", widget: "string", required: false }
   - name: "pages"
     label: "Pages"
     files:
