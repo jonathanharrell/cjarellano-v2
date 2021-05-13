@@ -2,15 +2,20 @@
 title: Geller High School's Mondo-Secret Crush Committee
 date: 2019-03-17T19:31:20.591Z
 description: Teen rom-com with a heist-y twist
-categories: Writing
+categories:
+  - Writing
+  - Editing
 type: Feature Screenplay
 image: /static/img/geller-high-school.jpg
 quotes:
-  - text: The writing is sharp. The characters are wonderful, and the dialogue is first-rate. It has incredible market potential. It has everything one asks for in a script.
+  - text: The writing is sharp. The characters are wonderful, and the dialogue is
+      first-rate. It has incredible market potential. It has everything one asks
+      for in a script.
     source: New York Screenplay Contest
   - text: Smart, highly original, and very entertaining.
     source: New York Screenplay Contest
-  - text: This story has great commercial potential and could really resonate with audiences.
+  - text: This story has great commercial potential and could really resonate with
+      audiences.
     source: Creative World Awards
 awards:
   - title: Grand Prize Winner, Action/Adventure Category
