@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Video from "../../components/video";
 
 class Post extends Component {
   static async getInitialProps({ query }) {
@@ -11,7 +12,7 @@ class Post extends Component {
     if (!this.props.project) return <div>not found</div>;
 
     const {
-      attributes: { title, description, categories, type, image, quotes, awards },
+      attributes: { title, description, categories, type, image, video, quotes, awards },
       html
     } = this.props.project.default;
 
@@ -20,7 +21,7 @@ class Post extends Component {
         <div className="max-w-6xl mx-auto">
           <article>
             <div className="grid gap-y-8 lg:gap-16 grid-cols-1 lg:grid-cols-12 pt-12 pb-6">
-              <div className="lg:order-1 lg:col-start-6 lg:col-end-13 lg:row-start-1">
+              <div className="lg:order-1 lg:col-start-6 lg:col-end-13 lg:row-start-1 relative">
                 <figure className="relative lg:h-full" style={{ padding: "35% 0" }}>
                   <img src={image} alt="" className="absolute inset-0 w-full h-full object-cover"/>
                   <div className="absolute top-0 z-10 w-full h-1/2 bg-gradient-to-b from-gray-900"/>
@@ -28,11 +29,23 @@ class Post extends Component {
                   <div className="absolute top-0 left-0 z-10 w-1/2 h-full bg-gradient-to-r from-gray-900"/>
                   <div className="absolute top-0 right-0 z-10 w-1/2 h-full bg-gradient-to-l from-gray-900"/>
                 </figure>
+                {video && (
+                  <div className="absolute top-1/2 left-1/2 z-20 transform -translate-y-1/2 -translate-x-1/2">
+                    <Video url={video}/>
+                  </div>
+                )}
               </div>
               <div className="lg:col-start-1 lg:col-end-8 lg:row-start-1 relative z-10">
                 <header className="mb-8">
-                  <p className="mb-2 font-semibold dark:text-gray-400">{type}</p>
+                  {categories.length && (
+                    <ul className="flex mb-4">
+                      {categories.map(category => (
+                        <li key={category} className="mr-2 py-0.5 px-3 rounded-full bg-gray-700 text-sm font-medium text-gray-300">{category}</li>
+                      ))}
+                    </ul>
+                  )}
                   <h1 className="text-5xl font-bold leading-none">{title}</h1>
+                  <p className="mt-3 font-semibold dark:text-gray-400">{type}</p>
                 </header>
                 <div dangerouslySetInnerHTML={{ __html: html }} className="project-content text-lg leading-relaxed dark:text-gray-400"/>
               </div>

@@ -58,6 +58,15 @@
   src: url('../static/fonts/sharp-sans/SharpSansDispNo1-Extrabold.woff') format('woff'), url('../static/fonts/sharp-sans/SharpSansDispNo1-Extrabold.woff2') format('woff2');
 }
 
+a,
+button,
+input,
+textarea,
+select {
+  /*@apply focus:outline-none focus-visible:ring-2 focus-visible:ring-pink-400;*/
+  @apply focus:outline-none focus:ring-2 ring-pink-400;
+}
+
 .project-content {
   p {
     @apply mb-3;
