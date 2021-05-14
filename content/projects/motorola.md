@@ -2,7 +2,8 @@
 title: Motorola
 date: 2019-03-17T19:31:20.591Z
 description: Why yap about phones when you can rap about phones?
-categories: Editing
+categories:
+  - Editing
 type: Music Videos
 image: /static/img/motorola.jpg
 video: https://vimeo.com/479115952/11e0575af6
