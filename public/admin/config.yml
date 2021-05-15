@@ -28,7 +28,9 @@ collections:
       - label: "Categories"
         name: "categories"
         widget: "relation"
+        collection: "categories"
         multiple: true
+        search_fields: ["title"]
         value_field: "title"
       - label: "Quotes"
         name: "quotes"
