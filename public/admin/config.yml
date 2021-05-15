@@ -12,6 +12,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Action", name: "action", widget: "string" }
   - name: "projects"
     label: "Projects"
     folder: content/projects
@@ -30,8 +31,8 @@ collections:
         widget: "relation"
         collection: "categories"
         multiple: true
-        search_fields: ["title"]
-        value_field: "title"
+        search_fields: ["action"]
+        value_field: "action"
       - label: "Quotes"
         name: "quotes"
         widget: "list"
