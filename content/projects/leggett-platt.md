@@ -2,11 +2,11 @@
 title: Leggett & Platt
 date: 2019-03-17T19:31:20.591Z
 description: The world’s only club banger about mattresses
-categories:
-- Editing
 type: Music Video
 image: /static/img/leggett-platt.jpg
 video: https://www.youtube.com/watch?v=ntS6LXBJBzg
+categories:
+  - editing
 ---
 Springz and Phoam have decent solo careers, but they're unstoppable as a duo.
 
