@@ -5,7 +5,7 @@ description: The world’s only club banger about mattresses
 categories:
 - Editing
 type: Music Video
-image: /static/img/secret-deodorant.jpg
+image: /static/img/leggett-platt.jpg
 video: https://www.youtube.com/watch?v=ntS6LXBJBzg
 ---
 Springz and Phoam have decent solo careers, but they're unstoppable as a duo.
