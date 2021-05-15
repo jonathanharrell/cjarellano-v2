@@ -1,0 +1,4 @@
+---
+title: Writer
+action: writing
+---
