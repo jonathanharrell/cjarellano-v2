@@ -5,6 +5,13 @@ backend:
 media_folder: public/img
 public_folder: img
 collections:
+  - name: "categories"
+    label: "Categories"
+    folder: content/categories
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
   - name: "projects"
     label: "Projects"
     folder: content/projects
@@ -15,10 +22,14 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Categories", name: "categories", widget: "select", multiple: true, options: [ "Writing", "Directing", "Editing", "Motion Graphics" ] }
       - { label: "Type", name: "type", widget: "string" }
       - { label: "Image", name: "image", widget: "image" }
       - { label: "Video", name: "video", widget: "string", required: false }
+      - label: "Categories"
+        name: "categories"
+        widget: "relation"
+        multiple: true
+        value_field: "title"
       - label: "Quotes"
         name: "quotes"
         widget: "list"
