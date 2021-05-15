@@ -21,18 +21,18 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Type", name: "type", widget: "string" }
-      - { label: "Image", name: "image", widget: "image" }
-      - { label: "Video", name: "video", widget: "string", required: false }
       - label: "Categories"
         name: "categories"
         widget: "relation"
         collection: "categories"
         multiple: true
-        search_fields: ["action"]
+        search_fields: [ "action" ]
         value_field: "action"
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Video", name: "video", widget: "string", required: false }
       - label: "Quotes"
         name: "quotes"
         widget: "list"
