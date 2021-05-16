@@ -22,9 +22,9 @@ class Post extends Component {
           <article>
             <div className="grid gap-y-8 lg:gap-16 grid-cols-1 lg:grid-cols-12 pt-12 pb-6">
               <div className="lg:order-1 lg:col-start-6 lg:col-end-13 lg:row-start-1 relative">
-                <figure className="relative lg:h-full" style={{ padding: "35% 0" }}>
+                <figure className="relative" style={{ padding: "35% 0" }}>
                   <img src={image} alt="" className="absolute inset-0 w-full h-full object-cover"/>
-                  <div className="absolute top-0 z-10 w-full h-1/2 bg-gradient-to-b from-gray-900"/>
+                  <div className="absolute top-0 z-10 w-full h-1/5 bg-gradient-to-b from-gray-900"/>
                   <div className="absolute bottom-0 z-10 w-full h-1/2 bg-gradient-to-t from-gray-900"/>
                   <div className="absolute top-0 left-0 z-10 w-1/2 h-full bg-gradient-to-r from-gray-900"/>
                   <div className="absolute top-0 right-0 z-10 w-1/2 h-full bg-gradient-to-l from-gray-900"/>
