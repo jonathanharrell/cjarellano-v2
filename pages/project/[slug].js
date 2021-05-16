@@ -18,12 +18,12 @@ class Project extends Component {
     } = this.props.project.default;
 
     return (
-      <main className="mt-32 mb-20">
+      <main className="mt-20 lg:mt-32 mb-20">
         <div className="container">
-          <div className="max-w-6xl mx-auto">
+          <div className="2xl:max-w-6xl mx-auto">
             <article>
               <div className="grid gap-y-8 lg:gap-16 grid-cols-1 lg:grid-cols-12 pb-6">
-                <div className="lg:order-1 lg:col-span-5 relative">
+                <div className="lg:order-1 lg:col-span-6 xl:col-span-5 relative">
                   <figure className="relative lg:h-full overflow-hidden rounded-lg" style={{ padding: "35% 0" }}>
                     <img src={image} alt="" className="absolute inset-0 w-full h-full object-cover"/>
                   </figure>
@@ -33,7 +33,7 @@ class Project extends Component {
                     </div>
                   )}
                 </div>
-                <div className="lg:col-span-7 relative z-10">
+                <div className="lg:col-span-6 xl:col-span-7 relative z-10">
                   <header className="mb-8">
                     {categories.length && (
                       <ul className="flex mb-4">
