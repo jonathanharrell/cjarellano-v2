@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import ProjectTeaser from "../../components/project-teaser";
 import { getProjectsByCategory } from "../../api/index";
 
 class Category extends Component {
@@ -8,7 +9,7 @@ class Category extends Component {
     let projects = [];
 
     if (category) {
-      projects = await getProjectsByCategory(category.default.attributes.action)
+      projects = await getProjectsByCategory(category.default.attributes.action);
     }
 
     return { category, projects };
@@ -16,22 +17,40 @@ class Category extends Component {
 
   render() {
     if (!this.props.category) return <div>not found</div>;
-    const { attributes: { title } } = this.props.category.default;
+    const { attributes: { title, action, featured_image } } = this.props.category.default;
 
     return (
-      <div className="container">
-        <div className="max-w-6xl mx-auto">
-          <h1 className="text-3xl text-center">{title}</h1>
-          <div className="grid gap-12 grid-cols-3">
-            {this.props.projects.map(project => (
-              <a key={project.slug} href={`/project/${project.slug}`} className="block">
-                <img src={project.image} alt="" className="w-full"/>
-                {project.title}
-              </a>
-            ))}
+      <main className="mb-20">
+        <header className="relative mb-6 md:mb-12" style={{ minHeight: "350px", padding: "15% 0" }}>
+          <figure className="absolute inset-0 w-full h-full">
+            <img src={featured_image} alt="" className="absolute inset-0 w-full h-full object-cover"/>
+            <div className="absolute top-0 z-10 w-full h-1/2 bg-gradient-to-b from-gray-900 group-hover:opacity-0 transition-opacity ease-out duration-300"/>
+            <div className="absolute bottom-0 z-10 w-full h-3/4 bg-gradient-to-t from-gray-900 group-hover:opacity-0 transition-opacity ease-out duration-300"/>
+          </figure>
+          <div className="absolute inset-0 z-10 w-full h-full">
+            <div className="container h-full">
+              <div className="flex flex-col items-start justify-center max-w-6xl h-full mx-auto">
+                <div className="max-w-sm sm:max-w-lg lg:max-w-xl pt-12">
+                <h1 className="mb-4 text-shadow text-xl md:text-2xl font-semibold">{title}</h1>
+                <p className="text-shadow text-4xl md:text-5xl lg:text-6xl font-semibold">A clever headline can go here</p>
+                <button className="mt-6 py-3 px-6 rounded-full bg-white font-bold text-gray-900">
+                  Watch reel
+                </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </header>
+        <div className="container">
+          <div className="max-w-6xl mx-auto">
+            <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+              {this.props.projects.map(project => (
+                <ProjectTeaser key={project.slug} project={project}/>
+              ))}
+            </div>
           </div>
         </div>
-      </div>
+      </main>
     );
   }
 }
