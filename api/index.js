@@ -43,3 +43,33 @@ export async function getProjectsByCategory(category) {
   }
   return projects;
 }
+
+export async function getRelatedProjects(project) {
+  const context = require.context("../content/projects", false, /\.md$/);
+  const relatedProjects = [];
+  const categories = project.default.attributes.categories;
+  const projectTitle = project.default.attributes.title;
+
+  for (const key of context.keys()) {
+    const project = key.slice(2);
+    const { default: { attributes } } = await import(`../content/projects/${project}`);
+
+    let hasCategory = false;
+    for (const category of attributes.categories) {
+      if (categories.includes(category)) hasCategory = true;
+    }
+
+    if (hasCategory && attributes.title !== projectTitle) {
+      relatedProjects.push({
+        slug: project.replace(".md", ""),
+        title: attributes.title,
+        date: attributes.date,
+        description: attributes.description,
+        type: attributes.type,
+        image: attributes.image,
+        categories: attributes.categories
+      });
+    }
+  }
+  return relatedProjects;
+}
