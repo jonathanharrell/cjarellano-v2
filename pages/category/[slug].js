@@ -5,7 +5,12 @@ class Category extends Component {
   static async getInitialProps({ query }) {
     const { slug } = query;
     const category = await import(`../../content/categories/${slug}.md`).catch(error => null);
-    const projects = await getProjectsByCategory(category.default.attributes.action)
+    let projects = [];
+
+    if (category) {
+      projects = await getProjectsByCategory(category.default.attributes.action)
+    }
+
     return { category, projects };
   }
 
