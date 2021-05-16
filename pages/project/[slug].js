@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Video from "../../components/video";
 
-class Post extends Component {
+class Project extends Component {
   static async getInitialProps({ query }) {
     const { slug } = query;
     const project = await import(`../../content/projects/${slug}.md`).catch(error => null);
@@ -90,4 +90,4 @@ class Post extends Component {
   }
 }
 
-export default Post;
+export default Project;
