@@ -3,7 +3,7 @@ import Link from "next/link";
 
 function Header() {
   return (
-    <header className="py-8">
+    <header className="py-6">
       <div className="container">
         <div className="max-w-6xl mx-auto">
           <div className="flex justify-between">

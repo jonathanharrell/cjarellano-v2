@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import ReactMarkdown from "react-markdown";
 import Video from "../../components/video";
 
 class Project extends Component {
@@ -12,7 +13,7 @@ class Project extends Component {
     if (!this.props.project) return <div>not found</div>;
 
     const {
-      attributes: { title, description, categories, type, image, video, quotes, awards },
+      attributes: { title, description, categories, type, image, video, quotes, awards, excerpt },
       html
     } = this.props.project.default;
 
@@ -20,9 +21,9 @@ class Project extends Component {
       <div className="container">
         <div className="max-w-6xl mx-auto">
           <article>
-            <div className="grid gap-y-8 lg:gap-16 grid-cols-1 lg:grid-cols-12 pt-12 pb-6">
+            <div className="grid gap-y-8 lg:gap-16 grid-cols-1 lg:grid-cols-12 pt-8 pb-6">
               <div className="lg:order-1 lg:col-start-6 lg:col-end-13 lg:row-start-1 relative">
-                <figure className="relative" style={{ padding: "35% 0" }}>
+                <figure className="relative lg:h-full" style={{ padding: "27.5% 0" }}>
                   <img src={image} alt="" className="absolute inset-0 w-full h-full object-cover"/>
                   <div className="absolute top-0 z-10 w-full h-1/5 bg-gradient-to-b from-gray-900"/>
                   <div className="absolute bottom-0 z-10 w-full h-1/2 bg-gradient-to-t from-gray-900"/>
@@ -51,16 +52,16 @@ class Project extends Component {
               </div>
             </div>
             {awards && (
-              <section className="mt-2 mb-16">
+              <section className="mb-16">
                 <h2 className="sr-only">Awards</h2>
-                <ul className="flex flex-wrap lg:flex-nowrap lg:overflow-auto pb-2" style={{scrollSnapType: "x mandatory"}}>
+                <ul className="flex flex-wrap items-center justify-center pb-2" style={{scrollSnapType: "x mandatory"}}>
                   {awards.map((award, index) => (
-                    <li key={index} className="flex-grow-0 flex-shrink-0 w-full sm:w-1/2 lg:w-1/3" style={{scrollSnapAlign: "start"}}>
-                      <div className="flex flex-col justify-center relative p-4 xs:p-6 md:p-4 text-center">
-                        <img src="/images/olive-leaves.svg" alt="" className="opacity-30"/>
-                        <div className="flex flex-col items-center justify-center absolute inset-0 w-full h-full p-20">
+                    <li key={index} className="flex-grow-0 flex-shrink-0 w-full max-w-sm md:max-w-auto sm:w-1/2 lg:w-1/3 xl:w-1/4" style={{scrollSnapAlign: "start"}}>
+                      <div className="flex flex-col justify-center relative p-4 sm:p-6 md:p-4 text-center">
+                        <img src="/images/olive-leaves.svg" alt="" className="opacity-20"/>
+                        <div className="flex flex-col items-center justify-center absolute inset-0 w-full h-full p-20 lg:p-16">
                           <h3 className="mb-2 leading-tight font-semibold">{award.title}</h3>
-                          <p className="font-medium dark:text-gray-400">{award.source}</p>
+                          <p className="text-sm font-medium dark:text-gray-400">{award.source}</p>
                         </div>
                       </div>
                     </li>
@@ -82,6 +83,9 @@ class Project extends Component {
                   ))}
                 </div>
               </section>
+            )}
+            {excerpt && (
+              <ReactMarkdown>{excerpt}</ReactMarkdown>
             )}
           </article>
         </div>
