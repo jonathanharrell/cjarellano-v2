@@ -5,7 +5,7 @@ function Header() {
   return (
     <header className="absolute top-0 left-0 w-full z-20 py-6">
       <div className="container">
-        <div className="max-w-6xl mx-auto">
+        <div className="max-w-8xl mx-auto">
           <div className="flex justify-between">
             <Link href="/">
               <a className="font-medium">CJ Arellano</a>

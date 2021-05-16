@@ -21,7 +21,7 @@ class Category extends Component {
 
     return (
       <main className="mb-20">
-        <header className="relative mb-6 md:mb-12" style={{ minHeight: "350px", padding: "15% 0" }}>
+        <header className="relative mb-6 md:mb-12" style={{ height: "450px" }}>
           <figure className="absolute inset-0 w-full h-full">
             <img src={featured_image} alt="" className="absolute inset-0 w-full h-full object-cover"/>
             <div className="absolute top-0 z-10 w-full h-1/2 bg-gradient-to-b from-gray-900 group-hover:opacity-0 transition-opacity ease-out duration-300"/>

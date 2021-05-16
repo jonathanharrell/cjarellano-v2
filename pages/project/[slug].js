@@ -18,18 +18,14 @@ class Project extends Component {
     } = this.props.project.default;
 
     return (
-      <main className="mb-20">
+      <main className="mt-32 mb-20">
         <div className="container">
           <div className="max-w-6xl mx-auto">
             <article>
               <div className="grid gap-y-8 lg:gap-16 grid-cols-1 lg:grid-cols-12 pb-6">
-                <div className="lg:order-1 lg:col-start-6 lg:col-end-13 lg:row-start-1 relative">
-                  <figure className="relative lg:h-full xl:-mr-32" style={{ padding: "40% 0" }}>
+                <div className="lg:order-1 lg:col-span-5 relative">
+                  <figure className="relative lg:h-full overflow-hidden rounded-lg" style={{ padding: "35% 0" }}>
                     <img src={image} alt="" className="absolute inset-0 w-full h-full object-cover"/>
-                    <div className="absolute top-0 z-10 w-full h-1/2 bg-gradient-to-b from-gray-900"/>
-                    <div className="absolute bottom-0 z-10 w-full h-1/2 bg-gradient-to-t from-gray-900"/>
-                    <div className="absolute top-0 left-0 z-10 w-1/2 h-full bg-gradient-to-r from-gray-900"/>
-                    <div className="absolute top-0 right-0 z-10 w-1/2 h-full bg-gradient-to-l from-gray-900"/>
                   </figure>
                   {video && (
                     <div className="absolute top-1/2 left-1/2 z-20 transform -translate-y-1/2 -translate-x-1/2">
@@ -37,8 +33,8 @@ class Project extends Component {
                     </div>
                   )}
                 </div>
-                <div className="lg:col-start-1 lg:col-end-8 lg:row-start-1 relative z-10">
-                  <header className="lg:mt-28 mb-8">
+                <div className="lg:col-span-7 relative z-10">
+                  <header className="mb-8">
                     {categories.length && (
                       <ul className="flex mb-4">
                         {categories.map(category => (
@@ -53,7 +49,7 @@ class Project extends Component {
                 </div>
               </div>
               {awards && (
-                <section className="mb-16">
+                <section className="mt-4 mb-16">
                   <h2 className="sr-only">Awards</h2>
                   <ul className="flex flex-wrap pb-2" style={{ scrollSnapType: "x mandatory" }}>
                     {awards.map((award, index) => (
