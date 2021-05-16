@@ -43,8 +43,8 @@ collections:
         name: "awards"
         widget: "list"
         fields:
-          - { label: "Title", name: "title", widget: "string" }
           - { label: "Source", name: "source", widget: "string" }
+          - { label: "Title", name: "title", widget: "string" }
           - { label: "Link", name: "link", widget: "string", required: false }
       - { label: "Excerpt", name: "excerpt", widget: "markdown" }
   - name: "pages"
