@@ -1,5 +1,6 @@
 const fs = require("fs");
 const projectsFolder = "./content/projects";
+const categoriesFolder = "./content/categories";
 
 const getPathsForProjects = () => {
   return fs
@@ -9,6 +10,25 @@ const getPathsForProjects = () => {
       return {
         [`/project/${trimmedName}`]: {
           page: "/project/[slug]",
+          query: {
+            slug: trimmedName
+          }
+        }
+      };
+    })
+    .reduce((acc, curr) => {
+      return { ...acc, ...curr };
+    }, {});
+};
+
+const getPathsForCategores = () => {
+  return fs
+    .readdirSync(categoriesFolder)
+    .map(categoryName => {
+      const trimmedName = categoryName.substring(0, categoryName.length - 3);
+      return {
+        [`/category/${trimmedName}`]: {
+          page: "/category/[slug]",
           query: {
             slug: trimmedName
           }
@@ -31,7 +51,8 @@ module.exports = {
   async exportPathMap(defaultPathMap) {
     return {
       ...defaultPathMap,
-      ...getPathsForProjects()
+      ...getPathsForProjects(),
+      ...getPathsForCategores()
     };
   }
 };

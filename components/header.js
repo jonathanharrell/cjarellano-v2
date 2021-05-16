@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 
 function Header() {
   return (
@@ -6,17 +7,25 @@ function Header() {
       <div className="container">
         <div className="max-w-6xl mx-auto">
           <div className="flex justify-between">
-            <a href="" className="font-medium">CJ Arellano</a>
+            <Link href="/">
+              <a className="font-medium">CJ Arellano</a>
+            </Link>
             <nav>
               <ul className="flex">
                 <li className="mr-6">
-                  <a href="" className="font-medium">Writer</a>
+                  <Link href="/category/writer">
+                    <a className="font-medium">Writer</a>
+                  </Link>
                 </li>
                 <li className="mr-6">
-                  <a href="" className="font-medium">Director</a>
+                  <Link href="/category/director">
+                    <a href="" className="font-medium">Director</a>
+                  </Link>
                 </li>
                 <li className="mr-6">
-                  <a href="" className="font-medium">Editor</a>
+                  <Link href="/category/editor">
+                    <a href="" className="font-medium">Editor</a>
+                  </Link>
                 </li>
                 <li className="mr-6">
                   <a href="" className="font-medium">About</a>

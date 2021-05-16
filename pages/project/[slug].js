@@ -40,7 +40,7 @@ class Post extends Component {
                   {categories.length && (
                     <ul className="flex mb-4">
                       {categories.map(category => (
-                        <li key={category} className="mr-2 py-0.5 px-3 rounded-full bg-gray-700 text-sm font-medium text-gray-300">{category}</li>
+                        <li key={category} className="mr-2 py-0.5 px-3 rounded-full bg-gray-700 text-sm font-medium capitalize text-gray-300">{category}</li>
                       ))}
                     </ul>
                   )}
