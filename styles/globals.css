@@ -62,13 +62,17 @@ html {
   @apply bg-black;
 }
 
+body {
+  @apply min-h-screen bg-gray-900 text-white;
+}
+
 a,
 button,
 input,
 textarea,
 select {
-  /*@apply focus:outline-none focus-visible:ring-2 focus-visible:ring-pink-400;*/
-  @apply focus:outline-none focus:ring-2 ring-pink-400;
+  /*@apply focus:outline-none focus-visible:ring-2 focus-visible:ring-magenta-400;*/
+  @apply focus:outline-none focus:ring-2 ring-magenta;
 }
 
 .prose {

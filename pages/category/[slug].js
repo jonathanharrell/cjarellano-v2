@@ -1,7 +1,118 @@
-import React, { Component } from "react";
+import React, { Component, useEffect, useState } from "react";
+import { useViewportScroll, motion, useMotionValue, AnimatePresence } from "framer-motion";
+import { PlayIcon } from "@heroicons/react/solid";
 import ProjectTeaser from "../../components/project-teaser";
-import { getAllCategories, getProjectsByCategory } from "../../api/index";
 import CategoryTeaser from "../../components/category-teaser";
+import Video from "../../components/video";
+import { getAllCategories, getProjectsByCategory } from "../../api/index";
+import { getCategoryColor } from "../../helpers";
+
+function CategoryHeader({ category }) {
+  const { attributes: { title, action, image, reels } } = category;
+  const { scrollY } = useViewportScroll();
+  const [textPointerEvents, setTextPointerEvents] = useState("auto");
+  const textOpacity = useMotionValue(1);
+  const imageOpacity = useMotionValue(1);
+  const imageScale = useMotionValue(1);
+
+  useEffect(() => {
+    function updateTextPointerEvents() {
+      const threshold = 250;
+      if (scrollY.current <= threshold) return setTextPointerEvents("auto");
+      return setTextPointerEvents("none");
+    }
+
+    function updateTextOpacity() {
+      const threshold = 250;
+      if (scrollY.current === 0) return textOpacity.set(1);
+      if (scrollY.current > threshold) return textOpacity.set(0);
+      return textOpacity.set(1 - (scrollY.current / threshold));
+    }
+
+    function updateImageOpacity() {
+      const threshold = 450;
+      if (scrollY.current === 0) return imageOpacity.set(1);
+      if (scrollY.current > threshold) return imageOpacity.set(0);
+      return imageOpacity.set(1 - (scrollY.current / threshold));
+    }
+
+    function updateImageScale() {
+      const threshold = 450;
+      if (scrollY.current === 0) return imageScale.set(1);
+      if (scrollY.current > threshold) return imageScale.set(1.5);
+      return imageScale.set(1 + (scrollY.current / threshold));
+    }
+
+    const unsubscribeTextPointerEvents = scrollY.onChange(updateTextPointerEvents);
+    const unsubscribeTextOpacity = scrollY.onChange(updateTextOpacity);
+    const unsubscribeImageOpacity = scrollY.onChange(updateImageOpacity);
+    const unsubscribeImageScale = scrollY.onChange(updateImageScale);
+
+    return () => {
+      unsubscribeTextPointerEvents();
+      unsubscribeTextOpacity();
+      unsubscribeImageOpacity();
+      unsubscribeImageScale();
+    };
+  }, []);
+
+  return (
+    <header className="sticky top-0 mb-6 md:mb-12" style={{ height: "450px" }}>
+      <motion.div
+        className="h-full transition-all ease-out duration-fast"
+        style={{ scale: imageScale, opacity: imageOpacity }}
+      >
+        <figure className="absolute inset-0 w-full h-full">
+          <img src={image} alt="" className="absolute inset-0 w-full h-full object-cover"/>
+          <div className="absolute top-0 z-10 w-full h-1/2 bg-gradient-to-b from-gray-900"/>
+          <div className="absolute bottom-0 z-10 w-full h-3/4 bg-gradient-to-t from-gray-900"/>
+          {/*<span className={`absolute right-0 bottom-0 z-10 mix-blend-multiply font-bold text-${getCategoryColor(action)}`} aria-hidden="true" style={{fontSize: "300px"}}>*/}
+          {/*  {action}*/}
+          {/*</span>*/}
+        </figure>
+      </motion.div>
+      <motion.div
+        className="h-full transition-opacity ease-out duration-fast"
+        style={{ opacity: textOpacity, pointerEvents: textPointerEvents }}
+      >
+        <div className="absolute inset-0 z-10 w-full h-full">
+          <div className="container h-full">
+            <div className="flex flex-col items-start justify-center 2xl:max-w-6xl h-full mx-auto">
+              <div className="max-w-sm sm:max-w-lg lg:max-w-lg pt-12">
+                <h1 className="mb-4 text-shadow text-xl md:text-2xl font-semibold">
+                  {title}
+                </h1>
+                <p className="text-shadow text-4xl md:text-5xl lg:text-6xl font-bold">
+                  A clever headline can go here
+                </p>
+                {(reels && reels.length) && (
+                  <div className="mt-6">
+                    {reels.map(reel => (
+                      <Video
+                        key={reel.title}
+                        url={reel.video}
+                        PlayButton={({ isOpen, setIsOpen }) => (
+                          <button
+                            className="inline-flex items-center mr-4 mb-3 py-3 pl-4 pr-6 rounded-full border-2 border-white hover:bg-white font-semibold text-white hover:text-gray-900 transform hover:scale-105 transition-all ease-out duration-fast"
+                            title="Play reel"
+                            onClick={() => setIsOpen(!isOpen)}
+                          >
+                            <PlayIcon className={`w-5 h-5 mr-1 text-${getCategoryColor(action)}`}/>
+                            {reel.title}
+                          </button>
+                        )}
+                      />
+                    ))}
+                  </div>
+                )}
+              </div>
+            </div>
+          </div>
+        </div>
+      </motion.div>
+    </header>
+  );
+}
 
 class Category extends Component {
   static async getInitialProps({ query }) {
@@ -22,75 +133,57 @@ class Category extends Component {
 
   render() {
     if (!this.props.category) return <div>not found</div>;
-    const { attributes: { title, action, image } } = this.props.category.default;
 
     const categories = this.props.categories
       .filter(category => category.title !== this.props.category.attributes.title);
 
     return (
-      <main className="mb-20">
-        <header className="relative mb-6 md:mb-12" style={{ height: "450px" }}>
-          <figure className="absolute inset-0 w-full h-full">
-            <img src={image} alt="" className="absolute inset-0 w-full h-full object-cover"/>
-            <div className="absolute top-0 z-10 w-full h-1/2 bg-gradient-to-b from-gray-900"/>
-            <div className="absolute bottom-0 z-10 w-full h-3/4 bg-gradient-to-t from-gray-900"/>
-          </figure>
-          <div className="absolute inset-0 z-10 w-full h-full">
-            <div className="container h-full">
-              <div className="flex flex-col items-start justify-center 2xl:max-w-6xl h-full mx-auto">
-                <div className="max-w-sm sm:max-w-lg lg:max-w-xl pt-12">
-                  <h1 className="mb-4 text-shadow text-xl md:text-2xl font-semibold">{title}</h1>
-                  <p className="text-shadow text-4xl md:text-5xl lg:text-6xl font-semibold">A clever headline can go here</p>
-                  <button className="mt-6 py-3 px-6 rounded-full bg-white font-bold text-gray-900">
-                    Watch reel
-                  </button>
-                </div>
-              </div>
-            </div>
-          </div>
-        </header>
-        <section>
-          <div className="container">
-            <div className="2xl:max-w-6xl mx-auto">
-              <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
-                {this.props.projects.map(project => (
-                  <ProjectTeaser key={project.slug} project={project}/>
-                ))}
-              </div>
-            </div>
-          </div>
-        </section>
-        {(categories && categories.length > 0) && (
-          <section className="my-24 lg:my-32">
+      <main className="pb-20">
+        <CategoryHeader category={this.props.category.default}/>
+        <div className="z-10">
+          <section>
             <div className="container">
               <div className="2xl:max-w-6xl mx-auto">
-                <header className="mb-8">
-                  <h2 className="text-2xl font-semibold">More from CJ</h2>
-                </header>
                 <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
-                  {categories.map(category => (
-                    <div key={category.slug}>
-                      <CategoryTeaser category={category}/>
-                    </div>
+                  {this.props.projects.map(project => (
+                    <ProjectTeaser key={project.slug} project={project}/>
                   ))}
-                  <div>
-                    <a href="/about" className="block relative overflow-hidden rounded-lg shadow-xl hover:shadow-2xl transform lg:hover:scale-110 transition-all ease-out duration-300 group" style={{ padding: "35% 0" }}>
-                      <figure className="absolute inset-0 w-full h-full">
-                        <img src="/static/img/cjarellano.png" alt="" className="absolute inset-0 w-full h-full object-cover"/>
-                        <div className="absolute bottom-0 z-10 w-full h-3/4 bg-gradient-to-t from-gray-900"/>
-                      </figure>
-                      <div className="flex items-center justify-center absolute inset-0 z-10 w-full h-full p-6 pb-8">
-                        <h2 className="text-xl leading-tight font-semibold tracking-wide capitalize">
-                          About
-                        </h2>
-                      </div>
-                    </a>
-                  </div>
                 </div>
               </div>
             </div>
           </section>
-        )}
+          {(categories && categories.length > 0) && (
+            <section className="my-24 lg:my-32">
+              <div className="container">
+                <div className="2xl:max-w-6xl mx-auto">
+                  <header className="mb-8">
+                    <h2 className="text-2xl font-semibold">More from CJ</h2>
+                  </header>
+                  <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+                    {categories.map(category => (
+                      <div key={category.slug}>
+                        <CategoryTeaser category={category}/>
+                      </div>
+                    ))}
+                    <div>
+                      <a href="/about" className="block relative overflow-hidden rounded-lg shadow-xl hover:shadow-2xl transform lg:hover:scale-110 transition-all ease-out duration-300 group" style={{ padding: "35% 0" }}>
+                        <figure className="absolute inset-0 w-full h-full">
+                          <img src="/static/img/cjarellano.png" alt="" className="absolute inset-0 w-full h-full object-cover"/>
+                          <div className="absolute bottom-0 z-10 w-full h-3/4 bg-gradient-to-t from-gray-900"/>
+                        </figure>
+                        <div className="flex items-center justify-center absolute inset-0 z-10 w-full h-full p-6 pb-8">
+                          <h2 className="text-xl leading-tight font-semibold tracking-wide capitalize">
+                            About
+                          </h2>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+          )}
+        </div>
       </main>
     );
   }

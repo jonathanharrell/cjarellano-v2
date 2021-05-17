@@ -10,7 +10,18 @@ module.exports = {
       black: colors.black,
       white: colors.white,
       gray: colors.trueGray,
-      pink: colors.pink
+      magenta: {
+        DEFAULT: "#f0f"
+      },
+      cyan: {
+        DEFAULT: "#0ff"
+      },
+      yellow: {
+        DEFAULT: "#f8e61b"
+      },
+      red: {
+        DEFAULT: "#DC2626"
+      }
     },
     container: {
       center: true,

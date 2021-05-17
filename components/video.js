@@ -53,21 +53,14 @@ const VideoPlayer = ({ isOpen, setIsOpen, url }) => (
   </Transition>
 );
 
-function Video({ url }) {
+function Video({ url, PlayButton }) {
   if (!url) throw new Error("Element does not contain a url url!");
 
   const [isOpen, setIsOpen] = useState(false);
 
   return (
     <>
-      <button
-        className="rounded-full group"
-        title="Play video"
-        onClick={() => setIsOpen(!isOpen)}
-      >
-        <span className="sr-only">Play video</span>
-        <PlayIcon className="w-16 h-16 filter drop-shadow-lg text-white transform hover:scale-105 transition-transform ease-in-out duration-fast"/>
-      </button>
+      {PlayButton && <PlayButton isOpen={isOpen} setIsOpen={setIsOpen}/>}
       <VideoPlayer isOpen={isOpen} setIsOpen={setIsOpen} url={url}/>
     </>
   );

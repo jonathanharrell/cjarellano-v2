@@ -4,6 +4,8 @@ import Video from "../../components/video";
 import Award from "../../components/award";
 import ProjectTeaser from "../../components/project-teaser";
 import { getRelatedProjects } from "../../api";
+import { PlayIcon } from "@heroicons/react/solid";
+import { getCategoryColor } from "../../helpers";
 
 class Project extends Component {
   static async getInitialProps({ query }) {
@@ -28,7 +30,7 @@ class Project extends Component {
     } = this.props.project.default;
 
     return (
-      <main className="mt-20 lg:mt-32 mb-20">
+      <main className="pt-20 lg:pt-32 pb-20">
         <div className="container">
           <div className="2xl:max-w-6xl mx-auto">
             <article>
@@ -39,7 +41,16 @@ class Project extends Component {
                   </figure>
                   {video && (
                     <div className="absolute top-1/2 left-1/2 z-20 transform -translate-y-1/2 -translate-x-1/2">
-                      <Video url={video}/>
+                      <Video url={video} PlayButton={({ isOpen, setIsOpen }) => (
+                        <button
+                          className="rounded-full group"
+                          title="Play video"
+                          onClick={() => setIsOpen(!isOpen)}
+                        >
+                          <span className="sr-only">Play video</span>
+                          <PlayIcon className="w-16 h-16 filter drop-shadow-lg text-white transform hover:scale-105 transition-transform ease-in-out duration-fast"/>
+                        </button>
+                      )}/>
                     </div>
                   )}
                 </div>
@@ -48,12 +59,15 @@ class Project extends Component {
                     {categories.length && (
                       <ul className="flex mb-4">
                         {categories.map(category => (
-                          <li key={category} className="mr-2 py-0.5 px-3 rounded-full bg-gray-700 text-sm font-medium capitalize text-gray-300">{category}</li>
+                          <li key={category} className="flex items-center mr-2 py-1 pl-2 pr-3 rounded-full bg-gray-700 text-xs font-semibold tracking-wide capitalize text-gray-300">
+                            <span className={`block w-2 h-2 mr-1.5 rounded-full bg-${getCategoryColor(category)}`}/>
+                            {category}
+                          </li>
                         ))}
                       </ul>
                     )}
                     <h1 className="text-5xl font-bold leading-none">{title}</h1>
-                    <p className="mt-3 font-semibold text-gray-400">{type}</p>
+                    <p className="mt-3 font-semibold tracking-wide text-gray-400">{type}</p>
                   </header>
                   <div dangerouslySetInnerHTML={{ __html: html }} className="project-content text-lg leading-relaxed text-gray-400"/>
                 </div>

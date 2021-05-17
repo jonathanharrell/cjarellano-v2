@@ -4,8 +4,8 @@ action: directing
 image: /static/img/gina-color.jpg
 public: true
 reels:
-  - title: Directing reel - narrative
+  - title: Narrative reel
     video: https://vimeo.com/129045582
-  - title: Directing reel - branded content
+  - title: Branded content reel
     video: https://vimeo.com/488754015
 ---
