@@ -9,7 +9,13 @@ class Project extends Component {
   static async getInitialProps({ query }) {
     const { slug } = query;
     const project = await import(`../../content/projects/${slug}.md`).catch(error => null);
-    const relatedProjects = await getRelatedProjects(project);
+
+    let relatedProjects = [];
+
+    if (project) {
+      relatedProjects = await getRelatedProjects(project);
+    }
+
     return { project, relatedProjects };
   }
 
@@ -20,7 +26,6 @@ class Project extends Component {
       attributes: { title, description, categories, type, image, video, quotes, awards, excerpt },
       html
     } = this.props.project.default;
-    const { relatedProjects } = this.props;
 
     return (
       <main className="mt-20 lg:mt-32 mb-20">
@@ -90,13 +95,13 @@ class Project extends Component {
                 </section>
               )}
             </article>
-            {(relatedProjects && relatedProjects.length > 0) && (
+            {(this.props.relatedProjects.length > 0) && (
               <section className="my-24 lg:my-32">
                 <header className="mb-8">
                   <h2 className="text-2xl font-semibold">Related projects</h2>
                 </header>
                 <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
-                  {relatedProjects.slice(0, 3).map(project => (
+                  {this.props.relatedProjects.slice(0, 3).map(project => (
                     <ProjectTeaser key={project.slug} project={project}/>
                   ))}
                 </div>
