@@ -15,6 +15,12 @@ collections:
       - { label: "Action", name: "action", widget: "string" }
       - { label: "Image", name: "image", widget: "image" }
       - { label: "Public", name: "public", widget: "boolean", default: true }
+      - label: "Reels",
+        name: "reels"
+        widget: "list"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Video", name: "video", widget: "string" }
   - name: "projects"
     label: "Projects"
     folder: content/projects
