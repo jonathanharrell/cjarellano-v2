@@ -58,19 +58,21 @@ function CategoryHeader({ category }) {
 
   return (
     <header className="sticky top-0 mb-6 md:mb-12" style={{ height: "450px" }}>
-      <motion.div
-        className="h-full transition-all ease-out duration-fast"
-        style={{ scale: imageScale, opacity: imageOpacity }}
-      >
-        <figure className="absolute inset-0 w-full h-full overflow-hidden">
-          <img src={image} alt="" className="absolute inset-0 w-full h-full object-cover"/>
-          <div className="absolute top-0 z-10 w-full h-1/2 bg-gradient-to-b from-gray-900"/>
-          <div className="absolute bottom-0 z-10 w-full h-3/4 bg-gradient-to-t from-gray-900"/>
-          {/*<span className={`absolute right-0 bottom-0 z-10 mix-blend-multiply font-bold text-${getCategoryColor(action)}`} aria-hidden="true" style={{fontSize: "300px"}}>*/}
-          {/*  {action}*/}
-          {/*</span>*/}
-        </figure>
-      </motion.div>
+      <div className="h-full overflow-hidden">
+        <motion.div
+          className="h-full transition-all ease-out duration-fast"
+          style={{ scale: imageScale, opacity: imageOpacity }}
+        >
+          <figure className="absolute inset-0 w-full h-full">
+            <img src={image} alt="" className="absolute inset-0 w-full h-full object-cover"/>
+            <div className="absolute top-0 z-10 w-full h-1/2 bg-gradient-to-b from-gray-900"/>
+            <div className="absolute bottom-0 z-10 w-full h-3/4 bg-gradient-to-t from-gray-900"/>
+            {/*<span className={`absolute right-0 bottom-0 z-10 mix-blend-multiply font-bold text-${getCategoryColor(action)}`} aria-hidden="true" style={{fontSize: "300px"}}>*/}
+            {/*  {action}*/}
+            {/*</span>*/}
+          </figure>
+        </motion.div>
+      </div>
       <motion.div
         className="h-full transition-opacity ease-out duration-fast"
         style={{ opacity: textOpacity, pointerEvents: textPointerEvents }}
