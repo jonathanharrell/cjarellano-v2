@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import { MailIcon } from "@heroicons/react/solid";
 
 function Header() {
   return (
@@ -12,26 +13,33 @@ function Header() {
             </Link>
             <nav className="hidden md:block">
               <ul className="flex">
-                <li className="mr-6">
+                <li className="mr-8">
                   <Link href="/category/writer">
                     <a className="font-medium">Writer</a>
                   </Link>
                 </li>
-                <li className="mr-6">
+                <li className="mr-8">
                   <Link href="/category/director">
                     <a href="" className="font-medium">Director</a>
                   </Link>
                 </li>
-                <li className="mr-6">
+                <li className="mr-8">
                   <Link href="/category/editor">
                     <a href="" className="font-medium">Editor</a>
                   </Link>
                 </li>
-                <li className="mr-6">
+                <li className="mr-8">
                   <a href="" className="font-medium">About</a>
                 </li>
                 <li>
-                  <a href="" className="font-medium">Contact</a>
+                  <a
+                    href="mailto:cj@cjarellano.com"
+                    title="Email CJ"
+                    className="font-medium"
+                  >
+                    <span className="sr-only">Email CJ</span>
+                    <MailIcon className="w-5 h-5"/>
+                  </a>
                 </li>
               </ul>
             </nav>

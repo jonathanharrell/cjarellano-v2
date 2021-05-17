@@ -1,4 +1,23 @@
-import matter from "gray-matter";
+export async function getAllCategories() {
+  const context = require.context("../content/categories", false, /\.md$/);
+  const categories = [];
+
+  for (const key of context.keys()) {
+    const category = key.slice(2);
+    const { default: { attributes } } = await import(`../content/categories/${category}`);
+
+    if (attributes.public) {
+      categories.push({
+        slug: category.replace(".md", ""),
+        title: attributes.title,
+        action: attributes.action,
+        image: attributes.image
+      });
+    }
+  }
+
+  return categories;
+}
 
 export async function getAllProjects() {
   const context = require.context("../content/projects", false, /\.md$/);

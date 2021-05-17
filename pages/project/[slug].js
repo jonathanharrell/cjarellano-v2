@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import ReactMarkdown from "react-markdown";
 import Video from "../../components/video";
+import Award from "../../components/award";
 import ProjectTeaser from "../../components/project-teaser";
 import { getRelatedProjects } from "../../api";
 
@@ -47,24 +48,18 @@ class Project extends Component {
                       </ul>
                     )}
                     <h1 className="text-5xl font-bold leading-none">{title}</h1>
-                    <p className="mt-3 font-semibold dark:text-gray-400">{type}</p>
+                    <p className="mt-3 font-semibold text-gray-400">{type}</p>
                   </header>
-                  <div dangerouslySetInnerHTML={{ __html: html }} className="project-content text-lg leading-relaxed dark:text-gray-400"/>
+                  <div dangerouslySetInnerHTML={{ __html: html }} className="project-content text-lg leading-relaxed text-gray-400"/>
                 </div>
               </div>
               {awards && (
-                <section className="mt-8 mb-16">
+                <section className="mt-8 mb-24 lg:mb-28">
                   <h2 className="sr-only">Awards</h2>
-                  <ul className="flex flex-wrap pb-2" style={{ scrollSnapType: "x mandatory" }}>
+                  <ul className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3" style={{ scrollSnapType: "x mandatory" }}>
                     {awards.map((award, index) => (
-                      <li key={index} className="flex-grow-0 flex-shrink-0 w-full max-w-sm md:max-w-auto sm:w-1/2 lg:w-1/3 xl:w-1/4" style={{ scrollSnapAlign: "start" }}>
-                        <div className="flex flex-col justify-center relative p-4 text-center">
-                          <img src="/images/olive-leaves.svg" alt="" className="opacity-20"/>
-                          <div className="flex flex-col items-center justify-center absolute inset-0 w-full h-full p-20 lg:p-16">
-                            <h3 className="mb-2 leading-tight font-semibold">{award.title}</h3>
-                            <p className="text-sm font-medium dark:text-gray-400">{award.source}</p>
-                          </div>
-                        </div>
+                      <li key={index} style={{ scrollSnapAlign: "start" }}>
+                        <Award award={award}/>
                       </li>
                     ))}
                   </ul>
@@ -75,9 +70,9 @@ class Project extends Component {
                   <h2 className="sr-only">Quotes</h2>
                   <div className="grid gap-8 md:grid-cols-2">
                     {quotes.map((quote, index) => (
-                      <blockquote key={index} className="p-8 border-4 border-gray-800 rounded-xl">
+                      <blockquote key={index} className="p-8 xl:p-10 border-4 border-gray-800 rounded-xl">
                         <p className="mb-2 text-xl leading-relaxed">{quote.text}</p>
-                        <cite className="font-medium dark:text-gray-500">
+                        <cite className="font-medium text-gray-500">
                           {quote.source}
                         </cite>
                       </blockquote>
@@ -87,17 +82,21 @@ class Project extends Component {
               )}
               {excerpt && (
                 <section className="my-20">
-                  <ReactMarkdown>{excerpt}</ReactMarkdown>
+                  <div className="p-8 sm:p-12 xl:py-24 bg-gray-800 rounded-xl shadow-xl">
+                    <div className="max-w-4xl mx-auto prose lg:prose-xl text-gray-400">
+                      <ReactMarkdown>{excerpt}</ReactMarkdown>
+                    </div>
+                  </div>
                 </section>
               )}
             </article>
-            {(relatedProjects && relatedProjects.length) && (
-              <section className="my-20">
+            {(relatedProjects && relatedProjects.length > 0) && (
+              <section className="my-24 lg:my-32">
                 <header className="mb-8">
                   <h2 className="text-2xl font-semibold">Related projects</h2>
                 </header>
                 <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
-                  {relatedProjects.slice(0, 6).map(project => (
+                  {relatedProjects.slice(0, 3).map(project => (
                     <ProjectTeaser key={project.slug} project={project}/>
                   ))}
                 </div>

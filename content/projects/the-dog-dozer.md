@@ -5,7 +5,7 @@ description: Troubled gay couple vs. troubled canine
 type: Short Story
 categories:
   - writing
-image: /static/img/edge.png
+image: /static/img/dog-dozer.jpg
 awards:
   - title: Published in
     source: The CCLaP Weekender

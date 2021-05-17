@@ -1,5 +1,6 @@
 ---
 title: Editor
 action: editing
-featured_image: /static/img/hybrid-color.png
+image: /static/img/hybrid-color.png
+public: true
 ---

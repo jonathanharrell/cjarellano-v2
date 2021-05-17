@@ -13,7 +13,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Action", name: "action", widget: "string" }
-      - { label: "Featured Image", name: "featured_image", widget: "image" }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Public", name: "public", widget: "boolean", default: true }
   - name: "projects"
     label: "Projects"
     folder: content/projects
