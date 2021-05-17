@@ -62,7 +62,7 @@ function CategoryHeader({ category }) {
         className="h-full transition-all ease-out duration-fast"
         style={{ scale: imageScale, opacity: imageOpacity }}
       >
-        <figure className="absolute inset-0 w-full h-full">
+        <figure className="absolute inset-0 w-full h-full overflow-hidden">
           <img src={image} alt="" className="absolute inset-0 w-full h-full object-cover"/>
           <div className="absolute top-0 z-10 w-full h-1/2 bg-gradient-to-b from-gray-900"/>
           <div className="absolute bottom-0 z-10 w-full h-3/4 bg-gradient-to-t from-gray-900"/>
