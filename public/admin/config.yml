@@ -15,7 +15,7 @@ collections:
       - { label: "Action", name: "action", widget: "string" }
       - { label: "Image", name: "image", widget: "image" }
       - { label: "Public", name: "public", widget: "boolean", default: true }
-      - label: "Reels",
+      - label: "Reels"
         name: "reels"
         widget: "list"
         fields:
