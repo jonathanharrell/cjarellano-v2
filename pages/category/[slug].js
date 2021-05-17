@@ -8,7 +8,7 @@ import { getAllCategories, getProjectsByCategory } from "../../api/index";
 import { getCategoryColor } from "../../helpers";
 
 function CategoryHeader({ category }) {
-  const { attributes: { title, action, image, reels } } = category;
+  const { attributes: { title, action, headline, image, reels } } = category;
   const { scrollY } = useViewportScroll();
   const [textPointerEvents, setTextPointerEvents] = useState("auto");
   const textOpacity = useMotionValue(1);
@@ -85,7 +85,7 @@ function CategoryHeader({ category }) {
                   {title}
                 </h1>
                 <p className="text-shadow text-4xl md:text-5xl lg:text-6xl font-bold">
-                  A clever headline can go here
+                  {headline}
                 </p>
                 {(reels && reels.length) && (
                   <div className="mt-6">
@@ -95,7 +95,7 @@ function CategoryHeader({ category }) {
                         url={reel.video}
                         PlayButton={({ isOpen, setIsOpen }) => (
                           <button
-                            className="inline-flex items-center mr-4 mb-3 py-3 pl-4 pr-6 rounded-full border-2 border-white hover:bg-white font-semibold text-white hover:text-gray-900 transform hover:scale-105 transition-all ease-out duration-fast"
+                            className="inline-flex items-center mr-4 mb-3 py-3 pl-4 pr-6 rounded-full border-2 border-white hover:bg-white font-semibold tracking-wide text-white hover:text-gray-900 transform hover:scale-105 transition-all ease-out duration-fast"
                             title="Play reel"
                             onClick={() => setIsOpen(!isOpen)}
                           >

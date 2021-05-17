@@ -76,6 +76,14 @@ select {
 }
 
 .prose {
+  strong {
+    @apply text-current;
+  }
+
+  a {
+    @apply text-current hover:no-underline;
+  }
+
   hr {
     @apply border-gray-700;
   }

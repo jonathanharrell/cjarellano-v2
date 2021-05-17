@@ -1,6 +1,7 @@
 ---
 title: Director
 action: directing
+headline: A clever headline can go here
 image: /static/img/gina-color.jpg
 public: true
 reels:

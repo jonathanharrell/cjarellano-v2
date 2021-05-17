@@ -1,6 +1,7 @@
 ---
 title: Editor
 action: editing
+headline: A clever headline can go here
 image: /static/img/hybrid-color.png
 public: true
 reels:

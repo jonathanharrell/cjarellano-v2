@@ -75,7 +75,7 @@ class Project extends Component {
               {awards && (
                 <section className="mt-8 mb-24 lg:mb-28">
                   <h2 className="sr-only">Awards</h2>
-                  <ul className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3" style={{ scrollSnapType: "x mandatory" }}>
+                  <ul className="grid gap-y-12 gap-x-8 sm:grid-cols-2 lg:grid-cols-3" style={{ scrollSnapType: "x mandatory" }}>
                     {awards.map((award, index) => (
                       <li key={index} style={{ scrollSnapAlign: "start" }}>
                         <Award award={award}/>
@@ -110,7 +110,7 @@ class Project extends Component {
               )}
             </article>
             {(this.props.relatedProjects.length > 0) && (
-              <section className="my-24 lg:my-32">
+              <section className="my-20">
                 <header className="mb-8">
                   <h2 className="text-2xl font-semibold">Related projects</h2>
                 </header>
