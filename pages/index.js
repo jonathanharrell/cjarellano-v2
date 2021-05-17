@@ -69,7 +69,7 @@ export default class Home extends Component {
           {/*  </section>*/}
           {/*)}*/}
           {(recentProjects && recentProjects.length > 0) && (
-            <section className="relative mb-20">
+            <section className="relative z-10 mb-20">
               <div className="container">
                 <div className="2xl:max-w-6xl mx-auto">
                   <header className="mb-8">
