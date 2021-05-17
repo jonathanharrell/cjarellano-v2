@@ -1,6 +1,6 @@
 ---
 title: The Coat Room
-date: 2019-03-17T19:31:20.591Z
+date: 2018-11-14T19:31:20.591Z
 description: She's all dressed down with nowhere to go
 type: Web Series
 image: /static/img/coat-room.jpg

@@ -1,6 +1,6 @@
 ---
 title: Social Media Posts
-date: 2019-03-17T19:31:20.591Z
+date: 2018-08-25T19:31:20.591Z
 description: How C.J. contributes to the incessant chatter
 type: Social Media Posts
 image: /static/img/about-cj.jpg

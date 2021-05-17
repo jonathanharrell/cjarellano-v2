@@ -1,6 +1,6 @@
 ---
 title: Biden for President
-date: 2019-03-17T19:31:20.591Z
+date: 2020-11-13T19:31:20.591Z
 description: Videos for a historic presidential campaign
 type: Political Advertising
 image: /static/img/biden.jpg

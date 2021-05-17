@@ -1,6 +1,6 @@
 ---
 title: Geller High School's Mondo-Secret Crush Committee
-date: 2019-03-17T19:31:20.591Z
+date: 2017-06-08T19:31:20.591Z
 description: Teen rom-com with a heist-y twist
 type: Feature Screenplay
 image: /static/img/geller-high-school.jpg

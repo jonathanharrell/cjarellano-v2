@@ -41,6 +41,7 @@ function Header() {
                   <a
                     href="mailto:cj@cjarellano.com"
                     title="Email CJ"
+                    className="block"
                   >
                     <span className="sr-only">Email CJ</span>
                     <MailIcon className="w-5 h-5"/>

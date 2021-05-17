@@ -1,6 +1,6 @@
 ---
 title: Edge+
-date: 2019-03-17T19:31:20.591Z
+date: 2020-09-27T19:31:20.591Z
 description: This stunning smartphone will leave you shaken and stirred
 type: Brand Videos
 image: /static/img/edge.png

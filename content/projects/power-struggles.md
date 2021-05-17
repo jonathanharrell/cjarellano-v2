@@ -1,6 +1,6 @@
 ---
 title: Power Struggles
-date: 2019-03-17T19:31:20.591Z
+date: 2018-07-27T19:31:20.591Z
 description: PSAs shine light on energy conservation
 type: TV Spots
 image: /static/img/power-struggles.jpg

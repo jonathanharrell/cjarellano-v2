@@ -1,6 +1,6 @@
 ---
 title: Case Unsolved
-date: 2019-03-17T19:31:20.591Z
+date: 2018-08-24T19:31:20.591Z
 description: Boyfriends battle monsters from a cursed TV show
 type: Feature Film
 image: /static/img/case-unsolved.png

@@ -37,7 +37,10 @@ export async function getAllProjects() {
       categories: attributes.categories
     });
   }
-  return projects;
+
+  return projects.sort(function(a, b) {
+    return new Date(b.date) - new Date(a.date);
+  });
 }
 
 export async function getProjectsByCategory(category) {
@@ -60,7 +63,10 @@ export async function getProjectsByCategory(category) {
       });
     }
   }
-  return projects;
+
+  return projects.sort(function(a, b) {
+    return new Date(b.date) - new Date(a.date);
+  });
 }
 
 export async function getRelatedProjects(project) {
@@ -90,5 +96,8 @@ export async function getRelatedProjects(project) {
       });
     }
   }
-  return relatedProjects;
+
+  return relatedProjects.sort(function(a, b) {
+    return new Date(b.date) - new Date(a.date);
+  });
 }

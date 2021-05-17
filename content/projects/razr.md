@@ -1,6 +1,6 @@
 ---
 title: RAZR
-date: 2019-03-17T19:31:20.591Z
+date: 2019-12-31T19:31:20.591Z
 description: A re-imagined icon has arrived
 type: Brand Videos
 image: /static/img/razr.jpg
