@@ -2,6 +2,7 @@ module.exports = {
   plugins: {
     tailwindcss: {},
     autoprefixer: {},
-    "postcss-nested": {},
-  },
-}
+    "postcss-focus-visible": {},
+    "postcss-nested": {}
+  }
+};

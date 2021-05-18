@@ -71,8 +71,7 @@ button,
 input,
 textarea,
 select {
-  /*@apply focus:outline-none focus-visible:ring-2 focus-visible:ring-magenta-400;*/
-  @apply focus:outline-none focus:ring-2 ring-magenta;
+  @apply focus:outline-none focus-visible:ring-2 focus-visible:ring-magenta;
 }
 
 .prose {
@@ -101,4 +100,56 @@ select {
   a {
     @apply underline hover:no-underline;
   }
+}
+
+.nav-link {
+  @apply relative;
+}
+
+.nav-link::before,
+.nav-link::after {
+  @apply absolute top-full left-0 w-full bg-current pointer-events-none;
+}
+
+.nav-link::before {
+  @apply top-0 h-full opacity-0;
+
+  content: "";
+}
+
+.nav-link:hover::before {
+  @apply opacity-100;
+
+  animation: coverUp 0.3s ease forwards;
+}
+
+@keyframes coverUp {
+  0% {
+    transform-origin: 50% 100%;
+    transform: scale3d(1, 0.045, 1);
+  }
+
+  50% {
+    transform-origin: 50% 100%;
+    transform: scale3d(1, 1, 1);
+  }
+
+  51% {
+    transform-origin: 50% 0%;
+    transform: scale3d(1, 1, 1);
+  }
+
+  100% {
+    transform-origin: 50% 0%;
+    transform: scale3d(1, 0.045, 1);
+  }
+}
+
+.nav-link::after {
+  content: "";
+  transition: opacity 0.3s;
+}
+
+.nav-link:hover::after {
+  @apply opacity-0;
 }
