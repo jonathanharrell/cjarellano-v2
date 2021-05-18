@@ -3,7 +3,7 @@ import React from "react";
 function AwardInfo({ award }) {
   return (
     <div className="flex flex-col justify-center relative text-center">
-      <img src="/images/olive-leaves.svg" alt="" className="opacity-20"/>
+      <img src="/img/olive-leaves.svg" alt="" className="opacity-20"/>
       <div className="flex flex-col items-center justify-center absolute inset-0 w-full h-full p-20 lg:p-16 xl:p-20">
         <h3 className="mb-2 xl:text-lg leading-tight font-semibold">
           {award.title}

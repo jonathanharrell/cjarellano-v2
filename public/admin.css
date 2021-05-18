@@ -69,3 +69,15 @@ body {
 .project-content a {
   text-decoration: underline;
 }
+
+.prose strong {
+  color: currentColor;
+}
+
+.prose a {
+  color: currentColor;
+}
+
+.prose hr {
+  border-color: #404040;
+}

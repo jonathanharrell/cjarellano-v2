@@ -4,6 +4,7 @@ import { PlayIcon } from "@heroicons/react/solid";
 import Header from "../../components/header";
 import Video from "../../components/video";
 import Award from "../../components/award";
+import Quote from "../../components/quote";
 import ProjectTeaser from "../../components/project-teaser";
 import { getRelatedProjects } from "../../api";
 
@@ -67,9 +68,9 @@ class Project extends Component {
                 {awards && (
                   <section className="mt-8 mb-24 lg:mb-28">
                     <h2 className="sr-only">Awards</h2>
-                    <ul className="grid gap-y-12 gap-x-8 sm:grid-cols-2 lg:grid-cols-3" style={{ scrollSnapType: "x mandatory" }}>
+                    <ul className="grid gap-y-12 gap-x-8 sm:grid-cols-2 lg:grid-cols-3">
                       {awards.map((award, index) => (
-                        <li key={index} style={{ scrollSnapAlign: "start" }}>
+                        <li key={index}>
                           <Award award={award}/>
                         </li>
                       ))}
@@ -81,12 +82,7 @@ class Project extends Component {
                     <h2 className="sr-only">Quotes</h2>
                     <div className="grid gap-8 md:grid-cols-2">
                       {quotes.map((quote, index) => (
-                        <blockquote key={index} className="p-8 xl:p-10 border-4 border-gray-800 rounded-xl">
-                          <p className="mb-2 text-xl leading-relaxed">{quote.text}</p>
-                          <cite className="font-medium text-gray-500">
-                            {quote.source}
-                          </cite>
-                        </blockquote>
+                        <Quote key={index} quote={quote}/>
                       ))}
                     </div>
                   </section>

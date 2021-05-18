@@ -9,7 +9,10 @@ function Admin() {
       CMS.init();
 
       CMS.registerPreviewStyle(
-        'https://unpkg.com/tailwindcss@^2.0/dist/tailwind.min.css'
+        "https://unpkg.com/tailwindcss@^2.0/dist/tailwind.min.css"
+      );
+      CMS.registerPreviewStyle(
+        "https://unpkg.com/@tailwindcss/typography@0.2.x/dist/typography.min.css"
       );
       CMS.registerPreviewStyle("/admin.css");
       CMS.registerPreviewTemplate("projects", ProjectPreview);
