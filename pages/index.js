@@ -3,8 +3,9 @@ import { Component, useEffect, useState } from "react";
 import Link from "next/link";
 import { motion, useMotionValue, useViewportScroll } from "framer-motion";
 import { attributes } from "../content/home.md";
-import { getAllProjects } from "../api";
+import Header from "../components/header";
 import ProjectTeaser from "../components/project-teaser";
+import { getAllProjects } from "../api";
 
 function HomeHeader({ title, getImageFilter, handleMouseOver, handleMouseOut }) {
   const { scrollY } = useViewportScroll();
@@ -150,16 +151,16 @@ export default class Home extends Component {
     const getImageFilter = () => {
       switch (this.state.activeLink) {
         case "writer":
-          return "hue-rotate(-45deg)";
+          return "saturate(1) hue-rotate(-45deg)";
 
         case "director":
-          return "hue-rotate(165deg)";
+          return "saturate(1) hue-rotate(165deg)";
 
         case "editor":
-          return "hue-rotate(45deg)";
+          return "saturate(1) hue-rotate(45deg)";
 
         default:
-          return "";
+          return "saturate(0.5)";
       }
     };
 
@@ -178,6 +179,7 @@ export default class Home extends Component {
         <Head>
           <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
         </Head>
+        <Header/>
         <main className="pb-20">
           <HomeHeader
             title={title}

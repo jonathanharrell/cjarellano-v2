@@ -2,6 +2,8 @@ backend:
   name: git-gateway
   repo: jonathanharrell/cjarellano-v2
   branch: master
+local_backend: true
+publish_mode: editorial_workflow
 media_folder: public/img
 public_folder: img
 collections:

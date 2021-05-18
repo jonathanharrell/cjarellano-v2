@@ -5,13 +5,7 @@ import "../styles/globals.css";
 function MyApp({ Component, pageProps }) {
   return (
     <div>
-      <div>
-        <Header/>
-        <Component {...pageProps} />
-        <footer>
-          footer
-        </footer>
-      </div>
+      <Component {...pageProps} />
     </div>
   );
 }
