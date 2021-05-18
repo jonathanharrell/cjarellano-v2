@@ -1,5 +1,6 @@
 import React, { useEffect } from "react";
 import Head from "next/head";
+import CategoryPreview from "../cms/previews/CategoryPreview";
 import ProjectPreview from "../cms/previews/ProjectPreview";
 
 function Admin() {
@@ -8,13 +9,8 @@ function Admin() {
       const CMS = (await import("netlify-cms-app")).default;
       CMS.init();
 
-      CMS.registerPreviewStyle(
-        "https://unpkg.com/tailwindcss@^2.0/dist/tailwind.min.css"
-      );
-      CMS.registerPreviewStyle(
-        "https://unpkg.com/@tailwindcss/typography@0.2.x/dist/typography.min.css"
-      );
       CMS.registerPreviewStyle("/admin.css");
+      CMS.registerPreviewTemplate("categories", CategoryPreview);
       CMS.registerPreviewTemplate("projects", ProjectPreview);
     })();
   }, []);
