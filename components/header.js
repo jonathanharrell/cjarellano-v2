@@ -20,9 +20,11 @@ function Header() {
       const threshold = 60;
       if (scrollY.current === 0) return opacity.set(1);
       if (scrollY.current > threshold) return opacity.set(0);
-      console.log(1 - (scrollY.current / threshold))
       return opacity.set(1 - (scrollY.current / threshold));
     }
+
+    updatePointerEvents();
+    updateOpacity();
 
     const unsubscribePointerEvents = scrollY.onChange(updatePointerEvents);
     const unsubscribeOpacity = scrollY.onChange(updateOpacity);

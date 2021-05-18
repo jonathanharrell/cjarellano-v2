@@ -1,5 +1,4 @@
 import "focus-visible";
-import Header from "../components/header";
 import "../styles/globals.css";
 
 function MyApp({ Component, pageProps }) {

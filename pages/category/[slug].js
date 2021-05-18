@@ -44,6 +44,11 @@ function CategoryHeader({ category }) {
       return imageScale.set(1 + (scrollY.current / threshold));
     }
 
+    updateTextPointerEvents();
+    updateTextOpacity();
+    updateImageOpacity();
+    updateImageScale();
+
     const unsubscribeTextPointerEvents = scrollY.onChange(updateTextPointerEvents);
     const unsubscribeTextOpacity = scrollY.onChange(updateTextOpacity);
     const unsubscribeImageOpacity = scrollY.onChange(updateImageOpacity);

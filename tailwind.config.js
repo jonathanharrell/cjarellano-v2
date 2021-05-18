@@ -2,9 +2,17 @@ const colors = require("tailwindcss/colors");
 
 module.exports = {
   purge: {
-    content: ["./pages/**/*.js", "./components/**/*.js"],
+    content: [
+      "./pages/**/*.js",
+      "./components/**/*.js"
+    ],
     options: {
-      safelist: ["text-magenta", "text-cyan", "text-yellow", "text-red"]
+      safelist: [
+        "text-magenta",
+        "text-cyan",
+        "text-yellow",
+        "text-red"
+      ]
     }
   },
   darkMode: "class",
