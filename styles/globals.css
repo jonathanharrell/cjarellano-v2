@@ -153,3 +153,31 @@ select {
 .nav-link:hover::after {
   @apply opacity-0;
 }
+
+.logo-animating {
+  .yellow {
+    transform-origin: 50%;
+    animation: rotateIn 1.5s cubic-bezier(0.4, 1, 0.75, 0.5) infinite forwards;
+    animation-direction: normal, reverse;
+  }
+
+  .magenta {
+    transform-origin: 50%;
+    animation: rotateIn 1s cubic-bezier(0.4, 1, 0.75, 0.5) infinite forwards;
+  }
+
+  .cyan {
+    transform-origin: 50%;
+    animation: rotateIn 0.5s cubic-bezier(0.4, 1, 0.75, 0.5) infinite forwards;
+  }
+}
+
+@keyframes rotateIn {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes rotateOut {
+  from { transform: rotate(360deg); }
+  to { transform: rotate(0deg); }
+}

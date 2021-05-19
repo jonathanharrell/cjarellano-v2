@@ -6,6 +6,7 @@ import Logo from "./logo";
 
 function Header() {
   const { scrollY } = useViewportScroll();
+  const [logoAnimating, setLogoAnimating] = useState(false);
   const [pointerEvents, setPointerEvents] = useState("auto");
   const opacity = useMotionValue(1);
 
@@ -45,8 +46,12 @@ function Header() {
           <div className="max-w-8xl mx-auto">
             <div className="flex items-center justify-between">
               <Link href="/">
-                <a className="flex items-center font-semibold tracking-wide">
-                  <Logo className="w-10 h-10 mr-4"/>
+                <a
+                  className="flex items-center font-semibold tracking-wide"
+                  onMouseOver={() => setLogoAnimating(true)}
+                  onMouseOut={() => setLogoAnimating(false)}
+                >
+                  <Logo className={`w-10 h-10 mr-4${logoAnimating ? " logo-animating" : ""}`}/>
                   <span>CJ Arellano</span>
                 </a>
               </Link>

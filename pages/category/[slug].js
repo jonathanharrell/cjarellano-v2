@@ -1,4 +1,5 @@
 import React, { Component, useEffect, useState } from "react";
+import Link from "next/link";
 import { useViewportScroll, motion, useMotionValue, AnimatePresence } from "framer-motion";
 import { PlayIcon } from "@heroicons/react/solid";
 import Header from "../../components/header";
@@ -8,7 +9,7 @@ import Video from "../../components/video";
 import { getAllCategories, getProjectsByCategory } from "../../api/index";
 import { getCategoryColor } from "../../helpers";
 
-function CategoryHeader({ category }) {
+function CategoryHeader({ slug, category }) {
   const { attributes: { title, action, headline, image, reels } } = category;
   const { scrollY } = useViewportScroll();
   const [textPointerEvents, setTextPointerEvents] = useState("auto");
@@ -65,12 +66,12 @@ function CategoryHeader({ category }) {
   return (
     <header className="sticky top-0 mb-6 md:mb-12" style={{ height: "450px" }}>
       <figure className="absolute inset-0 w-full h-full overflow-hidden">
-        <motion.div
+        <div
           className="h-full transition-all ease-out duration-fast"
           style={{ scale: imageScale, opacity: imageOpacity }}
         >
           <img src={image} alt="" className="absolute inset-0 w-full h-full object-cover"/>
-        </motion.div>
+        </div>
         <div className="absolute top-0 z-10 w-full h-1/2 bg-gradient-to-b from-gray-900"/>
         <div className="absolute bottom-0 z-10 w-full h-3/4 bg-gradient-to-t from-gray-900"/>
       </figure>
@@ -131,7 +132,7 @@ class Category extends Component {
       projects = await getProjectsByCategory(category.default.attributes.action);
     }
 
-    return { category, projects, categories };
+    return { slug, category, projects, categories };
   }
 
   render() {
@@ -144,7 +145,7 @@ class Category extends Component {
       <>
         <Header/>
         <main className="pb-20">
-          <CategoryHeader category={this.props.category.default}/>
+          <CategoryHeader slug={this.props.slug} category={this.props.category.default}/>
           <div className="z-10">
             <section>
               <div className="container">
@@ -171,17 +172,19 @@ class Category extends Component {
                         </div>
                       ))}
                       <div>
-                        <a href="/about" className="block relative overflow-hidden rounded-lg shadow-xl hover:shadow-2xl transform lg:hover:scale-110 transition-all ease-out duration-300 group" style={{ padding: "35% 0" }}>
-                          <figure className="absolute inset-0 w-full h-full">
-                            <img src="/static/img/cjarellano.png" alt="" className="absolute inset-0 w-full h-full object-cover"/>
-                            <div className="absolute bottom-0 z-10 w-full h-3/4 bg-gradient-to-t from-gray-900"/>
-                          </figure>
-                          <div className="flex items-center justify-center absolute inset-0 z-10 w-full h-full p-6 pb-8">
-                            <h2 className="text-xl leading-tight font-semibold tracking-wide capitalize">
-                              About
-                            </h2>
-                          </div>
-                        </a>
+                        <Link href="/about">
+                          <a className="block relative overflow-hidden rounded-lg shadow-xl hover:shadow-2xl transform lg:hover:scale-110 transition-all ease-out duration-300 group" style={{ padding: "35% 0" }}>
+                            <motion.figure layoutId="aboutImage" className="absolute inset-0 w-full h-full">
+                              <img src="/static/img/cjarellano.png" alt="" className="absolute inset-0 w-full h-full object-cover"/>
+                              <div className="absolute bottom-0 z-10 w-full h-3/4 bg-gradient-to-t from-gray-900"/>
+                            </motion.figure>
+                            <div className="flex items-center justify-center absolute inset-0 z-10 w-full h-full p-6 pb-8">
+                              <h2 className="text-xl leading-tight font-semibold tracking-wide capitalize">
+                                About
+                              </h2>
+                            </div>
+                          </a>
+                        </Link>
                       </div>
                     </div>
                   </div>

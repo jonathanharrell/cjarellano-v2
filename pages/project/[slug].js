@@ -20,7 +20,7 @@ class Project extends Component {
       relatedProjects = await getRelatedProjects(project);
     }
 
-    return { project, relatedProjects };
+    return { slug, project, relatedProjects };
   }
 
   render() {
@@ -40,23 +40,25 @@ class Project extends Component {
               <article>
                 <div className="grid gap-y-8 lg:gap-16 grid-cols-1 lg:grid-cols-12 pb-6">
                   <div className="lg:order-1 lg:col-span-6 xl:col-span-5 relative">
-                    <motion.figure layoutId={`project-image-${this.props.project.slug}`} className="relative lg:h-full overflow-hidden rounded-2xl shadow-xl" style={{ padding: "35% 0" }}>
-                      <img src={image} alt="" className="absolute inset-0 w-full h-full object-cover"/>
-                    </motion.figure>
-                    {video && (
-                      <div className="absolute top-1/2 left-1/2 z-20 transform -translate-y-1/2 -translate-x-1/2">
-                        <Video url={video} PlayButton={({ isOpen, setIsOpen }) => (
-                          <button
-                            className="rounded-full group"
-                            title="Play video"
-                            onClick={() => setIsOpen(!isOpen)}
-                          >
-                            <span className="sr-only">Play video</span>
-                            <PlayIcon className="w-16 h-16 filter drop-shadow-lg text-white transform hover:scale-105 transition-transform ease-in-out duration-fast"/>
-                          </button>
-                        )}/>
-                      </div>
-                    )}
+                    <motion.div layoutId={`project-image-${this.props.slug}`} className="h-full">
+                      <figure className="relative lg:h-full overflow-hidden rounded-2xl shadow-xl" style={{ padding: "35% 0" }}>
+                        <img src={image} alt="" className="absolute inset-0 w-full h-full object-cover"/>
+                      </figure>
+                      {video && (
+                        <div className="absolute top-1/2 left-1/2 z-20 transform -translate-y-1/2 -translate-x-1/2">
+                          <Video url={video} PlayButton={({ isOpen, setIsOpen }) => (
+                            <button
+                              className="rounded-full group"
+                              title="Play video"
+                              onClick={() => setIsOpen(!isOpen)}
+                            >
+                              <span className="sr-only">Play video</span>
+                              <PlayIcon className="w-16 h-16 filter drop-shadow-lg text-white transform hover:scale-105 transition-transform ease-in-out duration-fast"/>
+                            </button>
+                          )}/>
+                        </div>
+                      )}
+                    </motion.div>
                   </div>
                   <div className="lg:col-span-6 xl:col-span-7 relative z-10">
                     <header className="mb-6">
