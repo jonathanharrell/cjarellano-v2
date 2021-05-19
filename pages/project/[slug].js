@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import ReactMarkdown from "react-markdown";
+import { motion } from "framer-motion";
 import { PlayIcon } from "@heroicons/react/solid";
 import Header from "../../components/header";
 import Video from "../../components/video";
@@ -39,9 +40,9 @@ class Project extends Component {
               <article>
                 <div className="grid gap-y-8 lg:gap-16 grid-cols-1 lg:grid-cols-12 pb-6">
                   <div className="lg:order-1 lg:col-span-6 xl:col-span-5 relative">
-                    <figure className="relative lg:h-full overflow-hidden rounded-2xl shadow-xl" style={{ padding: "35% 0" }}>
+                    <motion.figure layoutId={`project-image-${this.props.project.slug}`} className="relative lg:h-full overflow-hidden rounded-2xl shadow-xl" style={{ padding: "35% 0" }}>
                       <img src={image} alt="" className="absolute inset-0 w-full h-full object-cover"/>
-                    </figure>
+                    </motion.figure>
                     {video && (
                       <div className="absolute top-1/2 left-1/2 z-20 transform -translate-y-1/2 -translate-x-1/2">
                         <Video url={video} PlayButton={({ isOpen, setIsOpen }) => (
