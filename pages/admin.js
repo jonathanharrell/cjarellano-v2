@@ -1,7 +1,9 @@
 import React, { useEffect } from "react";
 import Head from "next/head";
+import HomePreview from "../cms/previews/HomePreview";
 import CategoryPreview from "../cms/previews/CategoryPreview";
 import ProjectPreview from "../cms/previews/ProjectPreview";
+import AboutPreview from "../cms/previews/AboutPreview";
 
 function Admin() {
   useEffect(() => {
@@ -10,8 +12,10 @@ function Admin() {
       CMS.init();
 
       CMS.registerPreviewStyle("/admin.css");
+      CMS.registerPreviewTemplate("home", HomePreview);
       CMS.registerPreviewTemplate("categories", CategoryPreview);
       CMS.registerPreviewTemplate("projects", ProjectPreview);
+      CMS.registerPreviewTemplate("about", AboutPreview);
     })();
   }, []);
 
