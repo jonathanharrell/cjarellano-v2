@@ -1,4 +1,3 @@
-import react from "react";
 import React from "react";
 
 function Quote({ quote }) {

@@ -181,3 +181,11 @@ select {
   from { transform: rotate(360deg); }
   to { transform: rotate(0deg); }
 }
+
+.home-header {
+  height: 350px;
+
+  @screen sm {
+    height: 550px;
+  }
+}

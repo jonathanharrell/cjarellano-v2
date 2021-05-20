@@ -1,6 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import { Transition } from "@headlessui/react";
 import YouTube from "react-youtube";
+import Logo from "./logo";
 
 function YoutubePlayer({ url }) {
   const [loaded, setLoaded] = useState(false);
@@ -44,6 +45,7 @@ function YoutubePlayer({ url }) {
 
   return (
     <div className="flex items-center justify-center h-full">
+      {!loaded && <Logo className="w-20 h-20 mr-4 logo-animating"/>}
       <Transition
         unmount={false}
         show={loaded}

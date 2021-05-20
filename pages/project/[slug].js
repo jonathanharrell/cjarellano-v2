@@ -7,12 +7,18 @@ import Video from "../../components/video";
 import Award from "../../components/award";
 import Quote from "../../components/quote";
 import ProjectTeaser from "../../components/project-teaser";
-import { getRelatedProjects } from "../../api";
+import { getAllCategories, getRelatedProjects } from "../../api";
+import CategoryTeaser from "../../components/category-teaser";
+import Link from "next/link";
+import Footer from "../../components/footer";
 
 class Project extends Component {
   static async getInitialProps({ query }) {
     const { slug } = query;
-    const project = await import(`../../content/projects/${slug}.md`).catch(error => null);
+    const [project, categories] = await Promise.all([
+      await import(`../../content/projects/${slug}.md`).catch(error => null),
+      getAllCategories()
+    ]);
 
     let relatedProjects = [];
 
@@ -20,7 +26,7 @@ class Project extends Component {
       relatedProjects = await getRelatedProjects(project);
     }
 
-    return { slug, project, relatedProjects };
+    return { slug, project, categories, relatedProjects };
   }
 
   render() {
@@ -30,11 +36,12 @@ class Project extends Component {
       attributes: { title, description, type, image, video, quotes, awards, excerpt },
       html
     } = this.props.project.default;
-
+    const { categories } = this.props;
+    console.log(categories);
     return (
       <>
         <Header/>
-        <main className="pt-20 lg:pt-28 pb-20">
+        <main className="pt-20 lg:pt-28">
           <div className="container">
             <div className="2xl:max-w-6xl mx-auto">
               <article>
@@ -112,9 +119,24 @@ class Project extends Component {
                   </div>
                 </section>
               )}
+              {(categories && categories.length > 0) && (
+                <section className="my-16 xl:my-20">
+                  <header className="mb-8">
+                    <h2 className="text-2xl font-semibold">More from CJ</h2>
+                  </header>
+                  <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+                    {categories.map(category => (
+                      <div key={category.slug}>
+                        <CategoryTeaser category={category}/>
+                      </div>
+                    ))}
+                  </div>
+                </section>
+              )}
             </div>
           </div>
         </main>
+        <Footer/>
       </>
     );
   }

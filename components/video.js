@@ -4,12 +4,11 @@ import { PlayIcon } from "@heroicons/react/solid";
 import { XIcon } from "@heroicons/react/outline";
 import VimeoPlayer from "./vimeo";
 import YoutubePlayer from "./youtube";
-
+//className="flex flex-col fixed inset-0 h-screen z-20 bg-gray-900 text-white"
 const VideoPlayer = ({ isOpen, setIsOpen, url }) => (
-  <Transition show={isOpen}>
+  <Transition show={isOpen} className="inline">
     <Dialog
       onClose={() => setIsOpen(false)}
-      className="flex flex-col fixed inset-0 h-screen z-20 bg-gray-900 text-white"
     >
       <Transition.Child
         as={Fragment}
@@ -20,7 +19,7 @@ const VideoPlayer = ({ isOpen, setIsOpen, url }) => (
         leaveFrom="opacity-100"
         leaveTo="opacity-0"
       >
-        <Dialog.Overlay/>
+        <Dialog.Overlay className="fixed inset-0 w-screen h-screen"/>
       </Transition.Child>
       <Transition.Child
         as={Fragment}
@@ -31,7 +30,7 @@ const VideoPlayer = ({ isOpen, setIsOpen, url }) => (
         leaveFrom="opacity-100"
         leaveTo="opacity-0"
       >
-        <div className="flex flex-col flex-1">
+        <div className="flex flex-col fixed inset-0 w-screen h-screen z-20 bg-gray-900 text-white">
           <header className="flex items-center justify-between p-6">
             <Dialog.Title className="sr-only">Video player</Dialog.Title>
             <button

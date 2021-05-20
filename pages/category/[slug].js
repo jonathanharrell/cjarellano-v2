@@ -8,8 +8,9 @@ import CategoryTeaser from "../../components/category-teaser";
 import Video from "../../components/video";
 import { getAllCategories, getProjectsByCategory } from "../../api/index";
 import { getCategoryColor } from "../../helpers";
+import Footer from "../../components/footer";
 
-function CategoryHeader({ slug, category }) {
+function CategoryHeader({ category }) {
   const { attributes: { title, action, headline, image, reels } } = category;
   const { scrollY } = useViewportScroll();
   const [textPointerEvents, setTextPointerEvents] = useState("auto");
@@ -132,7 +133,7 @@ class Category extends Component {
       projects = await getProjectsByCategory(category.default.attributes.action);
     }
 
-    return { slug, category, projects, categories };
+    return { category, projects, categories };
   }
 
   render() {
@@ -144,22 +145,22 @@ class Category extends Component {
     return (
       <>
         <Header/>
-        <main className="pb-20">
-          <CategoryHeader slug={this.props.slug} category={this.props.category.default}/>
+        <main>
+          <CategoryHeader category={this.props.category.default}/>
           <div className="z-10">
             <section>
               <div className="container">
                 <div className="2xl:max-w-6xl mx-auto">
                   <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
                     {this.props.projects.map(project => (
-                      <ProjectTeaser key={project.slug} project={project}/>
+                      <ProjectTeaser key={project.slug} project={project} animate={true}/>
                     ))}
                   </div>
                 </div>
               </div>
             </section>
             {(categories && categories.length > 0) && (
-              <section className="my-24 lg:my-32">
+              <section className="my-16 xl:my-20">
                 <div className="container">
                   <div className="2xl:max-w-6xl mx-auto">
                     <header className="mb-8">
@@ -193,6 +194,7 @@ class Category extends Component {
             )}
           </div>
         </main>
+        <Footer/>
       </>
     );
   }

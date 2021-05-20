@@ -4,7 +4,7 @@ date: 2017-08-06T19:31:20.591Z
 description: The world’s only club banger about mattresses
 type: Music Video
 image: /static/img/leggett-platt.jpg
-video: https://www.youtube.com/watch?v=ntS6LXBJBzg
+video: https://vimeo.com/552656930/8adada32c1
 categories:
   - editing
 ---

@@ -4,7 +4,7 @@ date: 2017-08-06T19:31:20.591Z
 description: Sales reps become super-spies
 type: B2B Video
 image: /static/img/savo.jpg
-video: https://www.youtube.com/watch?v=Znhop4kAk4E
+video: https://vimeo.com/552656763/ad6a366d43
 categories:
 - editing
 - motion graphics

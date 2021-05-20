@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Vimeo from "@vimeo/player";
 import { Transition } from "@headlessui/react";
+import Logo from "./logo";
 
 function VimeoPlayer({ url }) {
   const [loaded, setLoaded] = useState(false);
@@ -15,7 +16,7 @@ function VimeoPlayer({ url }) {
       title: false
     });
 
-    videoPlayer.on("loaded", () => setLoaded(true));
+    videoPlayer.on("play", () => setLoaded(true));
 
     const handleKeydown = async(event) => {
       if (event.code === "Space") {
@@ -39,6 +40,7 @@ function VimeoPlayer({ url }) {
 
   return (
     <div className="flex items-center justify-center h-full">
+      {!loaded && <Logo className="w-20 h-20 mr-4 logo-animating"/>}
       <Transition
         unmount={false}
         show={loaded}

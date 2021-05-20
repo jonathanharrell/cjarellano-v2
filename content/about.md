@@ -22,5 +22,3 @@ His most current writing/directing project is **[Case Unsolved](/project/case-un
 C.J. co-created and directed **[Lavender Scare](https://anchor.fm/lavender-scare-podcast),** a horror anthology podcast featuring audio plays written and performed by LGBT+ artists. He also co-hosts **[Bottle Episodes](https://anchor.fm/cj-arellano),** a podcast which discusses TV episodes that take place in a single location.
 
 To learn more about any of the above projects, drop him a line: [CJ@CJarellano.com](mailto:cj@cjarellano.com)!
-
-**photo: [Joe Mazza](http://www.bravelux.com)**

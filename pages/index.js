@@ -4,6 +4,7 @@ import Link from "next/link";
 import { motion, useMotionValue, useViewportScroll } from "framer-motion";
 import { attributes } from "../content/home.md";
 import Header from "../components/header";
+import Footer from "../components/footer";
 import ProjectTeaser from "../components/project-teaser";
 import { getAllProjects } from "../api";
 
@@ -61,7 +62,7 @@ function HomeHeader({ title, getImageFilter, handleMouseOver, handleMouseOut }) 
   }, []);
 
   return (
-    <header className="sticky top-0 mb-6" style={{ height: "550px" }}>
+    <header className="home-header sticky top-0 mb-6">
       <div className="h-full overflow-hidden">
         <figure className="absolute inset-0 w-full h-full overflow-hidden">
           <motion.div
@@ -185,7 +186,7 @@ export default class Home extends Component {
           <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
         </Head>
         <Header/>
-        <main className="pb-20">
+        <main>
           <HomeHeader
             title={title}
             getImageFilter={getImageFilter}
@@ -202,7 +203,7 @@ export default class Home extends Component {
                     </header>
                     <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
                       {recentProjects.map(project => (
-                        <ProjectTeaser key={project.slug} project={project}/>
+                        <ProjectTeaser key={project.slug} project={project} animate={true}/>
                       ))}
                     </div>
                   </div>
@@ -211,6 +212,7 @@ export default class Home extends Component {
             </div>
           )}
         </main>
+        <Footer/>
       </>
     );
   }
