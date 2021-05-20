@@ -6,7 +6,7 @@ import { attributes } from "../content/home.md";
 import Header from "../components/header";
 import Footer from "../components/footer";
 import ProjectTeaser from "../components/project-teaser";
-import { getAllProjects } from "../api";
+import { getAllProjects } from "../lib/api";
 
 function HomeHeader({ title, getImageFilter, handleMouseOver, handleMouseOut }) {
   const { scrollY } = useViewportScroll();
@@ -152,7 +152,7 @@ export default class Home extends Component {
 
   render() {
     const { title } = attributes;
-    const recentProjects = this.props.projects.slice(0, 6);
+    const recentProjects = this.props.projects.slice(0, 9);
 
     const getImageFilter = () => {
       switch (this.state.activeLink) {

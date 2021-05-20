@@ -6,7 +6,7 @@ import Header from "../../components/header";
 import ProjectTeaser from "../../components/project-teaser";
 import CategoryTeaser from "../../components/category-teaser";
 import Video from "../../components/video";
-import { getAllCategories, getProjectsByCategory } from "../../api/index";
+import { getAllCategories, getProjectsByCategory } from "../../lib/api";
 import { getCategoryColor } from "../../helpers";
 import Footer from "../../components/footer";
 

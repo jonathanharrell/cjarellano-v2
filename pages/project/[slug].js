@@ -7,7 +7,7 @@ import Video from "../../components/video";
 import Award from "../../components/award";
 import Quote from "../../components/quote";
 import ProjectTeaser from "../../components/project-teaser";
-import { getAllCategories, getRelatedProjects } from "../../api";
+import { getAllCategories, getRelatedProjects } from "../../lib/api";
 import CategoryTeaser from "../../components/category-teaser";
 import Link from "next/link";
 import Footer from "../../components/footer";
@@ -37,7 +37,7 @@ class Project extends Component {
       html
     } = this.props.project.default;
     const { categories } = this.props;
-    console.log(categories);
+
     return (
       <>
         <Header/>

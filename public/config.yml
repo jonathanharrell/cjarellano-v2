@@ -73,3 +73,14 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Image", name: "image", widget: "image" }
           - { label: "Body", name: "body", widget: "markdown" }
+          - label: "Quotes"
+            name: "quotes"
+            widget: "list"
+            fields:
+              - { label: "Text", name: "text", widget: "string" }
+              - { label: "Source", name: "source", widget: "string" }
+          - label: "Social Media Posts"
+            name: "posts"
+            widget: "list"
+            fields:
+              - { label: "URL", name: "url", widget: "string" }

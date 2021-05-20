@@ -2,6 +2,18 @@
 title: About CJ
 date: 2019-03-17T19:31:20.591Z
 image: /static/img/cjarellano.png
+quotes:
+  - text: The writing is sharp. The characters are wonderful, and the dialogue is first-rate. It has incredible market potential. It has everything one asks for in a script.
+    source: New York Screenplay Contest
+  - text: C.J. Arellano’s video design is sharp and dynamic.
+    source: Time Out Chicago
+  - text: The show boasts slick video design by C.J. Arellano.
+    source: Chicago Reader
+posts:
+  - url: https://twitter.com/cjarellano/status/928667652947632128
+  - url: https://twitter.com/cjarellano/status/1030529535261990913
+  - url: https://twitter.com/cjarellano/status/1023643129159802882
+  - url: https://twitter.com/cjarellano/status/1024718683262906368
 ---
 C.J. is a media creator specializing in **genre-driven, comedic,** and **human interest** content.
 
