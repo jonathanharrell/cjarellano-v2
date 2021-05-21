@@ -14,16 +14,16 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Action", name: "action", widget: "string" }
+      - { label: "Action", name: "action", widget: "string", hint: "The gerund form. This will be used behind the scenes for filtering." }
       - { label: "Headline", name: "headline", widget: "string" }
       - { label: "Image", name: "image", widget: "image" }
-      - { label: "Public", name: "public", widget: "boolean", default: true }
+      - { label: "Public", name: "public", widget: "boolean", default: true, hint: "Whether or not this category should appear in sections throughout the site where project categories are listed." }
       - label: "Reels"
         name: "reels"
         widget: "list"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "Video", name: "video", widget: "string" }
+          - { label: "Video", name: "video", widget: "string", hint: "A Vimeo or YouTube URL." }
   - name: "projects"
     label: "Projects"
     folder: content/projects
@@ -32,7 +32,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Description", name: "description", widget: "string", hint: "This will be used for SEO (it may show up as the description of this page in Google." }
       - { label: "Type", name: "type", widget: "string" }
       - label: "Categories"
         name: "categories"
@@ -43,21 +43,21 @@ collections:
         value_field: "action"
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Image", name: "image", widget: "image" }
-      - { label: "Video", name: "video", widget: "string", required: false }
+      - { label: "Video", name: "video", widget: "string", required: false, hint: "A Vimeo or YouTube URL." }
       - label: "Quotes"
         name: "quotes"
         widget: "list"
         fields:
-          - { label: "Text", name: "text", widget: "string" }
-          - { label: "Source", name: "source", widget: "string" }
+          - { label: "Text", name: "text", widget: "string", hint: "The quote itself." }
+          - { label: "Source", name: "source", widget: "string", hint: "Who said it?" }
       - label: "Awards"
         name: "awards"
         widget: "list"
         fields:
-          - { label: "Source", name: "source", widget: "string" }
+          - { label: "Source", name: "source", widget: "string", hint: "The organization awarding the committee." }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Link", name: "link", widget: "string", required: false }
-      - { label: "Excerpt", name: "excerpt", widget: "markdown" }
+      - { label: "Excerpt", name: "excerpt", widget: "markdown", hint: "The text of a writing sample." }
   - name: "pages"
     label: "Pages"
     files:
@@ -83,4 +83,4 @@ collections:
             name: "posts"
             widget: "list"
             fields:
-              - { label: "URL", name: "url", widget: "string" }
+              - { label: "URL", name: "url", widget: "string", hint: "A Tweet or Facebook post." }

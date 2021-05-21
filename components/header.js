@@ -52,7 +52,7 @@ function Header() {
                   onMouseOut={() => setLogoAnimating(false)}
                 >
                   <Logo className={`w-10 h-10 mr-4${logoAnimating ? " logo-animating" : ""}`}/>
-                  <span>CJ Arellano</span>
+                  <span>C.J. Arellano</span>
                 </a>
               </Link>
               <nav className="hidden md:block">
