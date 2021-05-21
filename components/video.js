@@ -60,6 +60,17 @@ function Video({ url, PlayButton }) {
   return (
     <>
       {PlayButton && <PlayButton isOpen={isOpen} setIsOpen={setIsOpen}/>}
+      {PlayButton && (
+        <noscript>
+          <a
+            href={url}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <PlayButton/>
+          </a>
+        </noscript>
+      )}
       <VideoPlayer isOpen={isOpen} setIsOpen={setIsOpen} url={url}/>
     </>
   );
