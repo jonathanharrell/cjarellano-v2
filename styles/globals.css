@@ -190,7 +190,8 @@ select {
   }
 }
 
-.twitter-tweet {
+.twitter-tweet,
+.fb-post {
   @apply text-gray-500;
 
   p {
