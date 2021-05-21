@@ -64,17 +64,17 @@ function Header() {
                   </li>
                   <li className="mr-8">
                     <Link href="/category/director">
-                      <a href="" className="nav-link font-semibold tracking-wide hover:text-cyan">Director</a>
+                      <a className="nav-link font-semibold tracking-wide hover:text-cyan">Director</a>
                     </Link>
                   </li>
                   <li className="mr-8">
                     <Link href="/category/editor">
-                      <a href="" className="nav-link font-semibold tracking-wide hover:text-yellow">Editor</a>
+                      <a className="nav-link font-semibold tracking-wide hover:text-yellow">Editor</a>
                     </Link>
                   </li>
                   <li className="mr-8">
                     <Link href="/about">
-                      <a href="" className="nav-link font-semibold tracking-wide">About</a>
+                      <a className="nav-link font-semibold tracking-wide">About</a>
                     </Link>
                   </li>
                   <li className="flex items-center">
