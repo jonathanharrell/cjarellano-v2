@@ -189,3 +189,11 @@ select {
     height: 550px;
   }
 }
+
+.twitter-tweet {
+  @apply text-gray-500;
+
+  p {
+    @apply mb-4 text-lg text-white;
+  }
+}

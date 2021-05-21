@@ -11,9 +11,15 @@ quotes:
     source: Chicago Reader
 posts:
   - url: https://twitter.com/cjarellano/status/928667652947632128
+  - url: https://www.facebook.com/cjlucasarellano/posts/10102645446022247
+  - url: https://www.facebook.com/cjlucasarellano/posts/10102133406678197
   - url: https://twitter.com/cjarellano/status/1030529535261990913
   - url: https://twitter.com/cjarellano/status/1023643129159802882
+  - url: https://www.facebook.com/cjlucasarellano/posts/10101245366802227
+  - url: https://www.facebook.com/cjlucasarellano/posts/10101638997602947
   - url: https://twitter.com/cjarellano/status/1024718683262906368
+  - url: https://www.facebook.com/cjlucasarellano/posts/10102456063037267
+  - url: https://www.facebook.com/cjlucasarellano/posts/10102192848486337
 ---
 C.J. is a media creator specializing in **genre-driven, comedic,** and **human interest** content.
 

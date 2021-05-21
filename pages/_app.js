@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <AnimateSharedLayout type="crossfade">
       <Component {...pageProps} />
-      <script src="https://platform.twitter.com/widgets.js"/>
+      {/*<script src="https://platform.twitter.com/widgets.js"/>*/}
     </AnimateSharedLayout>
   );
 }
