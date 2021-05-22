@@ -8,7 +8,8 @@
 		"build": "next build",
 		"start": "next start",
 		"generate-admin-css": "postcss build styles/globals.css -o public/admin.css",
-		"export": "npm run generate-admin-css && npm run build && next export && cp _redirects out/_redirects"
+		"export": "next export",
+		"start-production": "npm run generate-admin-css && npm run build && cp _redirects out/_redirects && npm run start"
 	},
 	"keywords": [],
 	"author": "",
