@@ -10,7 +10,7 @@
 		"generate-admin-css": "postcss build styles/globals.css -o public/admin.css",
 		"server": "npx netlify-cms-proxy-server",
 		"start": "next start",
-		"start-production": "npm run generate-admin-css && npm run build && npm run start"
+		"start-production": "npm run generate-admin-css && npm run build"
 	},
 	"keywords": [],
 	"author": "",
