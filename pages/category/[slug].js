@@ -97,14 +97,20 @@ function CategoryHeader({ category }) {
                         key={reel.title}
                         url={reel.video}
                         PlayButton={({ isOpen, setIsOpen }) => (
-                          <button
+                          <a
+                            href={reel.video}
+                            target="_blank"
+                            rel="noopener noreferrer"
                             className="inline-flex items-center mr-4 mb-3 py-3 pl-4 pr-6 rounded-full border-2 border-white hover:bg-white font-semibold tracking-wide text-white hover:text-gray-900 transform hover:scale-105 transition-all ease-out duration-fast"
                             title="Play reel"
-                            onClick={() => setIsOpen(!isOpen)}
+                            onClick={(event) => {
+                              event.preventDefault();
+                              setIsOpen(!isOpen);
+                            }}
                           >
                             <PlayIcon className={`w-5 h-5 mr-1 text-${getCategoryColor(action)}`}/>
                             {reel.title}
-                          </button>
+                          </a>
                         )}
                       />
                     ))}

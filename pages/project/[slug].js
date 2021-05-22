@@ -54,14 +54,20 @@ class Project extends Component {
                       {video && (
                         <div className="absolute top-1/2 left-1/2 z-20 transform -translate-y-1/2 -translate-x-1/2">
                           <Video url={video} PlayButton={({ isOpen, setIsOpen }) => (
-                            <button
+                            <a
+                              href={video}
+                              target="_blank"
+                              rel="noopener noreferrer"
                               className="rounded-full group"
                               title="Play video"
-                              onClick={() => setIsOpen(!isOpen)}
+                              onClick={(event) => {
+                                event.preventDefault();
+                                setIsOpen(!isOpen);
+                              }}
                             >
                               <span className="sr-only">Play video</span>
                               <PlayIcon className="w-16 h-16 filter drop-shadow-lg text-white transform hover:scale-105 transition-transform ease-in-out duration-fast"/>
-                            </button>
+                            </a>
                           )}/>
                         </div>
                       )}
