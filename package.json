@@ -4,12 +4,13 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"dev": "next",
 		"build": "next build",
-		"start": "next start",
-		"generate-admin-css": "postcss build styles/globals.css -o public/admin.css",
+		"dev": "next",
 		"export": "next export",
-		"start-production": "npm run generate-admin-css && npm run build && cp _redirects out/_redirects && npm run start"
+		"generate-admin-css": "postcss build styles/globals.css -o public/admin.css",
+		"server": "npx netlify-cms-proxy-server",
+		"start": "next start",
+		"start-production": "npm run generate-admin-css && npm run build && npm run start"
 	},
 	"keywords": [],
 	"author": "",
