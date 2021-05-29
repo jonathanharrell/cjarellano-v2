@@ -1,10 +1,118 @@
-import React, { useEffect, useState } from "react";
+import React, { Fragment, useEffect, useRef, useState } from "react";
 import Link from "next/link";
+import { useRouter } from "next/router";
 import { motion, useMotionValue, useViewportScroll } from "framer-motion";
+import { Transition, Dialog } from "@headlessui/react";
 import { MailIcon } from "@heroicons/react/solid";
 import Logo from "./logo";
+import { XIcon } from "@heroicons/react/outline";
 
-function Header() {
+const MobileMenu = () => {
+  const [isOpen, setIsOpen] = useState(false);
+  const router = useRouter();
+
+  useEffect(() => {
+    const handleRouteChange = () => {
+      setIsOpen(false);
+    };
+
+    router.events.on("routeChangeComplete", handleRouteChange);
+
+    return () => {
+      router.events.off("routeChangeComplete", handleRouteChange);
+    };
+  }, []);
+
+  return (
+    <div className="md:hidden">
+      <button
+        className="py-1 px-4 rounded-full border-2 border-white hover:bg-white font-semibold tracking-wide text-white hover:text-gray-900 transform hover:scale-105 transition-all ease-out duration-fast"
+        aria-label="Open site menu"
+        onClick={() => setIsOpen(true)}
+      >
+        Menu
+      </button>
+      <Transition show={isOpen} as={Fragment}>
+        <Dialog
+          as="div"
+          className="container md:hidden fixed inset-0 z-20 overflow-y-auto"
+          onClose={() => setIsOpen(false)}
+        >
+          <Transition.Child
+            as={Fragment}
+            enter="ease-out duration-300"
+            enterFrom="opacity-0"
+            enterTo="opacity-100"
+            leave="ease-in duration-100"
+            leaveFrom="opacity-100"
+            leaveTo="opacity-0"
+          >
+            <Dialog.Overlay className="fixed inset-0 bg-black bg-opacity-70"/>
+          </Transition.Child>
+          <Transition.Child
+            as={Fragment}
+            enter="ease-out duration-300"
+            enterFrom="opacity-0 translate-y-4"
+            enterTo="opacity-100 translate-y-0"
+            leave="ease-in duration-100"
+            leaveFrom="opacity-100 translate-y-0"
+            leaveTo="opacity-0 translate-y-4"
+          >
+            <div className="relative my-6 rounded-xl bg-gray-800 shadow-xl transition-all transform">
+              <header className="flex items-center justify-between p-4">
+                <Dialog.Title className="sr-only">Site Menu</Dialog.Title>
+                <button
+                  className="ml-auto group"
+                  title="Close menu"
+                  onClick={() => setIsOpen(false)}
+                >
+                  <XIcon className="w-8 h-8 text-gray-600 group-hover:text-gray-400 transition-colors ease-in-out duration-fast"/>
+                  <span className="sr-only">Close menu</span>
+                </button>
+              </header>
+              <nav className="pb-8">
+                <ul>
+                  <li>
+                    <Link href="/">
+                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-medium transition-colors ease-in-out duration-fast">Home</a>
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/category/writer">
+                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-medium transition-colors ease-in-out duration-fast">Writer</a>
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/category/director">
+                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-medium transition-colors ease-in-out duration-fast">Director</a>
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/category/editor">
+                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-medium transition-colors ease-in-out duration-fast">Editor</a>
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="/about">
+                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-medium transition-colors ease-in-out duration-fast">About</a>
+                    </Link>
+                  </li>
+                  <li>
+                    <Link href="mailto:cj@cjarellano.com">
+                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-medium transition-colors ease-in-out duration-fast">Contact</a>
+                    </Link>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+          </Transition.Child>
+        </Dialog>
+      </Transition>
+    </div>
+  );
+};
+
+const Header = () => {
   const { scrollY } = useViewportScroll();
   const [logoAnimating, setLogoAnimating] = useState(false);
   const [pointerEvents, setPointerEvents] = useState("auto");
@@ -89,12 +197,13 @@ function Header() {
                   </li>
                 </ul>
               </nav>
+              <MobileMenu/>
             </div>
           </div>
         </div>
       </header>
     </motion.div>
   );
-}
+};
 
 export default Header;

@@ -185,7 +185,6 @@ export default class Home extends Component {
         <Head>
           <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
         </Head>
-        <Header/>
         <main>
           <HomeHeader
             title={title}
@@ -212,7 +211,6 @@ export default class Home extends Component {
             </div>
           )}
         </main>
-        <Footer/>
       </>
     );
   }

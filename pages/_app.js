@@ -1,12 +1,22 @@
+import React from "react";
 import { AnimateSharedLayout } from "framer-motion";
 import "focus-visible";
 import "../styles/globals.css";
-import React from "react";
+import Header from "../components/header";
+import Footer from "../components/footer";
 
-function MyApp({ Component, pageProps }) {
+function MyApp({ Component, pageProps, router }) {
+  if (router.route.includes("/admin")) {
+    return <Component {...pageProps} />;
+  }
+
   return (
     <AnimateSharedLayout type="crossfade">
-      <Component {...pageProps} />
+      <div className="flex flex-col min-h-screen">
+        <Header/>
+        <Component {...pageProps} />
+        <Footer/>
+      </div>
     </AnimateSharedLayout>
   );
 }
