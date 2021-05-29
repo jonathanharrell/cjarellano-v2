@@ -151,7 +151,7 @@ class Category extends Component {
     return (
       <main>
         <CategoryHeader category={this.props.category.default}/>
-        <div className="z-10">
+        <div className="relative">
           <section>
             <div className="container">
               <div className="2xl:max-w-6xl mx-auto">

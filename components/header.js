@@ -74,32 +74,32 @@ const MobileMenu = () => {
                 <ul>
                   <li>
                     <Link href="/">
-                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-medium transition-colors ease-in-out duration-fast">Home</a>
+                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">Home</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/category/writer">
-                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-medium transition-colors ease-in-out duration-fast">Writer</a>
+                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">Writer</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/category/director">
-                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-medium transition-colors ease-in-out duration-fast">Director</a>
+                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">Director</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/category/editor">
-                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-medium transition-colors ease-in-out duration-fast">Editor</a>
+                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">Editor</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/about">
-                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-medium transition-colors ease-in-out duration-fast">About</a>
+                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">About</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="mailto:cj@cjarellano.com">
-                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-medium transition-colors ease-in-out duration-fast">Contact</a>
+                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">Contact</a>
                     </Link>
                   </li>
                 </ul>
@@ -158,6 +158,8 @@ const Header = () => {
                   className="flex items-center font-semibold tracking-wide"
                   onMouseOver={() => setLogoAnimating(true)}
                   onMouseOut={() => setLogoAnimating(false)}
+                  onFocus={() => setLogoAnimating(false)}
+                  onBlur={() => setLogoAnimating(false)}
                 >
                   <Logo className={`w-10 h-10 mr-4${logoAnimating ? " logo-animating" : ""}`}/>
                   <span>C.J. Arellano</span>
