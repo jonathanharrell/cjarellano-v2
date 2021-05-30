@@ -1,12 +1,12 @@
 import Head from "next/head";
-import { Component, useEffect, useState } from "react";
+import React, { Component, useEffect, useState } from "react";
 import Link from "next/link";
 import { motion, useMotionValue, useViewportScroll } from "framer-motion";
 import { attributes } from "../content/home.md";
-import Header from "../components/header";
-import Footer from "../components/footer";
+import Meta from "../components/meta";
 import ProjectTeaser from "../components/project-teaser";
 import { getAllProjects } from "../lib/api";
+import { withRouter } from "next/router";
 
 function HomeHeader({ title, getImageFilter, handleMouseOver, handleMouseOut }) {
   const { scrollY } = useViewportScroll();
@@ -139,7 +139,7 @@ function HomeHeader({ title, getImageFilter, handleMouseOver, handleMouseOut }) 
   );
 }
 
-export default class Home extends Component {
+class Home extends Component {
   constructor(props) {
     super(props);
     this.state = { activeLink: null };
@@ -182,10 +182,8 @@ export default class Home extends Component {
 
     return (
       <>
-        <Head>
-          <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-        </Head>
-        <main>
+        <Meta url={this.props.router.asPath}/>
+        <main id="main">
           <HomeHeader
             title={title}
             getImageFilter={getImageFilter}
@@ -215,3 +213,5 @@ export default class Home extends Component {
     );
   }
 }
+
+export default withRouter(Home)

@@ -117,6 +117,7 @@ const Header = () => {
   const [logoAnimating, setLogoAnimating] = useState(false);
   const [pointerEvents, setPointerEvents] = useState("auto");
   const opacity = useMotionValue(1);
+  const router = useRouter();
 
   useEffect(() => {
     function updatePointerEvents() {
@@ -138,9 +139,16 @@ const Header = () => {
     const unsubscribePointerEvents = scrollY.onChange(updatePointerEvents);
     const unsubscribeOpacity = scrollY.onChange(updateOpacity);
 
+    function handleRouteChange() {
+      setLogoAnimating(false);
+    }
+
+    router.events.on("routeChangeComplete", handleRouteChange);
+
     return () => {
       unsubscribePointerEvents();
       unsubscribeOpacity();
+      router.events.off("routeChangeComplete", handleRouteChange);
     };
   }, []);
 
@@ -158,8 +166,6 @@ const Header = () => {
                   className="flex items-center font-semibold tracking-wide"
                   onMouseOver={() => setLogoAnimating(true)}
                   onMouseOut={() => setLogoAnimating(false)}
-                  onFocus={() => setLogoAnimating(false)}
-                  onBlur={() => setLogoAnimating(false)}
                 >
                   <Logo className={`w-10 h-10 mr-4${logoAnimating ? " logo-animating" : ""}`}/>
                   <span>C.J. Arellano</span>
@@ -190,10 +196,10 @@ const Header = () => {
                   <li className="flex items-center">
                     <a
                       href="mailto:cj@cjarellano.com"
-                      title="Email CJ"
+                      title="Email C.J."
                       className="block hover:opacity-40 transition-opacity ease-out duration-300"
                     >
-                      <span className="sr-only">Email CJ</span>
+                      <span className="sr-only">Email C.J.</span>
                       <MailIcon className="w-5 h-5"/>
                     </a>
                   </li>
