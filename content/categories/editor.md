@@ -2,7 +2,7 @@
 title: Editor
 action: editing
 headline: A clever headline can go here
-image: /static/img/hybrid-color.png
+image: /static/img/hybrid-color.jpg
 public: true
 reels:
   - title: Editing reel

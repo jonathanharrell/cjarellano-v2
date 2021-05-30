@@ -1,7 +1,7 @@
 ---
 title: About C.J.
 date: 2019-03-17T19:31:20.591Z
-image: /static/img/cjarellano.png
+image: /static/img/cjarellano.jpg
 quotes:
   - text: The writing is sharp. The characters are wonderful, and the dialogue is first-rate. It has incredible market potential. It has everything one asks for in a script.
     source: New York Screenplay Contest

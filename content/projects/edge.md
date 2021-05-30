@@ -3,7 +3,7 @@ title: Edge+
 date: 2020-09-27T19:31:20.591Z
 description: This stunning smartphone will leave you shaken and stirred
 type: Brand Videos
-image: /static/img/edge.png
+image: /static/img/edge.jpg
 video: https://vimeo.com/479097689/e6096682ff
 categories:
 - directing

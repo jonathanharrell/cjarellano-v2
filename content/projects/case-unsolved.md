@@ -3,7 +3,7 @@ title: Case Unsolved
 date: 2018-08-24T19:31:20.591Z
 description: Boyfriends battle monsters from a cursed TV show
 type: Feature Film
-image: /static/img/case-unsolved.png
+image: /static/img/case-unsolved.jpg
 video: https://vimeo.com/330129303/50d5308e3e
 categories:
 - writing
