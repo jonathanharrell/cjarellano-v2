@@ -70,10 +70,10 @@ const MobileMenu = () => {
                   <span className="sr-only">Close menu</span>
                 </button>
               </header>
-              <nav className="pb-8">
+              <nav aria-label="Site Navigation" className="pb-8">
                 <ul>
                   <li>
-                    <Link href="/">
+                    <Link href="/" rel="home">
                       <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">Home</a>
                     </Link>
                   </li>
@@ -157,7 +157,7 @@ const Header = () => {
       className="fixed top-0 left-0 w-full z-20 transition-opacity ease-out duration-300"
       style={{ opacity, pointerEvents }}
     >
-      <header className="py-6">
+      <header aria-label="Site Header" className="py-6">
         <div className="container">
           <div className="max-w-8xl mx-auto">
             <div className="flex items-center justify-between">
@@ -171,7 +171,7 @@ const Header = () => {
                   <span>C.J. Arellano</span>
                 </a>
               </Link>
-              <nav className="hidden md:block">
+              <nav aria-label="Site Navigation" className="hidden md:block">
                 <ul className="flex">
                   <li className="mr-8">
                     <Link href="/category/writer">

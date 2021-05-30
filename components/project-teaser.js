@@ -1,11 +1,14 @@
 import React from "react";
 import Link from "next/link";
 import { motion } from "framer-motion";
+import kebabCase from "lodash/kebabCase";
 
 function ProjectTeaser({ project, animate }) {
+  const labelId = `${kebabCase(project.title)}-label`;
+
   return (
     <Link href={`/project/${project.slug}`}>
-      <a className="block relative overflow-hidden rounded-lg shadow-xl hover:shadow-2xl transform lg:hover:scale-110 transition-all ease-out duration-300 group" style={{ padding: "35% 0" }}>
+      <a aria-labelledby={labelId} className="block relative overflow-hidden rounded-lg shadow-xl hover:shadow-2xl transform lg:hover:scale-110 transition-all ease-out duration-300 group" style={{ padding: "35% 0" }}>
         {animate ? (
           <motion.figure
             layoutId={`project-image-${project.slug}`}
@@ -24,7 +27,7 @@ function ProjectTeaser({ project, animate }) {
           <p className="mt-auto mb-1 text-sm font-semibold tracking-wide opacity-50">
             {project.type}
           </p>
-          <h2 className="text-xl leading-tight font-semibold tracking-wide">
+          <h2 id={labelId} className="text-xl leading-tight font-semibold tracking-wide">
             {project.title}
           </h2>
         </div>

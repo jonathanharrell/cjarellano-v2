@@ -18,7 +18,7 @@ export default function About() {
         type="article"
         url={router.asPath}
       />
-      <main id="main" className="pt-20 lg:pt-32">
+      <div className="pt-20 lg:pt-32">
         <div className="container">
           <div className="max-w-4xl mx-auto">
             <motion.figure layoutId="aboutImage" className="lg:max-w-lg lg:float-right lg:-mr-24 mb-12 lg:p-12 transform lg:rotate-6">
@@ -53,7 +53,7 @@ export default function About() {
             )}
           </div>
         </div>
-      </main>
+      </div>
     </>
   );
 }

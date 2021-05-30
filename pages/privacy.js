@@ -11,7 +11,7 @@ export default function PrivacyPolicy() {
         title="Privacy Policy - C.J. Arellano"
         url={router.asPath}
       />
-      <main id="main" className="flex items-center flex-1 pt-20 lg:pt-32 pb-20">
+      <div className="flex items-center flex-1 pt-20 lg:pt-32 pb-20">
         <div className="container">
           <div className="max-w-4xl mx-auto">
             <header className="mb-8">
@@ -21,7 +21,7 @@ export default function PrivacyPolicy() {
             </header>
           </div>
         </div>
-      </main>
+      </div>
     </>
   );
 }

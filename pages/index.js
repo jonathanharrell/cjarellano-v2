@@ -183,35 +183,35 @@ class Home extends Component {
     return (
       <>
         <Meta url={this.props.router.asPath}/>
-        <main id="main">
-          <HomeHeader
-            title={title}
-            getImageFilter={getImageFilter}
-            handleMouseOver={handleMouseOver}
-            handleMouseOut={handleMouseOut}
-          />
-          {(recentProjects && recentProjects.length > 0) && (
-            <div className="relative z-10 -mt-12">
-              <section className="mb-20">
-                <div className="container">
-                  <div className="2xl:max-w-6xl mx-auto">
-                    <header className="mb-8">
-                      <h2 className="text-2xl font-semibold">Recent projects</h2>
-                    </header>
-                    <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
-                      {recentProjects.map(project => (
-                        <ProjectTeaser key={project.slug} project={project} animate={true}/>
-                      ))}
-                    </div>
+        <HomeHeader
+          title={title}
+          getImageFilter={getImageFilter}
+          handleMouseOver={handleMouseOver}
+          handleMouseOut={handleMouseOut}
+        />
+        {(recentProjects && recentProjects.length > 0) && (
+          <div className="relative z-10 -mt-12">
+            <section aria-labelledby="recent-projects-label" className="mb-20">
+              <div className="container">
+                <div className="2xl:max-w-6xl mx-auto">
+                  <header className="mb-8">
+                    <h2 id="recent-projects-label" className="text-2xl font-semibold">
+                      Recent projects
+                    </h2>
+                  </header>
+                  <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+                    {recentProjects.map(project => (
+                      <ProjectTeaser key={project.slug} project={project} animate={true}/>
+                    ))}
                   </div>
                 </div>
-              </section>
-            </div>
-          )}
-        </main>
+              </div>
+            </section>
+          </div>
+        )}
       </>
     );
   }
 }
 
-export default withRouter(Home)
+export default withRouter(Home);

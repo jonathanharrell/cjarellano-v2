@@ -156,55 +156,53 @@ class Category extends Component {
           image={this.props.category.attributes.image}
           url={this.props.router.asPath}
         />
-        <main id="main">
-          <CategoryHeader category={this.props.category.default}/>
-          <div className="relative">
-            <section>
+        <CategoryHeader category={this.props.category.default}/>
+        <div className="relative">
+          <section>
+            <div className="container">
+              <div className="2xl:max-w-6xl mx-auto">
+                <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+                  {this.props.projects.map(project => (
+                    <ProjectTeaser key={project.slug} project={project} animate={true}/>
+                  ))}
+                </div>
+              </div>
+            </div>
+          </section>
+          {(categories && categories.length > 0) && (
+            <section className="my-16 xl:my-20">
               <div className="container">
                 <div className="2xl:max-w-6xl mx-auto">
+                  <header className="mb-8">
+                    <h2 className="text-2xl font-semibold">More from C.J.</h2>
+                  </header>
                   <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
-                    {this.props.projects.map(project => (
-                      <ProjectTeaser key={project.slug} project={project} animate={true}/>
+                    {categories.map(category => (
+                      <div key={category.slug}>
+                        <CategoryTeaser category={category}/>
+                      </div>
                     ))}
+                    <div>
+                      <Link href="/about">
+                        <a className="block relative overflow-hidden rounded-lg shadow-xl hover:shadow-2xl transform lg:hover:scale-110 transition-all ease-out duration-300 group" style={{ padding: "35% 0" }}>
+                          <motion.figure layoutId="aboutImage" className="absolute inset-0 w-full h-full">
+                            <img src="/static/img/cjarellano.png" alt="" className="absolute inset-0 w-full h-full object-cover"/>
+                            <div className="absolute bottom-0 z-10 w-full h-3/4 bg-gradient-to-t from-gray-900"/>
+                          </motion.figure>
+                          <div className="flex items-center justify-center absolute inset-0 z-10 w-full h-full p-6 pb-8">
+                            <h2 className="text-xl leading-tight font-semibold tracking-wide capitalize">
+                              About
+                            </h2>
+                          </div>
+                        </a>
+                      </Link>
+                    </div>
                   </div>
                 </div>
               </div>
             </section>
-            {(categories && categories.length > 0) && (
-              <section className="my-16 xl:my-20">
-                <div className="container">
-                  <div className="2xl:max-w-6xl mx-auto">
-                    <header className="mb-8">
-                      <h2 className="text-2xl font-semibold">More from C.J.</h2>
-                    </header>
-                    <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
-                      {categories.map(category => (
-                        <div key={category.slug}>
-                          <CategoryTeaser category={category}/>
-                        </div>
-                      ))}
-                      <div>
-                        <Link href="/about">
-                          <a className="block relative overflow-hidden rounded-lg shadow-xl hover:shadow-2xl transform lg:hover:scale-110 transition-all ease-out duration-300 group" style={{ padding: "35% 0" }}>
-                            <motion.figure layoutId="aboutImage" className="absolute inset-0 w-full h-full">
-                              <img src="/static/img/cjarellano.png" alt="" className="absolute inset-0 w-full h-full object-cover"/>
-                              <div className="absolute bottom-0 z-10 w-full h-3/4 bg-gradient-to-t from-gray-900"/>
-                            </motion.figure>
-                            <div className="flex items-center justify-center absolute inset-0 z-10 w-full h-full p-6 pb-8">
-                              <h2 className="text-xl leading-tight font-semibold tracking-wide capitalize">
-                                About
-                              </h2>
-                            </div>
-                          </a>
-                        </Link>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </section>
-            )}
-          </div>
-        </main>
+          )}
+        </div>
       </>
     );
   }

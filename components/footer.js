@@ -5,11 +5,11 @@ function Footer() {
   const year = new Date().getFullYear();
 
   return (
-    <footer className="py-12">
+    <footer role="contentinfo" className="py-12">
       <div className="container">
         <div className="sm:flex items-center justify-between max-w-8xl mx-auto text-center text-gray-500">
           <p className="font-medium">© {year} C.J. Arellano</p>
-          <ul className="flex items-center justify-center mt-4 sm:mt-0 space-x-4">
+          <ul aria-label="Social Links" className="flex items-center justify-center mt-4 sm:mt-0 space-x-4">
             <li className="p-2">
               <a
                 href="http://www.facebook.com/cjlucasarellano"

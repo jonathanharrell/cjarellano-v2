@@ -27,7 +27,7 @@ const Meta = ({
           <meta name="twitter:description" content={description}/>
           <meta name="twitter:site" content="@cjarellano"/>
           <meta name="twitter:creator" content="@cjarellano"/>
-          <meta name="twitter:image" content={`${baseUrl}${image}?123`}/>
+          <meta name="twitter:image" content={`${baseUrl}${image}`}/>
           <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
           <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/>
           <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"/>

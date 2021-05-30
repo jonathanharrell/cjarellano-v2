@@ -46,7 +46,7 @@ class Project extends Component {
           type="article"
           url={this.props.router.asPath}
         />
-        <main id="main" className="pt-20 lg:pt-28">
+        <div className="pt-20 lg:pt-28">
           <div className="container">
             <div className="2xl:max-w-6xl mx-auto">
               <article>
@@ -146,7 +146,7 @@ class Project extends Component {
               )}
             </div>
           </div>
-        </main>
+        </div>
       </>
     );
   }

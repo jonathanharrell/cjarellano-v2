@@ -24,6 +24,7 @@
 		"focus-visible": "^5.2.0",
 		"framer-motion": "^4.1.17",
 		"gray-matter": "^4.0.3",
+		"lodash": "^4.17.21",
 		"netlify-cms-app": "^2.15.6",
 		"next": "^10.2.0",
 		"postcss-focus-visible": "^5.0.0",
