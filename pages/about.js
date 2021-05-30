@@ -23,7 +23,7 @@ export default function About() {
           <div className="max-w-4xl mx-auto">
             <motion.figure layoutId="aboutImage" className="lg:max-w-lg lg:float-right lg:-mr-24 mb-12 lg:p-12 transform lg:rotate-6">
               <img src={image} alt="Photo of C.J." className="w-full rounded-2xl shadow-xl"/>
-              <figcaption className="mt-4 text-sm text-gray-500">
+              <figcaption className="mt-4 text-sm text-gray-400">
                 Photo by <a href="http://www.bravelux.com" target="_blank" rel="noopener noreferrer">Joe Mazza</a>
               </figcaption>
             </motion.figure>

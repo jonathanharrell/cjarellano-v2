@@ -6,7 +6,7 @@ function Quote({ quote, larger }) {
       <p className={`mb-2 ${larger ? "text-2xl" : "text-xl"} leading-relaxed`}>
         {quote.text}
       </p>
-      <cite className="font-medium text-gray-500">
+      <cite className="font-medium text-gray-400">
         {quote.source}
       </cite>
     </blockquote>

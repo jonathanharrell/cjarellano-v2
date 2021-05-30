@@ -200,7 +200,7 @@ select {
 
 .twitter-tweet,
 .fb-post {
-  @apply text-gray-500;
+  @apply text-gray-400;
 
   p {
     @apply mb-4 text-lg text-white;

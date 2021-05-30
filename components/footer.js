@@ -7,7 +7,7 @@ function Footer() {
   return (
     <footer role="contentinfo" className="py-12">
       <div className="container">
-        <div className="sm:flex items-center justify-between max-w-8xl mx-auto text-center text-gray-500">
+        <div className="sm:flex items-center justify-between max-w-8xl mx-auto text-center text-gray-400">
           <p className="font-medium">© {year} C.J. Arellano</p>
           <ul aria-label="Social Links" className="flex items-center justify-center mt-4 sm:mt-0 space-x-4">
             <li className="p-2">
