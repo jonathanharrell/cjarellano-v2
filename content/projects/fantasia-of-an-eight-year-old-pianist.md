@@ -5,7 +5,7 @@ description: "Portrait of a third-grader triggered by Mozart "
 type: Short Story
 categories:
   - editing
-image: img/fantasia.jpg
+image: /static/img/fantasia.jpg
 quotes:
   - text: The narrative structure is a blast. The language, the feather-touch of
       narrative, the urgent, imaginative mind of the eight-year-old protagonist
