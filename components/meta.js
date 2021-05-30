@@ -21,11 +21,13 @@ const Meta = ({
           <meta name="og:description" property="og:description" content={description}/>
           <meta property="og:site_name" content="C.J. Arellano"/>
           <meta property="og:url" content={canonical}/>
+          <meta property="og:image" content={`${baseUrl}${image}`}/>
           <meta name="twitter:card" content="summary"/>
           <meta name="twitter:title" content={title}/>
           <meta name="twitter:description" content={description}/>
           <meta name="twitter:site" content="@cjarellano"/>
           <meta name="twitter:creator" content="@cjarellano"/>
+          <meta name="twitter:image" content={`${baseUrl}${image}?123`}/>
           <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
           <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/>
           <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"/>
@@ -34,8 +36,6 @@ const Meta = ({
           <meta name="msapplication-TileColor" content="#ff00fe"/>
           <meta name="theme-color" content="#ffffff"/>
           <meta name="viewport" content="initial-scale=1.0, width=device-width"/>
-          <meta property="og:image" content={`${baseUrl}${image}`}/>
-          <meta name="twitter:image" content={`${baseUrl}${image}`}/>
           <link rel="canonical" href={canonical}/>
           <script type="application/ld+json" dangerouslySetInnerHTML={{__html: `{"@context":"http:\\/\\/schema.org","@type":"WebSite","@id":"#website","url":"https:\\/\\/cjarellano.com\\/","name":"C.J. Arellano"}`}}></script>
       </Head>
