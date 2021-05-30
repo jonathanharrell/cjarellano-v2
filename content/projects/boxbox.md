@@ -5,7 +5,7 @@ description: Silly send-up of subscription boxes
 type: Commercial Parody
 categories:
   - writing
-image: img/boxbox.jpg
+image: /static/img/boxbox.jpg
 video: https://www.youtube.com/watch?v=DfQ0LYYbVOo
 awards:
   - source: Funny or Die

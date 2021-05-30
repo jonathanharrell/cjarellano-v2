@@ -1,5 +1,5 @@
-import Head from "next/head";
 import React, { Component, useEffect, useState } from "react";
+import Head from "next/head";
 import Link from "next/link";
 import { motion, useMotionValue, useViewportScroll } from "framer-motion";
 import { attributes } from "../content/home.md";
@@ -182,6 +182,9 @@ class Home extends Component {
 
     return (
       <>
+        <Head>
+          <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+        </Head>
         <Meta url={this.props.router.asPath}/>
         <HomeHeader
           title={title}
