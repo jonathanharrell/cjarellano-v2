@@ -57,7 +57,7 @@ collections:
           - { label: "Source", name: "source", widget: "string", hint: "The organization awarding the committee." }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Link", name: "link", widget: "string", required: false }
-      - { label: "Excerpt", name: "excerpt", widget: "markdown", hint: "The text of a writing sample." }
+      - { label: "Excerpt", name: "excerpt", widget: "markdown", required: false, hint: "The text of a writing sample." }
   - name: "pages"
     label: "Pages"
     files:
