@@ -161,6 +161,7 @@ class Category extends Component {
           <section>
             <div className="container">
               <div className="2xl:max-w-6xl mx-auto">
+                <h2 className="sr-only">Projects</h2>
                 <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
                   {this.props.projects.map(project => (
                     <ProjectTeaser key={project.slug} project={project} animate={true}/>
@@ -190,9 +191,9 @@ class Category extends Component {
                             <div className="absolute bottom-0 z-10 w-full h-3/4 bg-gradient-to-t from-gray-900"/>
                           </motion.figure>
                           <div className="flex items-center justify-center absolute inset-0 z-10 w-full h-full p-6 pb-8">
-                            <h2 className="text-xl leading-tight font-semibold tracking-wide capitalize">
+                            <h3 className="text-xl leading-tight font-semibold tracking-wide capitalize">
                               About
-                            </h2>
+                            </h3>
                           </div>
                         </a>
                       </Link>

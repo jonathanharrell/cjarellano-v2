@@ -27,9 +27,9 @@ function ProjectTeaser({ project, animate }) {
           <p className="mt-auto mb-1 text-sm font-semibold tracking-wide opacity-50">
             {project.type}
           </p>
-          <h2 id={labelId} className="text-xl leading-tight font-semibold tracking-wide">
+          <h3 id={labelId} className="text-xl leading-tight font-semibold tracking-wide">
             {project.title}
-          </h2>
+          </h3>
         </div>
       </a>
     </Link>

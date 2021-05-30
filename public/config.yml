@@ -5,6 +5,7 @@ backend:
 local_backend: true
 publish_mode: editorial_workflow
 media_folder: static/img
+public_folder: /img
 collections:
   - name: "categories"
     label: "Categories"
