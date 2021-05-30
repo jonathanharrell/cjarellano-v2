@@ -1,7 +1,7 @@
 import Head from "next/head";
 import React from "react";
 
-const baseUrl = process.env.URL;
+const baseUrl = process.env.NEXT_PUBLIC_SITE_URL;
 
 const Meta = ({
   title = "C.J. Arellano - Writer. Director. Editor.",
