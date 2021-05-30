@@ -1,7 +1,7 @@
 import Head from "next/head";
 import React from "react";
 
-const baseUrl = "https://cjarellano.com"
+const baseUrl = process.env.URL;
 
 const Meta = ({
   title = "C.J. Arellano - Writer. Director. Editor.",
@@ -34,8 +34,8 @@ const Meta = ({
           <meta name="msapplication-TileColor" content="#ff00fe"/>
           <meta name="theme-color" content="#ffffff"/>
           <meta name="viewport" content="initial-scale=1.0, width=device-width"/>
-          <meta property="og:image" content={image}/>
-          <meta name="twitter:image" content={image}/>
+          <meta property="og:image" content={`${baseUrl}${image}`}/>
+          <meta name="twitter:image" content={`${baseUrl}${image}`}/>
           <link rel="canonical" href={canonical}/>
           <script type="application/ld+json" dangerouslySetInnerHTML={{__html: `{"@context":"http:\\/\\/schema.org","@type":"WebSite","@id":"#website","url":"https:\\/\\/cjarellano.com\\/","name":"C.J. Arellano"}`}}></script>
       </Head>
