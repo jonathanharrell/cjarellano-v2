@@ -183,7 +183,7 @@ class Home extends Component {
     return (
       <>
         <Head>
-          <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+          <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" async/>
         </Head>
         <Meta url={this.props.router.asPath}/>
         <HomeHeader
