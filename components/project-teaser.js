@@ -14,12 +14,12 @@ function ProjectTeaser({ project, animate }) {
             layoutId={`project-image-${project.slug}`}
             className="absolute inset-0 w-full h-full"
           >
-            <img src={project.image} alt="" className="absolute inset-0 w-full h-full object-cover"/>
+            <img src={project.image} alt="" loading="lazy" className="absolute inset-0 w-full h-full object-cover"/>
             <div className="absolute bottom-0 z-10 w-full h-3/4 bg-gradient-to-t from-gray-900"/>
           </motion.figure>
         ) : (
           <figure className="absolute inset-0 w-full h-full">
-            <img src={project.image} alt="" className="absolute inset-0 w-full h-full object-cover"/>
+            <img src={project.image} alt="" loading="lazy" className="absolute inset-0 w-full h-full object-cover"/>
             <div className="absolute bottom-0 z-10 w-full h-3/4 bg-gradient-to-t from-gray-900"/>
           </figure>
         )}
