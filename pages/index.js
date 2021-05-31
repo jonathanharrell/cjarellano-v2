@@ -38,7 +38,7 @@ function HomeHeader({ title, getImageFilter, handleMouseOver, handleMouseOut }) 
 
     function updateImageScale() {
       const threshold = 450;
-      if (scrollY.current === 0) return imageScale.set(1);
+      if (scrollY.current <= 0) return imageScale.set(1);
       if (scrollY.current > threshold) return imageScale.set(1.5);
       return imageScale.set(1 + (scrollY.current / threshold));
     }
