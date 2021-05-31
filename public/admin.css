@@ -27153,7 +27153,9 @@ video {
 
   font-weight: 400;
 
-  src: url('../public/static/fonts/sharp-sans/SharpSansDispNo1-Book.woff') format('woff'), url('../public/static/fonts/sharp-sans/SharpSansDispNo1-Book.woff2') format('woff2');
+  src: url('../fonts/sharp-sans/SharpSansDispNo1-Book.woff') format('woff'), url('../fonts/sharp-sans/SharpSansDispNo1-Book.woff2') format('woff2');
+
+  font-display: swap;
 }
 
 @font-face {
@@ -27163,7 +27165,9 @@ video {
 
   font-weight: 400;
 
-  src: url('../public/static/fonts/sharp-sans/SharpSansDispNo1-BookIt.woff') format('woff'), url('../public/static/fonts/sharp-sans/SharpSansDispNo1-BookIt.woff2') format('woff2');
+  src: url('../fonts/sharp-sans/SharpSansDispNo1-BookIt.woff') format('woff'), url('../fonts/sharp-sans/SharpSansDispNo1-BookIt.woff2') format('woff2');
+
+  font-display: swap;
 }
 
 @font-face {
@@ -27173,7 +27177,9 @@ video {
 
   font-weight: 500;
 
-  src: url('../public/static/fonts/sharp-sans/SharpSansDispNo1-Medium.woff') format('woff'), url('../public/static/fonts/sharp-sans/SharpSansDispNo1-Medium.woff2') format('woff2');
+  src: url('../fonts/sharp-sans/SharpSansDispNo1-Medium.woff') format('woff'), url('../fonts/sharp-sans/SharpSansDispNo1-Medium.woff2') format('woff2');
+
+  font-display: swap;
 }
 
 @font-face {
@@ -27183,7 +27189,9 @@ video {
 
   font-weight: 500;
 
-  src: url('../public/static/fonts/sharp-sans/SharpSansDispNo1-MediumIt.woff') format('woff'), url('../public/static/fonts/sharp-sans/SharpSansDispNo1-MediumIt.woff') format('woff2');
+  src: url('../fonts/sharp-sans/SharpSansDispNo1-MediumIt.woff') format('woff'), url('../fonts/sharp-sans/SharpSansDispNo1-MediumIt.woff') format('woff2');
+
+  font-display: swap;
 }
 
 @font-face {
@@ -27193,7 +27201,9 @@ video {
 
   font-weight: 600;
 
-  src: url('../public/static/fonts/sharp-sans/SharpSansDispNo1-Semibold.woff') format('woff'), url('../public/static/fonts/sharp-sans/SharpSansDispNo1-Semibold.woff') format('woff2');
+  src: url('../fonts/sharp-sans/SharpSansDispNo1-Semibold.woff') format('woff'), url('../fonts/sharp-sans/SharpSansDispNo1-Semibold.woff') format('woff2');
+
+  font-display: swap;
 }
 
 @font-face {
@@ -27203,7 +27213,9 @@ video {
 
   font-weight: 600;
 
-  src: url('../public/static/fonts/sharp-sans/SharpSansDispNo1-SemiboldIt.woff') format('woff'), url('../public/static/fonts/sharp-sans/SharpSansDispNo1-SemiboldIt.woff2') format('woff2');
+  src: url('../fonts/sharp-sans/SharpSansDispNo1-SemiboldIt.woff') format('woff'), url('../fonts/sharp-sans/SharpSansDispNo1-SemiboldIt.woff2') format('woff2');
+
+  font-display: swap;
 }
 
 @font-face {
@@ -27213,7 +27225,9 @@ video {
 
   font-weight: 700;
 
-  src: url('../public/static/fonts/sharp-sans/SharpSansDispNo1-Bold.woff') format('woff'), url('../public/static/fonts/sharp-sans/SharpSansDispNo1-Bold.woff2') format('woff2');
+  src: url('../fonts/sharp-sans/SharpSansDispNo1-Bold.woff') format('woff'), url('../fonts/sharp-sans/SharpSansDispNo1-Bold.woff2') format('woff2');
+
+  font-display: swap;
 }
 
 @font-face {
@@ -27223,41 +27237,21 @@ video {
 
   font-weight: 800;
 
-  src: url('../public/static/fonts/sharp-sans/SharpSansDispNo1-Extrabold.woff') format('woff'), url('../public/static/fonts/sharp-sans/SharpSansDispNo1-Extrabold.woff2') format('woff2');
-}
+  src: url('../fonts/sharp-sans/SharpSansDispNo1-Extrabold.woff') format('woff'), url('../fonts/sharp-sans/SharpSansDispNo1-Extrabold.woff2') format('woff2');
 
-html {
-  --tw-bg-opacity: 1;
-  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));
-}
-
-body {
-  --tw-bg-opacity: 1;
-  background-color: rgba(23, 23, 23, var(--tw-bg-opacity));
-  min-height: 100vh;
-  --tw-text-opacity: 1;
-  color: rgba(255, 255, 255, var(--tw-text-opacity));
-}
-
-a:focus, button:focus, input:focus, textarea:focus, select:focus {
-  outline: 2px solid transparent;
-  outline-offset: 2px;
+  font-display: swap;
 }
 
 a.focus-visible, button.focus-visible, input.focus-visible, textarea.focus-visible, select.focus-visible {
   --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
-  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
+  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(0px + var(--tw-ring-offset-width)) var(--tw-ring-color);
   box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
-  --tw-ring-opacity: 1;
-  --tw-ring-color: rgba(255, 0, 255, var(--tw-ring-opacity));
 }
 
 a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visible, select:focus-visible {
   --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
-  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);
+  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(0px + var(--tw-ring-offset-width)) var(--tw-ring-color);
   box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
-  --tw-ring-opacity: 1;
-  --tw-ring-color: rgba(255, 0, 255, var(--tw-ring-opacity));
 }
 
 .prose strong {
@@ -27294,138 +27288,8 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
     text-decoration: none;
   }
 
-.nav-link {
-  position: relative;
-}
-
-.nav-link::before, .nav-link::after {
-  background-color: currentColor;
-  pointer-events: none;
-  position: absolute;
-  left: 0px;
-  top: 100%;
-  width: 100%;
-}
-
-.nav-link::before {
-  height: 100%;
-  opacity: 0;
-  top: 0px;
-  content: "";
-}
-
-.nav-link:hover::before {
-  opacity: 1;
-  -webkit-animation: coverUp 0.3s ease forwards;
-          animation: coverUp 0.3s ease forwards;
-}
-
-@-webkit-keyframes coverUp {
-  0% {
-    transform-origin: 50% 100%;
-    transform: scale3d(1, 0.045, 1);
-  }
-
-  50% {
-    transform-origin: 50% 100%;
-    transform: scale3d(1, 1, 1);
-  }
-
-  51% {
-    transform-origin: 50% 0%;
-    transform: scale3d(1, 1, 1);
-  }
-
-  100% {
-    transform-origin: 50% 0%;
-    transform: scale3d(1, 0.045, 1);
-  }
-}
-
-@keyframes coverUp {
-  0% {
-    transform-origin: 50% 100%;
-    transform: scale3d(1, 0.045, 1);
-  }
-
-  50% {
-    transform-origin: 50% 100%;
-    transform: scale3d(1, 1, 1);
-  }
-
-  51% {
-    transform-origin: 50% 0%;
-    transform: scale3d(1, 1, 1);
-  }
-
-  100% {
-    transform-origin: 50% 0%;
-    transform: scale3d(1, 0.045, 1);
-  }
-}
-
-.nav-link::after {
-  content: "";
-  transition: opacity 0.3s;
-}
-
-.nav-link:hover::after {
-  opacity: 0;
-}
-
-.logo-animating .yellow {
-    transform-origin: 50%;
-    -webkit-animation: rotateIn 1.5s cubic-bezier(0.4, 1, 0.75, 0.5) infinite forwards;
-            animation: rotateIn 1.5s cubic-bezier(0.4, 1, 0.75, 0.5) infinite forwards;
-    animation-direction: normal, reverse;
-  }
-
-.logo-animating .magenta {
-    transform-origin: 50%;
-    -webkit-animation: rotateIn 1s cubic-bezier(0.4, 1, 0.75, 0.5) infinite forwards;
-            animation: rotateIn 1s cubic-bezier(0.4, 1, 0.75, 0.5) infinite forwards;
-  }
-
-.logo-animating .cyan {
-    transform-origin: 50%;
-    -webkit-animation: rotateIn 0.5s cubic-bezier(0.4, 1, 0.75, 0.5) infinite forwards;
-            animation: rotateIn 0.5s cubic-bezier(0.4, 1, 0.75, 0.5) infinite forwards;
-  }
-
-@-webkit-keyframes rotateIn {
-  from { transform: rotate(0deg);
-  }
-
-  to { transform: rotate(360deg);
-  }
-}
-
-@keyframes rotateIn {
-  from { transform: rotate(0deg);
-  }
-
-  to { transform: rotate(360deg);
-  }
-}
-
-@-webkit-keyframes rotateOut {
-  from { transform: rotate(360deg);
-  }
-
-  to { transform: rotate(0deg);
-  }
-}
-
-@keyframes rotateOut {
-  from { transform: rotate(360deg);
-  }
-
-  to { transform: rotate(0deg);
-  }
-}
-
 .home-header {
-  height: 350px;
+  height: 400px;
 }
 
 @media (min-width: 640px) {
@@ -27437,7 +27301,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
 
 .twitter-tweet, .fb-post {
   --tw-text-opacity: 1;
-  color: rgba(115, 115, 115, var(--tw-text-opacity));
+  color: rgba(163, 163, 163, var(--tw-text-opacity));
 }
 
 .twitter-tweet p, .fb-post p {

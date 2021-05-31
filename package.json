@@ -7,7 +7,7 @@
 		"build": "next build",
 		"dev": "next",
 		"export": "next export",
-		"generate-admin-css": "postcss build styles/globals.css -o public/admin.css",
+		"generate-admin-css": "postcss build styles/admin.css -o public/admin.css",
 		"server": "npx netlify-cms-proxy-server",
 		"start": "next start",
 		"start-production": "npm run generate-admin-css && npm run build"

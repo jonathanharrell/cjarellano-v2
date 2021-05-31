@@ -7,10 +7,12 @@ class CustomDocument extends Document {
   }
 
   render() {
+    const isAdmin = this.props. __NEXT_DATA__.page === "/admin";
+
     return (
-      <Html lang="en">
+      <Html lang="en" className={!isAdmin ? "bg-black" : ""}>
         <Head/>
-        <body>
+        <body className={!isAdmin ? "min-h-screen bg-gray-900 text-white" : ""}>
           <Main/>
           <NextScript/>
         </body>

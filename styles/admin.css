@@ -1,0 +1,104 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Sharp Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/sharp-sans/SharpSansDispNo1-Book.woff') format('woff'), url('../fonts/sharp-sans/SharpSansDispNo1-Book.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    font-style: italic;
+    font-weight: 400;
+    src: url('../fonts/sharp-sans/SharpSansDispNo1-BookIt.woff') format('woff'), url('../fonts/sharp-sans/SharpSansDispNo1-BookIt.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/sharp-sans/SharpSansDispNo1-Medium.woff') format('woff'), url('../fonts/sharp-sans/SharpSansDispNo1-Medium.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    font-style: italic;
+    font-weight: 500;
+    src: url('../fonts/sharp-sans/SharpSansDispNo1-MediumIt.woff') format('woff'), url('../fonts/sharp-sans/SharpSansDispNo1-MediumIt.woff') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/sharp-sans/SharpSansDispNo1-Semibold.woff') format('woff'), url('../fonts/sharp-sans/SharpSansDispNo1-Semibold.woff') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    font-style: italic;
+    font-weight: 600;
+    src: url('../fonts/sharp-sans/SharpSansDispNo1-SemiboldIt.woff') format('woff'), url('../fonts/sharp-sans/SharpSansDispNo1-SemiboldIt.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/sharp-sans/SharpSansDispNo1-Bold.woff') format('woff'), url('../fonts/sharp-sans/SharpSansDispNo1-Bold.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sharp Sans';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fonts/sharp-sans/SharpSansDispNo1-Extrabold.woff') format('woff'), url('../fonts/sharp-sans/SharpSansDispNo1-Extrabold.woff2') format('woff2');
+    font-display: swap;
+}
+
+.prose {
+    strong {
+        @apply text-current;
+    }
+
+    a {
+        @apply text-current hover:no-underline;
+    }
+
+    hr {
+        @apply border-gray-700;
+    }
+}
+
+.project-content {
+    p {
+        @apply mb-3;
+
+        &:first-child {
+            @apply text-2xl;
+        }
+    }
+
+    a {
+        @apply underline hover:no-underline;
+    }
+}
+
+.twitter-tweet,
+.fb-post {
+    @apply text-gray-400;
+
+    p {
+        @apply mb-4 text-lg text-white;
+    }
+}
