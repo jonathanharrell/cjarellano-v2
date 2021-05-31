@@ -1,12 +1,12 @@
 import React from "react";
 import { useRouter } from "next/router";
 import { motion } from "framer-motion";
-import { attributes, html } from "../content/about.md";
 import Meta from "../components/meta";
 import Quote from "../components/quote";
 import SocialMediaPost from "../components/social-media-post";
+import { attributes, html } from "../content/about.md";
 
-export default function About() {
+const About = () => {
   const { title, image, quotes, posts } = attributes;
   const router = useRouter();
 
@@ -57,3 +57,5 @@ export default function About() {
     </>
   );
 }
+
+export default About;

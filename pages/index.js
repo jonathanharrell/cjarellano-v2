@@ -8,7 +8,7 @@ import ProjectTeaser from "../components/project-teaser";
 import { getAllProjects } from "../lib/api";
 import { withRouter } from "next/router";
 
-function HomeHeader({ title, getImageFilter, handleMouseOver, handleMouseOut }) {
+const HomeHeader = ({ title, getImageFilter, handleMouseOver, handleMouseOut }) => {
   const { scrollY } = useViewportScroll();
   const [textPointerEvents, setTextPointerEvents] = useState("auto");
   const textOpacity = useMotionValue(1);
@@ -16,32 +16,32 @@ function HomeHeader({ title, getImageFilter, handleMouseOver, handleMouseOut }) 
   const imageScale = useMotionValue(1);
 
   useEffect(() => {
-    function updateTextPointerEvents() {
+    const updateTextPointerEvents = () => {
       const threshold = 250;
       if (scrollY.current <= threshold) return setTextPointerEvents("auto");
       return setTextPointerEvents("none");
-    }
+    };
 
-    function updateTextOpacity() {
+    const updateTextOpacity = () => {
       const threshold = 250;
       if (scrollY.current === 0) return textOpacity.set(1);
       if (scrollY.current > threshold) return textOpacity.set(0);
       return textOpacity.set(1 - (scrollY.current / threshold));
-    }
+    };
 
-    function updateImageOpacity() {
+    const updateImageOpacity = () => {
       const threshold = 450;
       if (scrollY.current === 0) return imageOpacity.set(1);
       if (scrollY.current > threshold) return imageOpacity.set(0);
       return imageOpacity.set(1 - (scrollY.current / threshold));
-    }
+    };
 
-    function updateImageScale() {
+    const updateImageScale = () => {
       const threshold = 450;
       if (scrollY.current <= 0) return imageScale.set(1);
       if (scrollY.current > threshold) return imageScale.set(1.5);
       return imageScale.set(1 + (scrollY.current / threshold));
-    }
+    };
 
     updateTextPointerEvents();
     updateTextOpacity();
@@ -137,7 +137,7 @@ function HomeHeader({ title, getImageFilter, handleMouseOver, handleMouseOut }) 
       </motion.div>
     </header>
   );
-}
+};
 
 class Home extends Component {
   constructor(props) {

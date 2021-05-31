@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Facebook, Twitter } from "react-feather";
 
-function SocialMediaPost({ post }) {
+const SocialMediaPost = ({ post }) => {
   const [data, setData] = useState(null);
 
   useEffect(async() => {
@@ -15,7 +15,7 @@ function SocialMediaPost({ post }) {
     } catch (error) {
       console.error(error);
     }
-  }, [post])
+  }, [post]);
 
   return data ? (
     <a
@@ -29,6 +29,6 @@ function SocialMediaPost({ post }) {
       <div dangerouslySetInnerHTML={{ __html: data.html }}/>
     </a>
   ) : null;
-}
+};
 
 export default SocialMediaPost;

@@ -2,7 +2,7 @@ import React from "react";
 import { PlayIcon } from "@heroicons/react/solid";
 import { getCategoryColor } from "../../helpers";
 
-function CategoryPreview({ entry, widgetsFor }) {
+const CategoryPreview = ({ entry, widgetsFor }) => {
   const title = entry.getIn(["data", "title"]);
   const action = entry.getIn(["data", "action"]);
   const headline = entry.getIn(["data", "headline"]);
@@ -47,6 +47,6 @@ function CategoryPreview({ entry, widgetsFor }) {
       </header>
     </div>
   );
-}
+};
 
 export default CategoryPreview;

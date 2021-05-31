@@ -2,7 +2,7 @@ import React from "react";
 import { useRouter } from "next/router";
 import Meta from "../components/meta";
 
-export default function PrivacyPolicy() {
+const Privacy = () => {
   const router = useRouter();
 
   return (
@@ -25,3 +25,5 @@ export default function PrivacyPolicy() {
     </>
   );
 }
+
+export default Privacy;

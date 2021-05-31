@@ -5,7 +5,7 @@ import CategoryPreview from "../cms/previews/CategoryPreview";
 import ProjectPreview from "../cms/previews/ProjectPreview";
 import AboutPreview from "../cms/previews/AboutPreview";
 
-function Admin() {
+const Admin = () => {
   useEffect(() => {
     (async() => {
       const CMS = (await import("netlify-cms-app")).default;
@@ -26,6 +26,6 @@ function Admin() {
       </Head>
     </div>
   );
-}
+};
 
 export default Admin;

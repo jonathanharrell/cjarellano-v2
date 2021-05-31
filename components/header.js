@@ -4,8 +4,8 @@ import { useRouter } from "next/router";
 import { motion, useMotionValue, useViewportScroll } from "framer-motion";
 import { Transition, Dialog } from "@headlessui/react";
 import { MailIcon } from "@heroicons/react/solid";
-import Logo from "./logo";
 import { XIcon } from "@heroicons/react/outline";
+import Logo from "./logo";
 
 const MobileMenu = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -120,18 +120,18 @@ const Header = () => {
   const router = useRouter();
 
   useEffect(() => {
-    function updatePointerEvents() {
+    const updatePointerEvents = () => {
       const threshold = 60;
       if (scrollY.current <= threshold) return setPointerEvents("auto");
       return setPointerEvents("none");
-    }
+    };
 
-    function updateOpacity() {
+    const updateOpacity = () => {
       const threshold = 60;
       if (scrollY.current === 0) return opacity.set(1);
       if (scrollY.current > threshold) return opacity.set(0);
       return opacity.set(1 - (scrollY.current / threshold));
-    }
+    };
 
     updatePointerEvents();
     updateOpacity();
@@ -139,9 +139,9 @@ const Header = () => {
     const unsubscribePointerEvents = scrollY.onChange(updatePointerEvents);
     const unsubscribeOpacity = scrollY.onChange(updateOpacity);
 
-    function handleRouteChange() {
+    const handleRouteChange = () => {
       setLogoAnimating(false);
-    }
+    };
 
     router.events.on("routeChangeComplete", handleRouteChange);
 

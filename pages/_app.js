@@ -2,11 +2,11 @@ import React, { useEffect, useRef } from "react";
 import Head from "next/head";
 import { AnimateSharedLayout } from "framer-motion";
 import "focus-visible";
-import "../styles/globals.css";
 import Header from "../components/header";
 import Footer from "../components/footer";
+import "../styles/globals.css";
 
-function MyApp({ Component, pageProps, router }) {
+const App = ({ Component, pageProps, router }) => {
   const mainRef = useRef();
 
   if (router.route.includes("/admin")) {
@@ -57,6 +57,6 @@ gtag('config', 'G-PJ4MFW5RE2');`}}/>
     </AnimateSharedLayout>
     </>
   );
-}
+};
 
-export default MyApp;
+export default App;

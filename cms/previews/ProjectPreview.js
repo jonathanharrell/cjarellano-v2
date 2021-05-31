@@ -4,7 +4,7 @@ import { PlayIcon } from "@heroicons/react/solid";
 import Award from "../../components/award";
 import Quote from "../../components/quote";
 
-function ProjectPreview({ entry, widgetFor, widgetsFor }) {
+const ProjectPreview = ({ entry, widgetFor, widgetsFor }) => {
   const title = entry.getIn(["data", "title"]);
   const type = entry.getIn(["data", "type"]);
   const image = entry.getIn(["data", "image"]);
@@ -74,6 +74,6 @@ function ProjectPreview({ entry, widgetFor, widgetsFor }) {
       </div>
     </div>
   );
-}
+};
 
 export default ProjectPreview;

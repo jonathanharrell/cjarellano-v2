@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "next/link";
 
-function CategoryPreview({ entry }) {
+const CategoryPreview = ({ entry }) => {
   const title = entry.getIn(["data", "title"]);
 
   return (
@@ -65,6 +65,6 @@ function CategoryPreview({ entry }) {
       </header>
     </div>
   );
-}
+};
 
 export default CategoryPreview;

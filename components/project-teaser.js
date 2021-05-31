@@ -3,7 +3,7 @@ import Link from "next/link";
 import { motion } from "framer-motion";
 import kebabCase from "lodash/kebabCase";
 
-function ProjectTeaser({ project, animate }) {
+const ProjectTeaser = ({ project, animate }) => {
   const labelId = `${kebabCase(project.title)}-label`;
 
   return (
@@ -34,6 +34,6 @@ function ProjectTeaser({ project, animate }) {
       </a>
     </Link>
   );
-}
+};
 
 export default ProjectTeaser;

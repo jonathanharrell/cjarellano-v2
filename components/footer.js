@@ -1,7 +1,7 @@
 import React from "react";
 import { Facebook, Instagram, Linkedin, Twitter, Youtube } from "react-feather";
 
-function Footer() {
+const Footer = () => {
   const year = new Date().getFullYear();
 
   return (
@@ -70,6 +70,6 @@ function Footer() {
       </div>
     </footer>
   );
-}
+};
 
 export default Footer;

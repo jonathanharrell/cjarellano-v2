@@ -2,8 +2,8 @@ import React, { Fragment, useEffect, useRef, useState } from "react";
 import { Dialog, Transition } from "@headlessui/react";
 import { XIcon } from "@heroicons/react/outline";
 import Vimeo from "@vimeo/player";
-import Logo from "./logo";
 import YouTube from "react-youtube";
+import Logo from "./logo";
 
 const VimeoPlayer = ({ url }) => {
   const [loaded, setLoaded] = useState(false);
@@ -177,19 +177,17 @@ const VideoPlayer = ({ isOpen, setIsOpen, url }) => (
   </Transition>
 );
 
-function Video({ url, PlayButton }) {
-  if (!url) throw new Error("Element does not contain a url url!");
+const Video = ({ url, PlayButton }) => {
+  if (!url) throw new Error("Element does not contain a url!");
 
   const [isOpen, setIsOpen] = useState(false);
 
   return (
     <>
-      {PlayButton && (
-        <PlayButton isOpen={isOpen} setIsOpen={setIsOpen}/>
-      )}
+      {PlayButton && <PlayButton isOpen={isOpen} setIsOpen={setIsOpen}/>}
       <VideoPlayer isOpen={isOpen} setIsOpen={setIsOpen} url={url}/>
     </>
   );
-}
+};
 
 export default Video;

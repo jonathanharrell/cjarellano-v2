@@ -10,7 +10,7 @@ import Video from "../../components/video";
 import { getAllCategories, getProjectsByCategory } from "../../lib/api";
 import { getCategoryColor } from "../../helpers";
 
-function CategoryHeader({ category }) {
+const CategoryHeader = ({ category }) => {
   const { attributes: { title, action, headline, image, reels } } = category;
   const { scrollY } = useViewportScroll();
   const [textPointerEvents, setTextPointerEvents] = useState("auto");
@@ -19,32 +19,32 @@ function CategoryHeader({ category }) {
   const imageScale = useMotionValue(1);
 
   useEffect(() => {
-    function updateTextPointerEvents() {
+    const updateTextPointerEvents = () => {
       const threshold = 250;
       if (scrollY.current <= threshold) return setTextPointerEvents("auto");
       return setTextPointerEvents("none");
-    }
+    };
 
-    function updateTextOpacity() {
+    const updateTextOpacity = () => {
       const threshold = 250;
       if (scrollY.current === 0) return textOpacity.set(1);
       if (scrollY.current > threshold) return textOpacity.set(0);
       return textOpacity.set(1 - (scrollY.current / threshold));
-    }
+    };
 
-    function updateImageOpacity() {
+    const updateImageOpacity = () => {
       const threshold = 450;
       if (scrollY.current === 0) return imageOpacity.set(1);
       if (scrollY.current > threshold) return imageOpacity.set(0);
       return imageOpacity.set(1 - (scrollY.current / threshold));
-    }
+    };
 
-    function updateImageScale() {
+    const updateImageScale = () => {
       const threshold = 450;
       if (scrollY.current <= 0) return imageScale.set(1);
       if (scrollY.current > threshold) return imageScale.set(1.5);
       return imageScale.set(1 + (scrollY.current / threshold));
-    }
+    };
 
     updateTextPointerEvents();
     updateTextOpacity();
@@ -123,7 +123,7 @@ function CategoryHeader({ category }) {
       </motion.div>
     </header>
   );
-}
+};
 
 class Category extends Component {
   static async getInitialProps({ query }) {

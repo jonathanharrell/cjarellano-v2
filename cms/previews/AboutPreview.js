@@ -1,6 +1,6 @@
 import React from "react";
 
-function CategoryPreview({ entry, widgetFor }) {
+const CategoryPreview = ({ entry, widgetFor }) => {
   const title = entry.getIn(["data", "title"]);
   const image = entry.getIn(["data", "image"]);
   const body = widgetFor("body");
@@ -24,6 +24,6 @@ function CategoryPreview({ entry, widgetFor }) {
       </div>
     </div>
   );
-}
+};
 
 export default CategoryPreview;

@@ -119,7 +119,7 @@ class Project extends Component {
                 )}
               </article>
               {(this.props.relatedProjects.length > 0) && (
-                <section className="my-16 xl:my-20">
+                <section className="mt-8 mb-16 sm:mt-16 xl:my-20">
                   <header className="mb-8">
                     <h2 className="text-2xl font-semibold">Related projects</h2>
                   </header>
