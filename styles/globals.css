@@ -74,6 +74,10 @@ body {
   @apply min-h-screen bg-gray-900 text-white;
 }
 
+main {
+  @apply focus:outline-none;
+}
+
 a,
 button,
 input,

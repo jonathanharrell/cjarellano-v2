@@ -18,7 +18,7 @@ export default function About() {
         type="article"
         url={router.asPath}
       />
-      <div className="pt-20 lg:pt-32">
+      <div className="pt-24 lg:pt-32">
         <div className="container">
           <div className="max-w-4xl mx-auto">
             <motion.figure layoutId="aboutImage" className="lg:max-w-lg lg:float-right lg:-mr-24 mb-12 lg:p-12 transform lg:rotate-6">
@@ -28,7 +28,7 @@ export default function About() {
               </figcaption>
             </motion.figure>
             <header className="mb-8">
-              <h1 className="text-5xl font-bold leading-none">{title}</h1>
+              <h1 className="text-4xl md:text-5xl font-bold leading-none">{title}</h1>
             </header>
             <section dangerouslySetInnerHTML={{ __html: html }} className="max-w-none prose lg:prose-xl text-gray-400"/>
             {quotes && (

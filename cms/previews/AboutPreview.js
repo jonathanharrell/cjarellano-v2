@@ -14,7 +14,7 @@ function CategoryPreview({ entry, widgetFor }) {
               <img src={image} alt="" className="w-full rounded-2xl shadow-xl"/>
             </figure>
             <header className="mb-8">
-              <h1 className="text-5xl font-bold leading-none">{title}</h1>
+              <h1 className="text-4xl md:text-5xl font-bold leading-none">{title}</h1>
             </header>
             <div className="max-w-none prose lg:prose-xl text-gray-400">
               {body}

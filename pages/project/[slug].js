@@ -46,7 +46,7 @@ class Project extends Component {
           type="article"
           url={this.props.router.asPath}
         />
-        <div className="pt-20 lg:pt-28">
+        <div className="pt-24 lg:pt-28">
           <div className="container">
             <div className="2xl:max-w-6xl mx-auto">
               <article>
@@ -81,7 +81,7 @@ class Project extends Component {
                   <div className="lg:col-span-6 xl:col-span-7 relative z-10">
                     <header className="mb-6">
                       <p className="mb-2 font-semibold tracking-wide text-gray-400">{type}</p>
-                      <h1 className="text-5xl font-bold leading-none">{title}</h1>
+                      <h1 className="text-4xl md:text-5xl font-bold leading-none">{title}</h1>
                     </header>
                     <div dangerouslySetInnerHTML={{ __html: html }} className="project-content text-lg leading-relaxed text-gray-400"/>
                   </div>
@@ -131,7 +131,7 @@ class Project extends Component {
                 </section>
               )}
               {(categories && categories.length > 0) && (
-                <section className="my-16 xl:my-20">
+                <section className="mt-16 mb-8 xs:mt-16 xl:my-20">
                   <header className="mb-8">
                     <h2 className="text-2xl font-semibold">More from C.J.</h2>
                   </header>

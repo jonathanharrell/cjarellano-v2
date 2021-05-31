@@ -171,7 +171,7 @@ class Category extends Component {
             </div>
           </section>
           {(categories && categories.length > 0) && (
-            <section className="my-16 xl:my-20">
+            <section className="mt-16 mb-8 xs:mt-16 xl:my-20">
               <div className="container">
                 <div className="2xl:max-w-6xl mx-auto">
                   <header className="mb-8">
@@ -187,7 +187,7 @@ class Category extends Component {
                       <Link href="/about">
                         <a className="block relative overflow-hidden rounded-lg shadow-xl hover:shadow-2xl transform lg:hover:scale-110 transition-all ease-out duration-300 group" style={{ padding: "35% 0" }}>
                           <motion.figure layoutId="aboutImage" className="absolute inset-0 w-full h-full">
-                            <img src="/public/static/img/cjarellano.jpg" alt="" className="absolute inset-0 w-full h-full object-cover"/>
+                            <img src="/static/img/cjarellano.jpg" alt="" className="absolute inset-0 w-full h-full object-cover"/>
                             <div className="absolute bottom-0 z-10 w-full h-3/4 bg-gradient-to-t from-gray-900"/>
                           </motion.figure>
                           <div className="flex items-center justify-center absolute inset-0 z-10 w-full h-full p-6 pb-8">

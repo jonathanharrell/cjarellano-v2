@@ -35,7 +35,7 @@ function ProjectPreview({ entry, widgetFor, widgetsFor }) {
               <div className="lg:col-span-6 xl:col-span-7 relative z-10">
                 <header className="mb-6">
                   <p className="mb-2 font-semibold tracking-wide text-gray-400">{type}</p>
-                  <h1 className="text-5xl font-bold leading-none">{title}</h1>
+                  <h1 className="text-4xl md:text-5xl font-bold leading-none">{title}</h1>
                 </header>
                 <div className="project-content text-lg leading-relaxed text-gray-400">
                   {body}

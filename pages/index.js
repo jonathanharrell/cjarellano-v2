@@ -96,11 +96,11 @@ function HomeHeader({ title, getImageFilter, handleMouseOver, handleMouseOut }) 
                   <Link href="/category/writer">
                     <a
                       id="writer"
-                      className="primary-link relative hover:text-magenta transform hover:scale-105 transition-transform ease-out duration-300 group"
+                      className="primary-link relative pr-4 sm:pr-0 hover:text-magenta transform hover:scale-105 transition-transform ease-out duration-300 group"
                       onMouseOver={handleMouseOver}
                       onMouseOut={handleMouseOut}
                     >
-                      <span className="absolute -top-3 -bottom-3 -left-4 -right-2 bg-white opacity-0 group-hover:opacity-100 shadow-xl transition-opacity ease-out duration-300"/>
+                      <span className="absolute -top-3 -bottom-3 -left-4 -right-2 bg-white opacity-0 sm:group-hover:opacity-100 shadow-xl transition-opacity ease-out duration-300"/>
                       <span className="relative z-10">Writer</span>
                       <span>.</span>
                     </a>
@@ -108,11 +108,11 @@ function HomeHeader({ title, getImageFilter, handleMouseOver, handleMouseOut }) 
                   <Link href="/category/director">
                     <a
                       id="director"
-                      className="primary-link relative pl-4 hover:text-cyan transform hover:scale-105 transition-transform ease-out duration-300 group"
+                      className="primary-link relative sm:pl-4 pr-4 sm:pr-0 hover:text-cyan transform hover:scale-105 transition-transform ease-out duration-300 group"
                       onMouseOver={handleMouseOver}
                       onMouseOut={handleMouseOut}
                     >
-                      <span className="absolute -top-3 -bottom-3 -left-1 -right-2 bg-white opacity-0 group-hover:opacity-100 shadow-xl transition-opacity ease-out duration-300"/>
+                      <span className="absolute -top-3 -bottom-3 -left-1 -right-2 bg-white opacity-0 sm:group-hover:opacity-100 shadow-xl transition-opacity ease-out duration-300"/>
                       <span className="relative z-10">Director</span>
                       <span>.</span>
                     </a>
@@ -120,11 +120,11 @@ function HomeHeader({ title, getImageFilter, handleMouseOver, handleMouseOut }) 
                   <Link href="/category/editor">
                     <a
                       id="editor"
-                      className="primary-link relative pl-4 hover:text-yellow transform hover:scale-105 transition-transform ease-out duration-300 group"
+                      className="primary-link relative sm:pl-4 hover:text-yellow transform hover:scale-105 transition-transform ease-out duration-300 group"
                       onMouseOver={handleMouseOver}
                       onMouseOut={handleMouseOut}
                     >
-                      <span className="absolute -top-3 -bottom-3 -left-1 -right-2 bg-white opacity-0 group-hover:opacity-100 shadow-xl transition-opacity ease-out duration-300"/>
+                      <span className="absolute -top-3 -bottom-3 -left-1 -right-2 bg-white opacity-0 sm:group-hover:opacity-100 shadow-xl transition-opacity ease-out duration-300"/>
                       <span className="relative z-10">Editor</span>
                       <span>.</span>
                     </a>
@@ -194,7 +194,7 @@ class Home extends Component {
         />
         {(recentProjects && recentProjects.length > 0) && (
           <div className="relative z-10 -mt-12">
-            <section aria-labelledby="recent-projects-label" className="mb-20">
+            <section aria-labelledby="recent-projects-label" className="mb-12 sm:mb-20">
               <div className="container">
                 <div className="2xl:max-w-6xl mx-auto">
                   <header className="mb-8">
