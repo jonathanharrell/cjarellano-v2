@@ -204,11 +204,25 @@ select {
   }
 }
 
+.social-media-posts {
+  @screen md {
+    columns: 2;
+    column-gap: 32px;
+  }
+}
+
 .twitter-tweet,
 .fb-post {
   @apply text-gray-400;
 
+  margin-top: 0 !important;
+  margin-bottom: 32px !important;
+
   p {
     @apply mb-4 text-lg text-white;
   }
+}
+
+.twitter-tweet {
+  display: inline-flex !important;
 }

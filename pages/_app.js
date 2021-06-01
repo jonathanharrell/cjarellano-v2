@@ -32,11 +32,13 @@ const App = ({ Component, pageProps, router }) => {
   return (
     <>
       <Head>
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-PJ4MFW5RE2"/>
+        <script async defer src="https://www.googletagmanager.com/gtag/js?id=G-PJ4MFW5RE2"/>
         <script dangerouslySetInnerHTML={{__html: `window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-PJ4MFW5RE2');`}}/>
+        <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"/>
+        <script async defer src="https://platform.twitter.com/widgets.js" charSet="utf-8"/>
       </Head>
     <AnimateSharedLayout type="crossfade">
       <div className="flex flex-col min-h-screen">

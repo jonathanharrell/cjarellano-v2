@@ -44,7 +44,7 @@ const About = () => {
             {posts && (
               <section className="my-16 xl:my-20">
                 <h2 className="sr-only">Social Media Posts</h2>
-                <div className="grid gap-8 grid-cols-1 md:grid-cols-2">
+                <div className="social-media-posts">
                   {posts.map((post, index) => (
                     <SocialMediaPost key={index} post={post}/>
                   ))}
