@@ -167,7 +167,7 @@ const VideoPlayer = ({ isOpen, setIsOpen, url }) => (
               <span className="sr-only">Close video player</span>
             </button>
           </header>
-          <div className="flex-1 min-h-0 pb-24 sm:pb-0">
+          <div className="flex-1 min-h-0 pb-24 lg:pb-0">
             {url.includes("vimeo") && <VimeoPlayer url={url}/>}
             {url.includes("youtube") && <YoutubePlayer url={url}/>}
           </div>
