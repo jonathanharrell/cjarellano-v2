@@ -18,7 +18,7 @@ const VimeoPlayer = ({ url }) => {
       title: false
     });
 
-    videoPlayer.on("play", () => setLoaded(true));
+    videoPlayer.on("loaded", () => setLoaded(true));
 
     const handleKeydown = async(event) => {
       if (event.code === "Space") {

@@ -1,7 +1,7 @@
 {
-	"name": "cjarellano-v2",
-	"version": "1.0.0",
-	"description": "",
+	"name": "cjarellano",
+	"version": "2.0.0",
+	"description": "C.J. Arellano's portfolio site.",
 	"main": "index.js",
 	"scripts": {
 		"build": "next build",
@@ -12,9 +12,13 @@
 		"start": "next start",
 		"start-production": "npm run generate-admin-css && npm run build"
 	},
-	"keywords": [],
-	"author": "",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jonathanharrell/cjarellano"
+	},
+	"author": "Jonathan Harrell",
 	"license": "ISC",
+	"homepage": "https://www.cjarellano.com",
 	"dependencies": {
 		"@headlessui/react": "^1.2.0",
 		"@heroicons/react": "^1.0.1",
