@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 
 const SocialMediaPost = ({ post }) => {
   const regex = /http(s?):\/\/(www.)?(.*).com/;
@@ -9,6 +9,7 @@ const SocialMediaPost = ({ post }) => {
   }
 
   const [data, setData] = useState(null);
+  const embed = useRef();
 
   useEffect(async() => {
     if (provider === "twitter") {
@@ -16,6 +17,10 @@ const SocialMediaPost = ({ post }) => {
         const response = await fetch(`/api/${provider}?url=${post.url}`);
         const data = await response.json();
         setData(data);
+
+        if (window.twttr && embed.current) {
+          window.twttr.widgets.load(embed.current);
+        }
       } catch (error) {
         console.error(error);
       }
@@ -23,7 +28,7 @@ const SocialMediaPost = ({ post }) => {
   }, [provider]);
 
   return data ? (
-    <div dangerouslySetInnerHTML={{ __html: data.html }}/>
+    <div ref={embed} dangerouslySetInnerHTML={{ __html: data.html }}/>
   ) : null;
 };
 
