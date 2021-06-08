@@ -6,7 +6,7 @@ type: Copywriting
 categories:
   - writing
 image: /static/img/snort-monster.jpg
-video: https://vimeo.com/228579293
+video: https://vimeo.com/557275133/769662f02b
 ---
 Hey, dogs: imagine the wind in your ears as you take in the skyline along twinkling Lake Michigan. You're on a boat!
 
