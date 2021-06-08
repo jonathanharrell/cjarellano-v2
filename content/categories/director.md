@@ -1,7 +1,7 @@
 ---
 title: Director
 action: directing
-headline: A clever headline can go here
+headline: Action. Vision. Precision.
 image: /static/img/gina-color.jpg
 public: true
 reels:

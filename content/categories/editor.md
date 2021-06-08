@@ -1,7 +1,7 @@
 ---
 title: Editor
 action: editing
-headline: A clever headline can go here
+headline: “Cut!” was just the beginning.
 image: /static/img/hybrid-color.jpg
 public: true
 reels:

@@ -83,7 +83,7 @@ const CategoryHeader = ({ category }) => {
         <div className="absolute inset-0 z-10 w-full h-full">
           <div className="container h-full">
             <div className="flex flex-col items-start justify-center 2xl:max-w-6xl h-full mx-auto">
-              <div className="max-w-sm sm:max-w-lg lg:max-w-lg pt-20">
+              <div className="max-w-sm sm:max-w-lg lg:max-w-xl pt-20">
                 <h1 className="mb-4 text-shadow text-xl md:text-2xl font-semibold">
                   {title}
                 </h1>
