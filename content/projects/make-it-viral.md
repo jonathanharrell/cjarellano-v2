@@ -6,7 +6,7 @@ type: Brand Video
 categories:
   - directing
 image: /static/img/make-it-viral.jpg
-video: https://www.youtube.com/watch?v=5077vdyl2HE
+video: https://vimeo.com/557275531/68ede82deb
 ---
 All brands want to go viral, but phony approaches result in a sickly view count.
 
