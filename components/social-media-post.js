@@ -4,10 +4,6 @@ const SocialMediaPost = ({ post }) => {
   const regex = /http(s?):\/\/(www.)?(.*).com/;
   const [,,,provider] = post.url.match(regex);
 
-  if (provider === "facebook") {
-    return <div className="fb-post" data-href={post.url} data-skin="dark"/>
-  }
-
   const [data, setData] = useState(null);
   const embed = useRef();
 
@@ -25,7 +21,20 @@ const SocialMediaPost = ({ post }) => {
         console.error(error);
       }
     }
+
+    if (provider === "facebook") {
+      if (window.FB) {
+        window.FB.init({
+          xfbml      : true,
+          version    : 'v11.0'
+        });
+      }
+    }
   }, [provider]);
+
+  if (provider === "facebook") {
+    return <div className="fb-post w-full" data-href={post.url} data-lazy="true"/>
+  }
 
   return data ? (
     <div ref={embed} dangerouslySetInnerHTML={{ __html: data.html }}/>
