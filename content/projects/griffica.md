@@ -1,9 +1,9 @@
 ---
 title: Griffica
 date: 2021-06-24T22:59:30.270Z
-description: A gay man suspects his boyfriend is a demon in this LGBTQ horror
-  film from filmmaker C.J. Arellano.
-type: "Short narrative "
+description: A gay man suspects his coffee-loving boyfriend is a demon in this
+  LGBTQ horror film from filmmaker C.J. Arellano.
+type: "Short film "
 categories:
   - writing
   - directing
@@ -16,4 +16,4 @@ awards:
 ---
 He'll keep you up all night. 
 
-A man suspects his boyfriend is a demon in this short horror film. ([Contact C.J.](mailto:CJ@CJarellano.com) for a private screener.)
+A man suspects his coffee-loving boyfriend is a demon in this short horror tale. ([Contact C.J.](mailto:CJ@CJarellano.com) for a private screener.)
