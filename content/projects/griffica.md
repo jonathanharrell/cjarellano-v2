@@ -8,6 +8,7 @@ categories:
   - writing
   - directing
 image: /static/img/griffica_poster_16x9_notitle_2.jpg
+video: https://vimeo.com/515326462
 awards:
   - source: New York International Film Awards
     title: Finalist - Best Short Film
