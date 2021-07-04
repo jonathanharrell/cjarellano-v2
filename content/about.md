@@ -31,4 +31,6 @@ As a [video director](/category/director), C.J. has directed video for big names
 
 C.J. served as [video editor](/category/editor) for the historic Biden for President campaign in the fall of 2020. Previously, he has edited content for Walgreens, GE, Hanes, Orbitz, Clorox, Nissan, and Secret Deodorant, with millions of views on branded social media channels, in-store displays, online training portals, and broadcast television. C.J. is currently editing **[Art & Pep](artandpep.org),** a feature documentary about the owners of Sidetrack, an iconic Chicago gay bar and wellspring of LGBT+ activism for over four decades.
 
-C.J. co-created and directed **[Lavender Scare](https://anchor.fm/lavender-scare-podcast),** a horror anthology podcast featuring audio plays written and performed by LGBT+ artists. He also co-hosts **[Bottle Episodes](https://anchor.fm/cj-arellano),** a podcast that discusses TV episodes that take place in a single location. To learn more about any of the above projects, drop him a line: [CJ@CJarellano.com](mailto:cj@cjarellano.com)!
+C.J. co-created and directed **[Lavender Scare](https://anchor.fm/lavender-scare-podcast),** a horror anthology podcast featuring audio plays written and performed by LGBT+ artists. He also co-hosts **[Bottle Episodes](https://anchor.fm/cj-arellano),** a podcast that discusses TV episodes that take place in a single location. 
+
+C.J. is currently based in Brooklyn, NY. Drop him a line! [CJ@CJarellano.com](mailto:cj@cjarellano.com)
