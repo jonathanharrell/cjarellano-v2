@@ -10,7 +10,7 @@ categories:
 image: /static/img/griffica_poster_16x9_notitle_2.jpg
 awards:
   - source: New York International Film Awards
-    title: Semi-Finalist
+    title: Finalist - Best Short Film
   - title: Official Selection
     source: New York Indie Shorts Awards
 ---
