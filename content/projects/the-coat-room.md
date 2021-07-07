@@ -8,6 +8,9 @@ categories:
 image: /static/img/coat-room.jpg
 video: https://vimeo.com/260594504
 awards:
+  - source: Deep Focus Film Festival
+    title: Winner - Best Series/Pilot
+    link: https://www.deepfocusfilmfestival.com
   - title: Best Actress
     source: London Short Series Festival
     link: http://londonshortseries.com/winners-2018/
@@ -20,8 +23,6 @@ awards:
   - title: Finalist
     source: Blow-Up International Arthouse Film Fest
     link: http://www.blowupfilmfest.com/
-  - source: Deep Focus Film Festival
-    title: Winner - Best Series/Pilot
 ---
 She's all dressed down with nowhere to go.
 
