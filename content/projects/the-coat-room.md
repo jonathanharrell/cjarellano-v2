@@ -3,10 +3,10 @@ title: The Coat Room
 date: 2018-11-14T19:31:20.591Z
 description: She's all dressed down with nowhere to go
 type: Web Series
+categories:
+  - directing
 image: /static/img/coat-room.jpg
 video: https://vimeo.com/260594504
-categories:
-- directing
 awards:
   - title: Best Actress
     source: London Short Series Festival
@@ -20,6 +20,8 @@ awards:
   - title: Finalist
     source: Blow-Up International Arthouse Film Fest
     link: http://www.blowupfilmfest.com/
+  - source: Deep Focus Film Festival
+    title: Winner - Best Series/Pilot
 ---
 She's all dressed down with nowhere to go.
 
