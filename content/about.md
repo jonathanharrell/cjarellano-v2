@@ -12,6 +12,7 @@ quotes:
   - text: The show boasts slick video design by C.J. Arellano.
     source: Chicago Reader
 posts:
+  - url: https://twitter.com/cjarellano/status/1414594402819915776
   - url: https://twitter.com/cjarellano/status/928667652947632128
   - url: https://www.facebook.com/cjlucasarellano/posts/10102645446022247
   - url: https://www.facebook.com/cjlucasarellano/posts/10102133406678197
