@@ -14,6 +14,8 @@ awards:
     title: Finalist - Best Short Film
   - title: Official Selection
     source: New York Indie Shorts Awards
+  - source: Independent Shorts Awards
+    title: Official Selection
 ---
 He'll keep you up all night. 
 
