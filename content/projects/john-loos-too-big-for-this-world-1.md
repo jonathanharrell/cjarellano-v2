@@ -22,8 +22,10 @@ awards:
   - source: Indie Series Awards
     title: Nominee - Best Writing (John Loos)
   - source: Indie Series Awards
-    title: Best Guest Actor (Becca Levine)
+    title: Nominee - Best Guest Actor (Becca Levine)
   - source: Indie Series Awards
-    title: Best Guest Actor (Chris Kervick)
+    title: Nominee - Best Guest Actor (Chris Kervick)
 ---
-This sketch comedy series spotlights the work of John Loos, a queer comedian with a penchant for biting political satire. The show combines his delightfully wild characters with his sometimes dark, sometimes silly, always brutally honest worldview.
+This sketch comedy series spotlights the work of John Loos, a queer comedian with a penchant for biting political satire. 
+
+The show combines his delightfully wild characters with his sometimes dark, sometimes silly, always brutally honest worldview.
