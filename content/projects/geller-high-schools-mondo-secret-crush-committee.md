@@ -3,9 +3,9 @@ title: Geller High School's Mondo-Secret Crush Committee
 date: 2017-06-08T19:31:20.591Z
 description: Teen rom-com with a heist-y twist
 type: Feature Screenplay
-image: /static/img/geller-high-school.jpg
 categories:
   - writing
+image: /static/img/geller-high-school.jpg
 quotes:
   - text: The writing is sharp. The characters are wonderful, and the dialogue is
       first-rate. It has incredible market potential. It has everything one asks
@@ -23,6 +23,12 @@ awards:
     source: Reno Comedy Film Festival
   - title: 1st Place Winner, Alumni Feature Screenplay Category
     source: Written Image Screenwriting Competition
+  - source: Austin Comedy Film Festival
+    title: Official Selection
+  - source: Chicago Screenplay Awards
+    title: Official Selection
+  - source: Hollywood International Diversity Film Festival
+    title: Semi-Finalist
 ---
 They plan like thieves. They sneak like spies. They have one mission: to steal your heart.
 
