@@ -27,6 +27,8 @@ awards:
     title: Official Selection
   - source: Chicago Screenplay Awards
     title: Official Selection
+  - source: Hollywood International Diversity Film Festival
+    title: Semi-Finalist
 ---
 They plan like thieves. They sneak like spies. They have one mission: to steal your heart.
 
