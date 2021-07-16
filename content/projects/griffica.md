@@ -7,7 +7,7 @@ type: "Short film "
 categories:
   - writing
   - directing
-image: /static/img/_-griffica_poster_bright.jpg
+image: /static/img/_-griffica_poster_bright_notext.jpg
 video: https://vimeo.com/533670808
 awards:
   - source: New York International Film Awards
