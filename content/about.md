@@ -27,9 +27,9 @@ posts:
 ---
 C.J. is a media creator specializing in **genre-driven, comedic,** and **human interest** content.
 
-As a [writer](/category/writer), C.J. was named by the International Screenwriters' Association as one of the Top 25 Screenwriters to Watch. The screenplay contests he has won include the 43rd Asian-American International Film Festival's Screenplay Competition, the New York Screenplay Contest, and Columbia College Chicago's Written Image contest in the Alumni Feature Screenplay category.
+As a [writer](/category/writer), C.J. was named one of the Top 25 Screenwriters to Watch by the International Screenwriters' Association. He has won grand prizes in the 43rd Asian-American International Film Festival's Screenplay Competition, the New York Screenplay Contest, and Columbia College Chicago's Written Image contest in the Alumni Feature Screenplay category.
 
-As a [video director](/category/director), C.J. has directed video for big names such as The Second City, McDonald's, Chef Boyardee, Motorola, and the Heaven's Door whiskey brand co-created by Bob Dylan. C.J.'s directing work has been featured at the New York Television Film Festival, the Independent Television Festival, Out Web Fest, London Short Series Festival, and was a finalist at the Chicago International Blow-Up Arthouse Film Festival.
+As a [video director](/category/director), C.J. has directed for big names such as The Second City, McDonald's, Chef Boyardee, Motorola, and the Heaven's Door whiskey brand co-created by Bob Dylan. C.J.'s directing work has been featured at the New York Television Film Festival, the London Short Series Festival, and the Chicago International Blow-Up Arthouse Film Festival. His directing work won Best Series/Pilot at the Deep Focus Film Festival.
 
 C.J. served as [video editor](/category/editor) for the historic Biden for President campaign in the fall of 2020. Previously, he has edited content for Walgreens, GE, Hanes, Orbitz, Clorox, Nissan, and Secret Deodorant, with millions of views on branded social media channels, in-store displays, online training portals, and broadcast television. C.J. is currently editing **[Art & Pep](https://www.artandpep.org),** a feature documentary about the owners of Sidetrack, an iconic Chicago gay bar and wellspring of LGBT+ activism for over four decades.
 
