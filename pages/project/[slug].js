@@ -32,9 +32,10 @@ class Project extends Component {
     if (!this.props.project) return <div>not found</div>;
 
     const {
-      attributes: { title, description, type, image, video, quotes, awards, excerpt },
+      attributes: { title, description, type, image, video, categories: projectCategories, quotes, awards, excerpt },
       html
     } = this.props.project.default;
+
     const { categories } = this.props;
 
     return (
@@ -80,7 +81,10 @@ class Project extends Component {
                   </div>
                   <div className="lg:col-span-6 xl:col-span-7 relative z-10">
                     <header className="mb-6">
-                      <p className="mb-2 font-semibold tracking-wide text-gray-400">{type}</p>
+                      <p className="mb-2 tracking-wide text-gray-400 capitalize">
+                        <span className="font-semibold">{type}</span>&nbsp;
+                        ({projectCategories.join(", ")})
+                      </p>
                       <h1 className="text-4xl md:text-5xl font-bold leading-none">{title}</h1>
                     </header>
                     <div dangerouslySetInnerHTML={{ __html: html }} className="project-content text-lg leading-relaxed text-gray-400"/>
