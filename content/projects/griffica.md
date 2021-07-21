@@ -16,6 +16,8 @@ awards:
     source: New York Indie Shorts Awards
   - source: Independent Shorts Awards
     title: Official Selection
+  - source: Out on Film - Atlanta's LGBTQ Film Festival
+    title: Official Selection
 ---
 He'll keep you up all night. 
 
