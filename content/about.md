@@ -25,7 +25,7 @@ posts:
   - url: https://www.facebook.com/cjlucasarellano/posts/10102456063037267
   - url: https://www.facebook.com/cjlucasarellano/posts/10102192848486337
 ---
-C.J. is a media creator specializing in **genre-driven, comedic,** and **human interest** content.
+C.J. is a media creator specializing in **genre-driven** and **human interest** content.
 
 As a [writer](/category/writer), C.J. was named one of the Top 25 Screenwriters to Watch by the International Screenwriters' Association. He has won grand prizes in the 43rd Asian-American International Film Festival's Screenplay Competition, the New York Screenplay Contest, and Columbia College Chicago's Written Image contest in the Alumni Feature Screenplay category.
 
@@ -33,6 +33,6 @@ As a [video director](/category/director), C.J. has directed for big names such 
 
 C.J. served as [video editor](/category/editor) for the historic Biden for President campaign in the fall of 2020. Previously, he has edited content for Walgreens, GE, Hanes, Orbitz, Clorox, Nissan, and Secret Deodorant, with millions of views on branded social media channels, in-store displays, online training portals, and broadcast television. C.J. is currently editing **[Art & Pep](https://www.artandpep.org),** a feature documentary about the owners of Sidetrack, an iconic Chicago gay bar and wellspring of LGBT+ activism for over four decades.
 
-C.J. co-created and directed **[Lavender Scare](https://anchor.fm/lavender-scare-podcast),** a horror anthology podcast featuring audio plays written and performed by LGBT+ artists. He also co-hosts **[Bottle Episodes](https://anchor.fm/cj-arellano),** a podcast that discusses TV episodes that take place in a single location. 
+C.J. co-created and directed **[Lavender Scare](https://anchor.fm/lavender-scare-podcast),** a horror anthology podcast featuring audio plays written and performed by LGBT+ artists. He also co-hosts **[Bottle Episodes](https://anchor.fm/cj-arellano),** a podcast that discusses TV episodes that take place in a single location. Both shows are available on podcatchers everywhere, including Apple and Spotify.
 
-C.J. is currently based in Brooklyn, NY. Drop him a line! [CJ@CJarellano.com](mailto:cj@cjarellano.com)
+C.J. is currently based in Brooklyn, NY.
