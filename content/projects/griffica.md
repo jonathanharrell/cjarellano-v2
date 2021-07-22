@@ -15,21 +15,21 @@ awards:
   - title: Official Selection
     source: New York Indie Shorts Awards
   - source: Independent Shorts Awards (Platinum)
-    title: Best Horror Short
+    title: "Winner - Best Horror Short "
     link: https://independentshortsawards.com/award-winners-july-2021/
   - source: Out on Film - Atlanta's LGBTQ Film Festival
     title: Official Selection
   - link: https://independentshortsawards.com/award-winners-july-2021/
-    title: Best Editing
+    title: "Winner - Best Editing "
     source: Independent Shorts Awards (Platinum)
-  - title: Best Director (Male)
+  - title: Winner - Best Director (Male)
     source: Independent Shorts Awards (Gold)
     link: https://independentshortsawards.com/gold-awards-july-2021/
   - source: Independent Shorts Awards (Gold)
     link: https://independentshortsawards.com/gold-awards-july-2021/
-    title: Best LGBTQ Short
+    title: Winner - Best LGBTQ Short
   - source: Independent Shorts Awards (Gold)
-    title: Best Original Story
+    title: Winner - Best Original Story
     link: https://independentshortsawards.com/gold-awards-july-2021/
 ---
 He'll keep you up all night. 
