@@ -25,12 +25,15 @@ awards:
   - source: Independent Shorts Awards (Gold)
     link: https://independentshortsawards.com/gold-awards-july-2021/
     title: Winner - Best LGBTQ Short
-  - source: New York International Film Awards
-    title: Finalist - Best Short Film
-  - title: Official Selection
-    source: New York Indie Shorts Awards
   - source: Out on Film - Atlanta's LGBTQ Film Festival
     title: Official Selection
+    link: https://www.outonfilm.org
+  - source: New York International Film Awards
+    title: Finalist - Best Short Film
+    link: https://newyorkinternationalfilmawards.com/wp-content/uploads/sites/10/2021/07/NYIFA-June-2021WINNERS-.pdf
+  - title: Official Selection
+    source: New York Indie Shorts Awards
+    link: https://www.indieshortsawards.com/newyork/quarterly-festival/
 ---
 He'll keep you up all night. 
 
