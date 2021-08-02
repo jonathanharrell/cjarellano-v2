@@ -34,6 +34,9 @@ awards:
   - title: Official Selection
     source: New York Indie Shorts Awards
     link: https://www.indieshortsawards.com/newyork/quarterly-festival/
+  - source: Queerbee LGBT Film Festival
+    title: Official Selection
+    link: https://www.queerbee.org
 ---
 He'll keep you up all night. 
 
