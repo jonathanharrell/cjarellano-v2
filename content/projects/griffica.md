@@ -27,7 +27,7 @@ awards:
     title: Winner - Best LGBTQ Short
   - source: Out on Film - Atlanta's LGBTQ Film Festival
     title: Official Selection
-    link: https://www.outonfilm.org
+    link: https://2021ooff.eventive.org/films/griffica-6116b4700d2948003d28450c
   - source: New York International Film Awards
     title: Finalist - Best Short Film
     link: https://newyorkinternationalfilmawards.com/wp-content/uploads/sites/10/2021/07/NYIFA-June-2021WINNERS-.pdf
@@ -37,6 +37,9 @@ awards:
   - source: Queerbee LGBT Film Festival
     title: Official Selection
     link: https://www.queerbee.org
+  - source: Salem Horror Fest
+    title: Official Selection
+    link: https://www.salemhorror.com
 ---
 He'll keep you up all night. 
 
