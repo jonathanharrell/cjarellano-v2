@@ -25,6 +25,9 @@ awards:
   - source: Independent Shorts Awards (Gold)
     link: https://independentshortsawards.com/gold-awards-july-2021/
     title: Winner - Best LGBTQ Short
+  - source: "Reeling: The 39th Chicago LGBTQ+ International Film Festival"
+    title: "Official Selection "
+    link: https://reelingfilmfestival.org/2021/
   - source: Out on Film - Atlanta's LGBTQ Film Festival
     title: Official Selection
     link: https://2021ooff.eventive.org/films/griffica-6116b4700d2948003d28450c
