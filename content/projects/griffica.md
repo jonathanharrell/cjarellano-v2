@@ -28,6 +28,9 @@ awards:
   - source: "Reeling: The 39th Chicago LGBTQ+ International Film Festival"
     title: "Official Selection "
     link: https://reelingfilmfestival.org/2021/
+  - source: Salem Horror Fest
+    title: Official Selection
+    link: https://www.salemhorror.com/program/griffica
   - source: Out on Film - Atlanta's LGBTQ Film Festival
     title: Official Selection
     link: https://2021ooff.eventive.org/films/griffica-6116b4700d2948003d28450c
@@ -40,9 +43,6 @@ awards:
   - source: Queerbee LGBT Film Festival
     title: Official Selection
     link: https://www.queerbee.org
-  - source: Salem Horror Fest
-    title: Official Selection
-    link: https://www.salemhorror.com
 ---
 He'll keep you up all night. 
 
