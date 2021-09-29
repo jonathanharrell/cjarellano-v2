@@ -43,6 +43,18 @@ awards:
   - source: Queerbee LGBT Film Festival
     title: Official Selection
     link: https://www.queerbee.org
+  - source: Chicago Horror Film Festival
+    title: Official Selection
+    link: http://www.chicagohorrorfest.com
+  - source: "Ethereal Horror Film Festival "
+    title: Official Selection
+    link: https://www.etherealhorrorfest.com
+  - source: New York City Horror Film Festival
+    title: Official Selection
+    link: https://nychorrorfest.com
+  - source: Death's Parade Film Festival
+    title: Official Selection
+    link: https://www.deathparadefilmfest.com
 ---
 He'll keep you up all night. 
 
