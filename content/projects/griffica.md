@@ -25,6 +25,9 @@ awards:
   - source: Independent Shorts Awards (Gold)
     link: https://independentshortsawards.com/gold-awards-july-2021/
     title: Winner - Best LGBTQ Short
+  - source: "NewFest: The New York LGBTQ+ Film Festival"
+    title: Official Selection
+    link: https://newfest.org/event/shorts-queer-fear/
   - source: "Reeling: The 39th Chicago LGBTQ+ International Film Festival"
     title: "Official Selection "
     link: https://reelingfilmfestival.org/2021/
