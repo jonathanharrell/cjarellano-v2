@@ -15,7 +15,7 @@ awards:
     link: https://newfest.org/event/shorts-queer-fear/
   - source: "Ethereal Horror Film Festival "
     title: Official Selection
-    link: https://www.etherealhorrorfest.com
+    link: https://www.etherealhorrorfest.com/2021event
   - source: Out on Film - Atlanta's LGBTQ Film Festival
     title: Official Selection
     link: https://2021ooff.eventive.org/films/griffica-6116b4700d2948003d28450c
