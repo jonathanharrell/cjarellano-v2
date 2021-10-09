@@ -10,6 +10,9 @@ categories:
 image: /static/img/_-griffica_poster_bright_notext_2.jpg
 video: https://vimeo.com/533670808
 awards:
+  - source: "NewFest: The New York LGBTQ+ Film Festival"
+    title: Official Selection
+    link: https://newfest.org/event/shorts-queer-fear/
   - source: Independent Shorts Awards (Platinum)
     title: "Winner - Best Horror Short "
     link: https://independentshortsawards.com/award-winners-july-2021/
@@ -25,9 +28,6 @@ awards:
   - source: Independent Shorts Awards (Gold)
     link: https://independentshortsawards.com/gold-awards-july-2021/
     title: Winner - Best LGBTQ Short
-  - source: "NewFest: The New York LGBTQ+ Film Festival"
-    title: Official Selection
-    link: https://newfest.org/event/shorts-queer-fear/
   - source: "Reeling: The 39th Chicago LGBTQ+ International Film Festival"
     title: "Official Selection "
     link: https://reelingfilmfestival.org/2021/
@@ -61,4 +61,4 @@ awards:
 ---
 He'll keep you up all night. 
 
-A man suspects his coffee-loving boyfriend is a demon in this short horror tale. ([Contact C.J.](mailto:CJ@CJarellano.com) for a private screener.)
+A man suspects his coffee-loving boyfriend is a demon in this short horror tale. (Tap the laurels below for fest-specific info!)
