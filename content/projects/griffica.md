@@ -13,11 +13,14 @@ awards:
   - source: "NewFest: The New York LGBTQ+ Film Festival"
     title: Official Selection
     link: https://newfest.org/event/shorts-queer-fear/
+  - source: The Artists' Forum Festival of the Moving Image
+    title: Official Selection
+    link: https://theartistsforum.org/film-fest-2021/
   - source: "Ethereal Horror Film Festival "
     title: Official Selection
     link: https://www.etherealhorrorfest.com/2021event
   - source: Out on Film - Atlanta's LGBTQ Film Festival
-    title: Official Selection
+    title: Winner - Audience Award, Best Horror Short
     link: https://2021ooff.eventive.org/films/griffica-6116b4700d2948003d28450c
   - source: Independent Shorts Awards (Platinum)
     title: "Winner - Best Horror Short "
@@ -39,7 +42,7 @@ awards:
     link: https://reelingfilmfestival.org/2021/
   - source: Salem Horror Fest
     title: Official Selection
-    link: https://www.salemhorror.com/program/griffica
+    link: https://www.salemhorror.com/
   - source: New York International Film Awards
     title: Finalist - Best Short Film
     link: https://newyorkinternationalfilmawards.com/wp-content/uploads/sites/10/2021/07/NYIFA-June-2021WINNERS-.pdf
@@ -58,6 +61,21 @@ awards:
   - source: Death's Parade Film Festival
     title: Official Selection
     link: https://www.deathparadefilmfest.com
+  - source: Queer Fear Film Festival
+    title: Official Selection
+    link: https://www.queerfearfilmfestival.com
+  - source: Shockfest Film Festival
+    title: Official Selection
+    link: https://www.shockfilmfest.com
+  - source: Big Apple Film Festival
+    title: Official Selection
+    link: https://www.bigapplefilmfestival.com
+  - source: Los Angeles LGBT+ Festival
+    title: Official Selection
+    link: https://lgbtlosangelesfilmfestival.com
+  - source: OutReels Cincinnati
+    title: Official Selection
+    link: http://www.outreelscincy.org
 ---
 He'll keep you up all night. 
 
