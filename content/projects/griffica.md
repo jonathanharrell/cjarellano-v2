@@ -16,6 +16,12 @@ awards:
   - source: The Artists' Forum Festival of the Moving Image
     title: Official Selection
     link: https://theartistsforum.org/film-fest-2021/
+  - source: "Reeling: The 39th Chicago LGBTQ+ International Film Festival"
+    title: "Official Selection "
+    link: https://reelingfilmfestival.org/2021/
+  - source: Big Apple Film Festival
+    title: Official Selection
+    link: https://www.bigapplefilmfestival.com
   - source: "Ethereal Horror Film Festival "
     title: Official Selection
     link: https://www.etherealhorrorfest.com/2021event
@@ -37,9 +43,6 @@ awards:
   - source: Independent Shorts Awards (Gold)
     link: https://independentshortsawards.com/gold-awards-july-2021/
     title: Winner - Best LGBTQ Short
-  - source: "Reeling: The 39th Chicago LGBTQ+ International Film Festival"
-    title: "Official Selection "
-    link: https://reelingfilmfestival.org/2021/
   - source: Salem Horror Fest
     title: Official Selection
     link: https://www.salemhorror.com/
@@ -64,18 +67,15 @@ awards:
   - source: Queer Fear Film Festival
     title: Official Selection
     link: https://www.queerfearfilmfestival.com
-  - source: Shockfest Film Festival
-    title: Official Selection
-    link: https://www.shockfilmfest.com
-  - source: Big Apple Film Festival
-    title: Official Selection
-    link: https://www.bigapplefilmfestival.com
   - source: Los Angeles LGBT+ Festival
     title: Official Selection
     link: https://lgbtlosangelesfilmfestival.com
   - source: OutReels Cincinnati
     title: Official Selection
     link: http://www.outreelscincy.org
+  - source: Shockfest Film Festival
+    title: Official Selection
+    link: https://www.shockfilmfest.com
 ---
 He'll keep you up all night. 
 
