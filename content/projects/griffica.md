@@ -16,18 +16,21 @@ awards:
   - source: The Artists' Forum Festival of the Moving Image
     title: Official Selection
     link: https://theartistsforum.org/film-fest-2021/
+  - source: Out on Film - Atlanta's LGBTQ Film Festival
+    title: Winner - Audience Award, Best Horror Short
+    link: https://2021ooff.eventive.org/films/griffica-6116b4700d2948003d28450c
   - source: "Reeling: The 39th Chicago LGBTQ+ International Film Festival"
     title: "Official Selection "
     link: https://reelingfilmfestival.org/2021/
+  - source: Los Angeles LGBT+ Festival
+    title: WINNER - Best Film
+    link: https://vimeo.com/647617521/910ed0cd56
   - source: Big Apple Film Festival
     title: Official Selection
     link: https://www.bigapplefilmfestival.com
   - source: "Ethereal Horror Film Festival "
     title: Official Selection
     link: https://www.etherealhorrorfest.com/2021event
-  - source: Out on Film - Atlanta's LGBTQ Film Festival
-    title: Winner - Audience Award, Best Horror Short
-    link: https://2021ooff.eventive.org/films/griffica-6116b4700d2948003d28450c
   - source: Independent Shorts Awards (Platinum)
     title: "Winner - Best Horror Short "
     link: https://independentshortsawards.com/award-winners-july-2021/
@@ -67,15 +70,15 @@ awards:
   - source: Queer Fear Film Festival
     title: Official Selection
     link: https://www.queerfearfilmfestival.com
-  - source: Los Angeles LGBT+ Festival
-    title: Official Selection
-    link: https://lgbtlosangelesfilmfestival.com
   - source: OutReels Cincinnati
     title: Official Selection
     link: http://www.outreelscincy.org
   - source: Shockfest Film Festival
     title: Official Selection
     link: https://www.shockfilmfest.com
+  - source: Official Selection
+    title: British Horror Film Festival
+    link: https://www.filmfestivalguild.com/the-british-horror-film-festival
 ---
 He'll keep you up all night. 
 
