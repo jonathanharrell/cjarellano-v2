@@ -19,12 +19,12 @@ awards:
   - source: Out on Film - Atlanta's LGBTQ Film Festival
     title: Winner - Audience Award, Best Horror Short
     link: https://2021ooff.eventive.org/films/griffica-6116b4700d2948003d28450c
+  - source: Los Angeles LGBT+ Festival
+    title: Winner - Best Film
+    link: https://vimeo.com/647617521/910ed0cd56
   - source: "Reeling: The 39th Chicago LGBTQ+ International Film Festival"
     title: "Official Selection "
     link: https://reelingfilmfestival.org/2021/
-  - source: Los Angeles LGBT+ Festival
-    title: WINNER - Best Film
-    link: https://vimeo.com/647617521/910ed0cd56
   - source: Big Apple Film Festival
     title: Official Selection
     link: https://www.bigapplefilmfestival.com
