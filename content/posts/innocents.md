@@ -17,8 +17,14 @@ Like last year's poignant *Haunting of Bly Manor*, *The Innocents* is adapted fr
 
 One scene in particular never fails to shiver my timbers: 
 
-<div class="aspect-w-16 aspect-h-9">
-  <iframe src="https://www.youtube.com/embed/VEkAKpFMJW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="relative" style="padding: 56.25% 0 0 0;">
+  <iframe 
+    src="https://www.youtube.com/embed/VEkAKpFMJW4" 
+    title="Video player" 
+    class="absolute top-0 left-0 w-full h-full"
+    frameborder="0" 
+    allowfullscreen
+  ></iframe>
 </div>
 
 So what makes this scare in broad daylight work? 

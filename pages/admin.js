@@ -22,18 +22,36 @@ const Admin = () => {
             widget: 'string'
           }
         ],
+        pattern: /^<div class="relative" style="padding: 56\.25% 0 0 0;">$\s*?<iframe\s*?src="(.*?)".*?><\/iframe>\n^<\/div>$/ms,
         fromBlock: function(match) {
           return {
             url: match[1]
           };
         },
         toBlock: function(data) {
-          return `
-            <div class="aspect-w-16 aspect-h-9">
-              <iframe src="${data.url}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-          `;
+          if (!data.url) return null;
+          return `<div class="relative" style="padding: 56.25% 0 0 0;">
+  <iframe 
+    src="${data.url}" 
+    title="Video player" 
+    class="absolute top-0 left-0 w-full h-full"
+    frameborder="0" 
+    allowfullscreen
+  ></iframe>
+</div>`;
         },
+        toPreview: function(data) {
+          if (!data.url) return null;
+          return `<div class="relative" style="padding: 56.25% 0 0 0;">
+  <iframe 
+    src="${data.url}" 
+    title="Video player" 
+    class="absolute top-0 left-0 w-full h-full"
+    frameborder="0" 
+    allowfullscreen
+  ></iframe>
+</div>`;
+        }
       });
 
       CMS.registerPreviewStyle("/admin.css");
