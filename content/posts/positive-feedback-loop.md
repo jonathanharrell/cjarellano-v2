@@ -1,5 +1,5 @@
 ---
-title: Positive Feedback Loop
+title: "GRIFFICA: Positive Feedback Loop"
 date: 2021-11-20T14:01:48.221Z
 description: Whoa! My short “Griffica” was awarded BEST FILM by the LGBT+ Los
   Angeles Film Festival, an offshoot of the Wildsound Feedback Film Festival.
