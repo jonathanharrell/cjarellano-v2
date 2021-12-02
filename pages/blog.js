@@ -21,7 +21,7 @@ class Blog extends React.Component {
           title={title}
           url={this.props.router.asPath}
         />
-        <div className="pt-24 lg:pt-32">
+        <div className="py-28 lg:py-32">
           <div className="container">
             <div className="max-w-4xl mx-auto">
               <header className="mb-8 md:mb-10">
