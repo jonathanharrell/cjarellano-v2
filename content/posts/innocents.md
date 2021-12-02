@@ -17,7 +17,7 @@ Like last year's poignant *Haunting of Bly Manor*, *The Innocents* is adapted fr
 
 One scene in particular never fails to shiver my timbers: 
 
-<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/VEkAKpFMJW4" 
     title="Video player" 

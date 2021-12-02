@@ -11,7 +11,7 @@ I enjoy identifying musical intervals in songs and collecting them into a little
 
 Major second ascending - “Silent Night” (“Si--”)
 
-<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/UNpiQwgStNA?start=12" 
     title="Video player" 
@@ -23,7 +23,7 @@ Major second ascending - “Silent Night” (“Si--”)
 
 Major second descending - “We Three Kings of Orient Are” (“We three”)
 
-<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/k8mjRxkMBkE?start=15" 
     title="Video player" 
@@ -35,7 +35,7 @@ Major second descending - “We Three Kings of Orient Are” (“We three”)
 
 Minor second ascending - “White Christmas” (“I’m dream--”)
 
-<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/w9QLn7gM-hY?start=8" 
     title="Video player" 
@@ -47,7 +47,7 @@ Minor second ascending - “White Christmas” (“I’m dream--”)
 
 Minor second descending - “Carol of the Bells” (“Hark! How”)
 
-<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/V7nSKqfBk6k?start=9" 
     title="Video player" 
@@ -59,7 +59,7 @@ Minor second descending - “Carol of the Bells” (“Hark! How”)
 
 Major third ascending - “Have Yourself a Merry Little Christmas” (“Have your--”)
 
-<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/D2G7AdAisfA?start=4" 
     title="Video player" 
@@ -71,7 +71,7 @@ Major third ascending - “Have Yourself a Merry Little Christmas” (“Have yo
 
 Major third descending - “Christmastime Is Here” (“Christmas--”)
 
-<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/4PzetPqepXA?start=9" 
     title="Video player" 
@@ -83,7 +83,7 @@ Major third descending - “Christmastime Is Here” (“Christmas--”)
 
 Minor third ascending - “Angels We Have Heard on High” (“we have”)
 
-<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/WHWqj6gKS9g?start=14" 
     title="Video player" 
@@ -95,7 +95,7 @@ Minor third ascending - “Angels We Have Heard on High” (“we have”)
 
 Minor third descending - “Frosty the Snowman” (“Frosty”)
 
-<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/k6zW225k_O0?start=13" 
     title="Video player" 
@@ -107,7 +107,7 @@ Minor third descending - “Frosty the Snowman” (“Frosty”)
 
 Major fourth ascending - “Feliz Navidad” (“Feliz”)
 
-<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/RTtc2pM1boE?start=12" 
     title="Video player" 
@@ -119,7 +119,7 @@ Major fourth ascending - “Feliz Navidad” (“Feliz”)
 
 Major fourth descending - “O Come All Ye Faithful” (“come all”)
 
-<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/Y3egGjeiWEA?start=23" 
     title="Video player" 
@@ -131,7 +131,7 @@ Major fourth descending - “O Come All Ye Faithful” (“come all”)
 
 Perfect fifth ascending - “God Rest Ye Merry Gentlemen” (“rest ye”) 
 
-<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/YAD9jOHfEoo?start=2" 
     title="Video player" 
@@ -143,7 +143,7 @@ Perfect fifth ascending - “God Rest Ye Merry Gentlemen” (“rest ye”)
 
 Augmented fifth ascending - “Believe” by Josh Groban (“sleeping”)
 
-<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/Gr_skHRt6tM?start=12" 
     title="Video player" 
@@ -155,7 +155,7 @@ Augmented fifth ascending - “Believe” by Josh Groban (“sleeping”)
 
 Major sixth ascending - “The Stowaway” (“Once I”)
 
-<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/vXPAgqvbGoQ?start=30" 
     title="Video player" 
@@ -167,7 +167,7 @@ Major sixth ascending - “The Stowaway” (“Once I”)
 
 Major seventh ascending - “River” by Joni Mitchell (“It’s com-...”)
 
-<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/3NH-ctddY9o?start=17" 
     title="Video player" 
@@ -179,7 +179,7 @@ Major seventh ascending - “River” by Joni Mitchell (“It’s com-...”)
 
 Perfect octave ascending - “The Christmas Song” (“Chestnuts”)
 
-<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/hwacxSnc4tI?start=16" 
     title="Video player" 
