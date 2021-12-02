@@ -100,6 +100,10 @@ select {
   hr {
     @apply border-gray-700;
   }
+
+  iframe {
+    @apply w-full;
+  }
 }
 
 .project-content {

@@ -93,6 +93,11 @@ const MobileMenu = () => {
                     </Link>
                   </li>
                   <li>
+                    <Link href="/blog">
+                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">Blog</a>
+                    </Link>
+                  </li>
+                  <li>
                     <Link href="/about">
                       <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">About</a>
                     </Link>
@@ -186,6 +191,11 @@ const Header = () => {
                   <li className="mr-8">
                     <Link href="/category/editor">
                       <a className="nav-link font-semibold tracking-wide hover:text-yellow">Editor</a>
+                    </Link>
+                  </li>
+                  <li className="mr-8">
+                    <Link href="/blog">
+                      <a className="nav-link font-semibold tracking-wide">Blog</a>
                     </Link>
                   </li>
                   <li className="mr-8">

@@ -22,6 +22,7 @@
 	"dependencies": {
 		"@headlessui/react": "^1.2.0",
 		"@heroicons/react": "^1.0.1",
+		"@tailwindcss/aspect-ratio": "^0.3.0",
 		"@tailwindcss/typography": "^0.4.0",
 		"@vimeo/player": "^2.15.0",
 		"cors": "^2.8.5",

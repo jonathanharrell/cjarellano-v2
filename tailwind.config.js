@@ -8,6 +8,8 @@ module.exports = {
     ],
     options: {
       safelist: [
+        "aspect-w-16",
+        "aspect-h-9",
         "text-magenta",
         "text-cyan",
         "text-yellow",
@@ -66,6 +68,7 @@ module.exports = {
     }
   },
   plugins: [
+    require('@tailwindcss/aspect-ratio'),
     require("@tailwindcss/typography")
   ]
 };
