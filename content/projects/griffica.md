@@ -10,18 +10,21 @@ categories:
 image: /static/img/_-griffica_poster_bright_notext_2.jpg
 video: https://vimeo.com/533670808
 awards:
+  - source: Los Angeles LGBT+ Festival
+    title: Winner - Best Film
+    link: https://vimeo.com/647617521/910ed0cd56
+  - source: Out on Film - Atlanta's LGBTQ Film Festival
+    title: Winner - Audience Award, Best Horror Short
+    link: https://2021ooff.eventive.org/films/griffica-6116b4700d2948003d28450c
+  - source: British Horror Film Festival
+    title: Rising Star Award
+    link: https://www.filmfestivalguild.com/the-british-horror-film-festival
   - source: "NewFest: The New York LGBTQ+ Film Festival"
     title: Official Selection
     link: https://newfest.org/event/shorts-queer-fear/
   - source: The Artists' Forum Festival of the Moving Image
     title: Official Selection
     link: https://theartistsforum.org/film-fest-2021/
-  - source: Out on Film - Atlanta's LGBTQ Film Festival
-    title: Winner - Audience Award, Best Horror Short
-    link: https://2021ooff.eventive.org/films/griffica-6116b4700d2948003d28450c
-  - source: Los Angeles LGBT+ Festival
-    title: Winner - Best Film
-    link: https://vimeo.com/647617521/910ed0cd56
   - source: "Reeling: The 39th Chicago LGBTQ+ International Film Festival"
     title: "Official Selection "
     link: https://reelingfilmfestival.org/2021/
@@ -76,9 +79,6 @@ awards:
   - source: Shockfest Film Festival
     title: Official Selection
     link: https://www.shockfilmfest.com
-  - source: Official Selection
-    title: British Horror Film Festival
-    link: https://www.filmfestivalguild.com/the-british-horror-film-festival
 ---
 He'll keep you up all night. 
 
