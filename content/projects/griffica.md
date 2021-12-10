@@ -17,7 +17,7 @@ awards:
     title: Winner - Audience Award, Best Horror Short
     link: https://2021ooff.eventive.org/films/griffica-6116b4700d2948003d28450c
   - source: British Horror Film Festival
-    title: Rising Star Award
+    title: Winner - Rising Star Award
     link: https://www.filmfestivalguild.com/the-british-horror-film-festival
   - source: "NewFest: The New York LGBTQ+ Film Festival"
     title: Official Selection
