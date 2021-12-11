@@ -32,9 +32,13 @@ class Blog extends React.Component {
           <div className="container">
             <div className="max-w-4xl mx-auto">
               <header className="mb-10 md:mb-12 lg:mb-14">
-                <h1 className="text-4xl md:text-5xl font-bold leading-none">
-                  {title}
-                </h1>
+                <Link href="/blog">
+                  <a className="inline-block">
+                    <h1 className="text-4xl md:text-5xl font-bold leading-none">
+                      {title}
+                    </h1>
+                  </a>
+                </Link>
                 <section className="mt-6">
                   <h2 className="sr-only">Post tags</h2>
                   {tags.map(t => (
