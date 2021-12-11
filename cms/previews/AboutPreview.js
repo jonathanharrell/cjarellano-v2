@@ -1,6 +1,4 @@
 import React from "react";
-import { PlayIcon } from "@heroicons/react/solid";
-import { getCategoryColor } from "../../helpers";
 import Quote from "../../components/quote";
 import SocialMediaPost from "../../components/social-media-post";
 

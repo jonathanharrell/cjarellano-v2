@@ -1,8 +1,8 @@
 import React, { useEffect } from "react";
-import Head from "next/head";
 import HomePreview from "../cms/previews/HomePreview";
 import CategoryPreview from "../cms/previews/CategoryPreview";
 import ProjectPreview from "../cms/previews/ProjectPreview";
+import BlogPreview from "../cms/previews/BlogPreview";
 import PostPreview from "../cms/previews/PostPreview";
 import AboutPreview from "../cms/previews/AboutPreview";
 
@@ -58,6 +58,7 @@ const Admin = () => {
       CMS.registerPreviewTemplate("home", HomePreview);
       CMS.registerPreviewTemplate("categories", CategoryPreview);
       CMS.registerPreviewTemplate("projects", ProjectPreview);
+      CMS.registerPreviewTemplate("blog", BlogPreview);
       CMS.registerPreviewTemplate("posts", PostPreview);
       CMS.registerPreviewTemplate("about", AboutPreview);
     })();
