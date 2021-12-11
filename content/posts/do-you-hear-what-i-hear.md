@@ -4,6 +4,9 @@ date: 2021-12-01T14:36:33.328Z
 description: I enjoy identifying musical intervals in songs and collecting them
   into a little spreadsheet. Not sure why. Some things in life just give you a
   little thrill, ya know?
+image: /static/img/holiday-tunes-thumbnail.jpg
+tags:
+  - music
 ---
 I enjoy identifying musical intervals in songs and collecting them into a little spreadsheet. Not sure why. Some things in life just give you a little thrill, ya know?
 

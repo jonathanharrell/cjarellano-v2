@@ -4,6 +4,7 @@ date: 2021-11-28T17:17:21.447Z
 description: I recently watched The Innocents (1961, dir. Jack Clayton). It's an
   outstanding horror picture, an elegant ghost tale that's equal parts
   frightening and psychologically rich.
+image: /static/img/innocents-thumbnail.jpg
 tags:
   - film
   - directing

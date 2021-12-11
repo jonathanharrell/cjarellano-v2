@@ -4,6 +4,7 @@ import { withRouter } from "next/router";
 import { ArrowLeft, ArrowRight } from "react-feather";
 import { getPreviousAndNextPosts } from "../../lib/api";
 import Meta from "../../components/meta";
+import Tag from "../../components/tag";
 
 class Project extends Component {
   static async getInitialProps({ query }) {
@@ -20,7 +21,7 @@ class Project extends Component {
     const { previous, next } = this.props;
 
     const {
-      attributes: { title, description, date },
+      attributes: { title, description, date, image, tags },
       html
     } = this.props.post.default;
 
@@ -37,6 +38,7 @@ class Project extends Component {
         <Meta
           title={`${title} - C.J. Arellano`}
           description={description}
+          image={image}
           type="article"
           url={this.props.router.asPath}
         />
@@ -46,9 +48,13 @@ class Project extends Component {
               <article>
                 <header className="mb-8">
                   <h1 className="text-4xl md:text-5xl font-bold leading-none">{title}</h1>
-                  <p className="text-md mt-4 text-gray-400">
-                    Published {formattedDate}
-                  </p>
+                  <section className="mt-4">
+                    <p className="sr-only">Post tags</p>
+                    {tags.map(tag => (
+                        <Tag key={tag} tag={tag} />
+                    ))}
+                    <span className="block md:inline text-md mt-4 md:mt-0 md:ml-4 text-gray-400">Published {formattedDate}</span>
+                  </section>
                 </header>
                 <section dangerouslySetInnerHTML={{ __html: html }} className="max-w-none prose lg:prose-xl text-gray-400"/>
               </article>
