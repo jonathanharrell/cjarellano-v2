@@ -10,6 +10,9 @@ categories:
 image: /static/img/_-griffica_poster_bright_notext_2.jpg
 video: https://vimeo.com/533670808
 awards:
+  - source: The Artists' Forum Festival of the Moving Image
+    title: WINNER - Best Director
+    link: https://theartistsforum.org/film-fest-2021/
   - source: Los Angeles LGBT+ Festival
     title: Winner - Best Film
     link: https://vimeo.com/647617521/910ed0cd56
@@ -22,9 +25,6 @@ awards:
   - source: "NewFest: The New York LGBTQ+ Film Festival"
     title: Official Selection
     link: https://newfest.org/event/shorts-queer-fear/
-  - source: The Artists' Forum Festival of the Moving Image
-    title: Official Selection
-    link: https://theartistsforum.org/film-fest-2021/
   - source: "Reeling: The 39th Chicago LGBTQ+ International Film Festival"
     title: "Official Selection "
     link: https://reelingfilmfestival.org/2021/
@@ -32,7 +32,7 @@ awards:
     title: Official Selection
     link: https://www.bigapplefilmfestival.com
   - source: "Ethereal Horror Film Festival "
-    title: Official Selection
+    title: NOMINEE - Best Writer
     link: https://www.etherealhorrorfest.com/2021event
   - source: Independent Shorts Awards (Platinum)
     title: "Winner - Best Horror Short "
