@@ -13,7 +13,7 @@ tags:
 ---
 The Artists' Forum Festival of the Moving Image had their closing night awards ceremony last night, and I won Best Director for my short "Griffica"!
 
-Here's my acceptance speech. I had to deliver it at the last minute, hence the handheld aesthetic and my super-casual Back to the Future holiday sweater:
+Here's my acceptance speech. I had to deliver it at the last minute, hence the handheld aesthetic and my super-casual *Back to the Future* holiday sweater:
 
 <div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
