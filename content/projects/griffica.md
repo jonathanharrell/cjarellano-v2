@@ -11,7 +11,7 @@ image: /static/img/_-griffica_poster_bright_notext_2.jpg
 video: https://vimeo.com/533670808
 awards:
   - source: The Artists' Forum Festival of the Moving Image
-    title: WINNER - Best Director
+    title: Winner - Best Director
     link: https://theartistsforum.org/film-fest-2021/
   - source: Los Angeles LGBT+ Festival
     title: Winner - Best Film
@@ -22,6 +22,9 @@ awards:
   - source: British Horror Film Festival
     title: Winner - Rising Star Award
     link: https://www.filmfestivalguild.com/the-british-horror-film-festival
+  - title: Winner - Best Director
+    source: Independent Shorts Awards (Gold)
+    link: https://independentshortsawards.com/gold-awards-july-2021/
   - source: "NewFest: The New York LGBTQ+ Film Festival"
     title: Official Selection
     link: https://newfest.org/event/shorts-queer-fear/
@@ -32,14 +35,11 @@ awards:
     title: Official Selection
     link: https://www.bigapplefilmfestival.com
   - source: "Ethereal Horror Film Festival "
-    title: NOMINEE - Best Writer
+    title: Nominee - Best Writer
     link: https://www.etherealhorrorfest.com/2021event
   - source: Independent Shorts Awards (Platinum)
     title: "Winner - Best Horror Short "
     link: https://independentshortsawards.com/award-winners-july-2021/
-  - title: Winner - Best Director
-    source: Independent Shorts Awards (Gold)
-    link: https://independentshortsawards.com/gold-awards-july-2021/
   - source: Independent Shorts Awards (Gold)
     title: Winner - Best Original Story
     link: https://independentshortsawards.com/gold-awards-july-2021/
