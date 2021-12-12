@@ -1,5 +1,5 @@
 ---
-title: GRIFFICA wins Best Director at the Artists' Forum Festival of the Moving Image!
+title: GRIFFICA wins Best Director!
 date: 2021-12-12T17:56:13.832Z
 description: The Artists' Forum Festival of the Moving Image had their closing
   night awards ceremony last night, and I won Best Director for my short
