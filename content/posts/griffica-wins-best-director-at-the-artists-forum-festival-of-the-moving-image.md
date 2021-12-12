@@ -25,6 +25,6 @@ Here's my acceptance speech. I had to deliver it at the last minute, hence the h
   ></iframe>
 </div>
 
-"Griffica" also picked up nominations for Best Lead Actor (congrats to my dude James Dolbeare!), Best Screenplay, and Best Editing. 
+"Griffica" also picked up nominations for Best Lead Actor (congrats to my dude James Dolbeare!), Best Screenplay, Best Editing, and the fest's Juror's Award. 
 
 Many many thanks to the fine folks at the Artists' Forum!
