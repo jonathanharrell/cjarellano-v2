@@ -19,7 +19,8 @@ const Admin = () => {
           {
             name: 'url',
             label: 'URL',
-            widget: 'string'
+            widget: 'string',
+            hint: 'The src of the iframe embed provided by YouTube or Vimeo'
           }
         ],
         pattern: /^<div class="relative mb-12" style="padding: 56\.25% 0 0 0;">$\s*?<iframe\s*?src="(.*?)".*?><\/iframe>\n^<\/div>$/ms,
