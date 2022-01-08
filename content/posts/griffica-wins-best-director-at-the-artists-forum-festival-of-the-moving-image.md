@@ -17,7 +17,7 @@ Here's my acceptance speech. I had to deliver it at the last minute, hence the h
 
 <div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
-    src="https://vimeo.com/655877698/f7b8555f8c" 
+    src="https://player.vimeo.com/video/655877698?h=f7b8555f8c" 
     title="Video player" 
     class="absolute top-0 left-0 w-full h-full"
     frameborder="0" 
