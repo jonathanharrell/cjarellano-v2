@@ -8,7 +8,7 @@ type: Feature Documentary
 categories:
   - editing
   - motion graphics
-image: /static/img/screen-shot-2022-02-07-at-6.53.41-pm.png
+image: /static/img/screen-shot-2022-02-07-at-7.40.08-pm.png
 video: https://vimeo.com/666821950
 ---
 Falling in love was easy. Fighting for love was everything. 
