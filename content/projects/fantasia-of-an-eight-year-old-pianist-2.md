@@ -186,4 +186,6 @@ excerpt: >-
 ---
 Fantasia (n.): 1. An instrumental composition not in strict form. 2. A work in which the author's fancy roves unrestricted. 3. Something possessing bizarre or unreal qualities. 
 
-A child reckons with her troublesome home life as she loses herself in Mozart during a piano competition.
+A child reckons with her troublesome home life as she loses herself in Mozart during a piano competition. 
+
+Read the complete story below.
