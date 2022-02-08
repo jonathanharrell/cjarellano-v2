@@ -34,17 +34,13 @@ excerpt: >-
 
   \*\****\
 
-  *[Andante](https://www.youtube.com/watch?v=1BkZ8ci8_k4)***
+  [Andante](https://youtu.be/1BkZ8ci8_k4?t=01)**
 
 
   The opening phrases reminded Kathryn of a fancy Victorian castle at the brink of purple twilight. This was strange. When she played at home or at Ms. Taylor’s, her mind gave her nothing but gray. Now, though, she imagined herself floating through a gilded castle hallway lined with rows of gleaming knights, displayed and elegant in their eternal pause. They held up their swords like communion, sworn to protect Kathryn from all that was bad in this world and the next.
 
 
-
-
   Kathryn’s thick, long fingers traipsed up the keyboard with the precision of dutiful ballerinas, hitting all the eerie, sad, single notes along the way. In the castle, behind Kathryn’s knights, velvet curtains swung like pendulums in time to Mozart’s metronome. She was beholden to no one here: not her father or Ms. Taylor or even a submarine-shaped maid who would say, “Don’t float or hop or jump. You’ll get me in trouble with your father, and then he’ll yell at me and fire me.” No, no. She would be free to float, and hop, and jump through those blurry velvet hallways, quiet and exultant.
-
-
 
 
   Her fingers reached the far right end of the keyboard, clinking all the way up to a high E before twirling back the other way. At the end of the castle hallway, she stopped at an oil painting hung above a fireplace that yawned with orange flickers. The painting, large as a tomb at midnight, was of her scowling father, who wore a pinstripe business suit and held a yellow smiley-face balloon. She gulped, and her fingers melted right into the next section.
@@ -61,41 +57,25 @@ excerpt: >-
   She was atop her childhood music box!
 
 
-
-
   A cowboy with his smile and arms frozen wide glided past her, and beyond the skaters she saw her old childhood bedroom, blown up nine thousand times. She always wanted to know what her room looked like to these happy and diligent skaters that would come play on her nightstand whenever she needed friends. She ran to the very edge of the music box, grabbed the burnished wooden edge, and peered over. Sure enough, there was her own four-year-old self, giant as ten beanstalks and lit by a star-shaped night light in the corner, sleeping on her side so peacefully, giving off breaths that now sounded as loud as powerful wind fans.
-
-
 
 
   She heard her father’s voice – booming like a Jupiter volcano – talk with her mother’s voice outside her door.
 
 
-
-
   “I don’t know what happened.”
-
-
 
 
   Kathryn’s chords got faster, louder, fiercer.
 
 
-
-
   “You don't know what happened?” her mother’s voice said, featherlight but thunderous as anything else. “What are we going to say to Dr. Mehta? She fell down the stairs again?”
-
-
 
 
   Kathryn hit measure twenty-eight, the one with the whole rest and the fermata. Four counts of heart-beating silence.
 
 
-
-
   Kathryn squeezed the ledge of the music box, and another skater whooshed by, almost sending her right over. She squinted to see her giant four-year-old face in the dark and watched a tear the size of an apple roll down her freckled cheek.
-
-
 
 
   She does not remember this at all. Who is Dr. Mehta?
@@ -104,9 +84,7 @@ excerpt: >-
   Kathryn’s fingers returned briefly to their slow, steady, music box pace, but three measures later they mutated into fast, angry, bad-sounding notes, and a cowboy skater sped by and broke out of his porcelain stance – a mannequin springing to evil life! – and with a swing of his icy hand thwacked Kathryn right in her back, making it burn like someone threw acid there, and she lost her balance and fell right over the edge of the outsized music box, and fell and fell and fell...!
 
 
-  **\
-
-  *[Presto](https://youtu.be/1BkZ8ci8_k4?t=157)***
+  ***[Presto](https://youtu.be/1BkZ8ci8_k4?t=157)***
 
 
   Kathryn’s fingers rolled across the keyboard. A flurry. A salvo. A swarm! Sixteenth notes terrorizing the keyboard with such rage, it was absolutely demonic! She did not want to “slow-w-w down” like Ms. Taylor’s crease of a mouth always warned her, like her father always repeated from his reading chair every night, except unlike Ms. Taylor he would mark every dissonant mistake she made with sighs that hissed. She wanted to speed up! She didn’t care what her father wanted!
@@ -127,9 +105,7 @@ excerpt: >-
   She got every note right.
 
 
-  **\
-
-  *[Tempo Primo](https://youtu.be/1BkZ8ci8_k4?t=165)***
+  ***[Tempo Primo](https://youtu.be/1BkZ8ci8_k4?t=165)***
 
 
   [](https://youtu.be/1BkZ8ci8_k4?t=165)Now how could Kathryn think that? Her fingers shifted promptly to crisp, upbeat, plucky notes that sounded like a row of Russian men in furry red hats were meant to dance to it and shout, “Barynya!” This part made her happy. It made her wonder how on earth she could think things like that about her own father.
@@ -141,9 +117,7 @@ excerpt: >-
   Ms. Taylor. Where was she today?
 
 
-  **\
-
-  *[Presto](https://youtu.be/1BkZ8ci8_k4?t=200)***
+  ***[Presto](https://youtu.be/1BkZ8ci8_k4?t=200)***
 
 
   And with that, Kathryn’s fingers were back into a zooming assault of sixteenth notes, fast and light as wasps, traversing the keyboard up and down with such unspeakable turbulence! Where was Ms. Taylor? She was somewhere in the audience, but where where where?
@@ -155,17 +129,13 @@ excerpt: >-
   And suddenly the two of them would sprout... dragonfly wings! And they’d join hands and fly away to an ice cream shop or a roller rink, and her parents wouldn’t even mind because her dad would have a heart attack and die, so he would not have time to chase after her and her mother would simply leave him to the paramedics and run out of the auditorium, heels clicking against pavement, and whisper to the sky, “Come home when you please, Kathryn. He haunts your wings no more.”
 
 
-  **\
-
-  *[Tempo Primo](https://youtu.be/1BkZ8ci8_k4?t=213)***
+  ***[Tempo Primo](https://youtu.be/1BkZ8ci8_k4?t=213)***
 
 
   But no. She needs to stop thinking things like this about such a great, wonderful, and magnificent man. Her rabid sixteenth notes now cooled to smooth, moderate notes that again echoed her childhood music box. By now, though, she was not sure any of it existed. Those cowboy skaters, the apple-sized tear, talks of strange doctors she’s never met? It all had to be her imagination, her infinite and labyrinthine imagination, which her father only encouraged if essay contests were afoot. Otherwise, he said, her imagination only got her in trouble. She had to agree. And as those melancholy music box notes gained momentum yet again, kicking up dust as they prepared to catapult Kathryn into the finale, she only thought, “Yes. My imagination only gets me in trouble, and my father is a great man.”
 
 
-  **\
-
-  *[Allegretto](https://youtu.be/1BkZ8ci8_k4?t=266)***
+  ***[Allegretto](https://youtu.be/1BkZ8ci8_k4?t=266)***
 
 
   This section was the most mundane of the whole piece, Kathryn always felt. Its notes were happy and fun and cheery in the most straightforward way, and the switch from D-minor to D-major felt like the whole song collapsed into an uncomplicated lie. But now, she saw the importance of it. This is the only way Mozart could end such a piece fraught with dreary sadness and wild insanity. The notes reminded Kathryn of a farmer in a rocking chair on a nighttime porch, just sitting there and thinking nothing and feeling nothing about his long hard day.
@@ -175,8 +145,6 @@ excerpt: >-
 
 
   Kathryn needed to stay here in the auditorium. She needed to stay bolted to the ground and to reality. She was here. Only here. Nowhere else but here, in front of an audience of nervous kids and adults, at a strange piano atop a stage that was not black tundra but just a stage and only a stage. As she ended with the final measure of thick and jubilant chords sending her hands this way and that, she told herself over and over, “It is only a stage.”
-
-
 
 
   \*\**
