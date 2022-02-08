@@ -1,6 +1,6 @@
 ---
 title: Fantasia of an Eight-Year-Old Pianist
-date: 2022-02-08T00:54:12.793Z
+date: 2020-10-01T23:54:12.793Z
 description: "A child reckons with her troublesome home life as she loses
   herself in Mozart during a piano competition. "
 type: Short Story
