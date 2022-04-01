@@ -3,16 +3,19 @@ title: Case Unsolved
 date: 2018-08-24T19:31:20.591Z
 description: Boyfriends battle monsters from a cursed TV show
 type: Feature Film
-image: /static/img/case-unsolved.jpg
-video: https://vimeo.com/330129303/50d5308e3e
 categories:
-- writing
+  - writing
+image: /static/img/case-unsolved.jpg
+video: ""
 quotes:
   - text: Captivating… Compelling… Eerie, with loads of charm.
     source: Horror Film & Screenplay Festival
-  - text: The specifics and details are sophisticated and nuanced. There are several twists and turns, some of them shocking that will surely catch viewers by surprise.
+  - text: The specifics and details are sophisticated and nuanced. There are several
+      twists and turns, some of them shocking that will surely catch viewers by
+      surprise.
     source: ScreenCraft
-  - text: Attention-grabbing... Provides the script with an identity and main differentiating factor from others in the genre.
+  - text: Attention-grabbing... Provides the script with an identity and main
+      differentiating factor from others in the genre.
     source: Chicago Screenplay Awards
 awards:
   - title: Winner
