@@ -21,7 +21,7 @@ Hamlet has such a chaotic palette of personality traits that an actor can emphas
 
 <div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
-    src="https://www.youtube.com/watch?v=EXqimTbXBIQ" 
+    src="https://www.youtube.com/embed/EXqimTbXBIQ" 
     title="Video player" 
     class="absolute top-0 left-0 w-full h-full"
     frameborder="0" 
@@ -33,7 +33,7 @@ In this 1948 adaptation, Sir Lawrence Olivier (who also directed) portrays Hamle
 
 <div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
-    src="https://www.youtube.com/watch?v=xYZHb2xo0OI" 
+    src="https://www.youtube.com/embed/xYZHb2xo0OI" 
     title="Video player" 
     class="absolute top-0 left-0 w-full h-full"
     frameborder="0" 
@@ -45,7 +45,7 @@ He's one of my favorite living actors, but David Tennant’s portrayal in the Ro
 
 <div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
-    src="https://www.youtube.com/watch?v=SjuZq-8PUw0" 
+    src="https://www.youtube.com/embed/SjuZq-8PUw0" 
     title="Video player" 
     class="absolute top-0 left-0 w-full h-full"
     frameborder="0" 
@@ -57,7 +57,7 @@ You gotta give it up for overachiever Mr. Branagh, who starred and directed this
 
 <div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
-    src="https://www.youtube.com/watch?v=1Up-oGfiosE" 
+    src="https://www.youtube.com/embed/1Up-oGfiosE" 
     title="Video player" 
     class="absolute top-0 left-0 w-full h-full"
     frameborder="0" 
@@ -69,7 +69,7 @@ Ethan Hawke shines in 2000’s maligned and forgotten adaptation. This precursor
 
 <div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
-    src="https://www.youtube.com/watch?v=QxJOQEMDR9o" 
+    src="https://www.youtube.com/embed/QxJOQEMDR9o" 
     title="Video player" 
     class="absolute top-0 left-0 w-full h-full"
     frameborder="0" 
