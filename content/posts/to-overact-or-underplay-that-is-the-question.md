@@ -41,7 +41,7 @@ In this 1948 adaptation, Sir Lawrence Olivier (who also directed) portrays Hamle
   ></iframe>
 </div>
 
-He's one of my favorite living actors, but David Tennant’s portrayal in the Royal Shakespeare Company's adaptation is somewhat limited. He amplified Hamlet’s madness and unbounded rage. By giving into the character’s more unhinged tendencies, he erects a barrier between Hamlet and the viewer. Made in 2009 at the tail-end of Tennant's *Doctor Who* run, I could see him wanting to remind viewers that he’s more than just a lovable superhero, dammit! But funnily enough, he delivers a performance that feels distinctly like an evil Doctor (or The Master, for my fellow Whovians out there). It’s all kind of exhausting and opaque.  
+He's one of my favorite living actors, but David Tennant’s portrayal in the Royal Shakespeare Company's adaptation is somewhat limited. He amplifies Hamlet’s madness and unbounded rage. By giving into the character’s more unhinged tendencies, he erects a barrier between Hamlet and the viewer. Made in 2009 at the tail-end of Tennant's *Doctor Who* run, I could see him wanting to remind viewers that he’s more than just a lovable superhero, dammit! But funnily enough, he delivers a performance that feels distinctly like an evil Doctor (or The Master, for my fellow Whovians out there). It’s all kind of exhausting and opaque.  
 
 <div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
