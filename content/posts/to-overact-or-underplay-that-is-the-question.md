@@ -1,5 +1,5 @@
 ---
-title: "HAMLET: What's Going on with Him?!"
+title: "HAMLET: What's Going on with Him?"
 date: 2022-04-07T21:34:21.093Z
 description: "It's time to compare four random Hamlets for no reason. "
 image: /static/img/hamlet3.jpg
