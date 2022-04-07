@@ -11,7 +11,7 @@ tags:
 ---
 Hamlet. Sad boy. Mad boy. The original fuckboy. 
 
-I’ve watched four versions of *Hamlet* this past month, as part of the Bard binge that overtook my life since I drank in the splendor of Ethan Cohen’s *The Tragedy of Macbeth* and a fascinating production of *The Merchant of Venice* at the Theatre for a New Audience.
+I’ve watched four versions of *Hamlet* this past month, as part of the Bard binge that overtook my life since I drank in the splendor of Joel Coen’s *The Tragedy of Macbeth* and a fascinating production of *The Merchant of Venice* at the Theatre for a New Audience.
 
 Hamlet is such an off-kilter character. He vows to avenge his dad, then skips around the castle trolling his mom and Polonius and anyone else who dare try to decipher his cryptic wordplay. He professes his love to Ophelia, then spurns her in a paranoid, misogynistic rage. He hatches his master plan to “catch the conscience of the king,” then in the very next scene contemplates whether life is even worth living.
 
