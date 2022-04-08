@@ -53,7 +53,7 @@ He's one of my favorite living actors, but David Tennant’s portrayal in the Ro
   ></iframe>
 </div>
 
-You gotta give it up for overachiever Mr. Branagh, who headlined and directed this largely unabridged 4-hour adaptation from 1996. Similar to David Tennant, he takes the “mad loud prince” approach, but he adds some spritely charm. I think a key part of Hamlet is his fatalistic sense of humor: everything’s kind of a big cosmic joke to him. Branagh nails the tone not just with the character, but with the entire production’s dual approach to winking melodrama and bitter gallows humor. 
+You gotta give it up for overachiever Kenneth Branagh, who headlined and directed this largely unabridged 4-hour adaptation from 1996. Similar to David Tennant, he takes the “mad loud prince” approach, but he adds some spritely charm. I think a key part of Hamlet is his fatalistic sense of humor: everything’s kind of a big cosmic joke to him. Branagh nails the tone not just with the character, but with the entire production’s dual approach to winking melodrama and bitter gallows humor. 
 
 <div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
