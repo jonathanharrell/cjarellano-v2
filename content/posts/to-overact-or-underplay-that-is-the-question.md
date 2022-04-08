@@ -53,7 +53,7 @@ He's one of my favorite living actors, but David Tennant’s portrayal in the Ro
   ></iframe>
 </div>
 
-You gotta give it up for overachiever Mr. Branagh, who starred and directed this largely unabridged 4-hour adaptation from 1996. Similar to David Tennant, he takes the “mad loud prince” approach, but he adds some spritely charm. I think a key part of Hamlet is his fatalistic sense of humor: everything’s kind of a big cosmic joke to him. Branagh nails the tone not just with the character, but with the entire production’s dual approach to winking melodrama and bitter gallows humor. 
+You gotta give it up for overachiever Mr. Branagh, who headlined and directed this largely unabridged 4-hour adaptation from 1996. Similar to David Tennant, he takes the “mad loud prince” approach, but he adds some spritely charm. I think a key part of Hamlet is his fatalistic sense of humor: everything’s kind of a big cosmic joke to him. Branagh nails the tone not just with the character, but with the entire production’s dual approach to winking melodrama and bitter gallows humor. 
 
 <div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
@@ -65,7 +65,7 @@ You gotta give it up for overachiever Mr. Branagh, who starred and directed this
   ></iframe>
 </div>
 
-Ethan Hawke shines in 2000’s maligned and forgotten adaptation. This precursor to the Shakespearean boardroom dramatics of *Succession* transposes the story to contemporary times. The Danish prince is now the would-be heir to a New York-based media corporation named Denmark. (Cute, right?) Hawke’s Hamlet goes small where others go big. He simmers where others burn. He seethes where others blow a gasket. In the ‘90s, Hawke’s brand was built on the foundation of him being a sensitive boy-about-town in slice-of-life dramedies like Reality Bites or Before Sunrise. Those “quietly suffering Gen X-er” vibes serve him well here. His lowkey haunted smarm is a good contrast to the epic chaos he leaves in his wake. It’s just too bad that this movie was written off as trying too hard to appeal to the MTV set. While the movie did itself no favors by setting an iconic soliloquy in a freakin’ Blockbuster, I do think critics were unfair to an adaptation that took risks, got messy, and found the devious humor that’s vital to a successful *Hamlet*.
+Ethan Hawke shines in 2000’s maligned and forgotten adaptation. This precursor to the Shakespearean boardroom dramatics of *Succession* transposes the story to contemporary NYC. The Danish prince is now the would-be heir to a media corporation named Denmark. (Cute, right?) Hawke’s Hamlet goes small where others go big. He simmers where others burn. He seethes where others blow a gasket. In the ‘90s, Hawke’s brand was built on the foundation of him being a sensitive boy-about-town in slice-of-life dramedies like Reality Bites or Before Sunrise. Those “quietly suffering Gen X-er” vibes serve him well here. His lowkey haunted smarm is a good contrast to the epic chaos he leaves in his wake. It’s just too bad that this movie was written off as trying too hard to appeal to the MTV set. While the movie did itself no favors by setting an iconic soliloquy in a freakin’ Blockbuster, I do think critics were unfair to an adaptation that took risks, got messy, and found the devious humor that’s vital to a successful *Hamlet*.
 
 <div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
@@ -77,4 +77,4 @@ Ethan Hawke shines in 2000’s maligned and forgotten adaptation. This precursor
   ></iframe>
 </div>
 
-These four actors are but the tip of the iceberg, as illustrated by the above supercut. And I'd love to see more Hamlets embodied by women and nonbinary performers giving their own fresh take on this character's brand of uncontainable mess. After all, it's why this tale has endured for four centuries: Hamlet's brand of chaos is, amusingly, disturbingly, within all of us.
+These four actors are but the tip of the iceberg, as illustrated by the above supercut. And I'd love to see more Hamlets embodied by women and nonbinary performers giving their own fresh take on this character's brand of uncontainable mess. After all, it's why this tale has endured for four centuries: Hamlet's brand of chaos is amusingly, disturbingly within all of us.
