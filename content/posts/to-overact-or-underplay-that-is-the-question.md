@@ -17,7 +17,7 @@ Hamlet is such an off-kilter character. He vows to avenge his dad, then skips ar
 
 His behavior isn’t inconsistent, but it sure is worrying! I wouldn't protest if we decided he was the first character in modern English literature to inspire the immortal question, [“What’s going on with him?” ](https://reductress.com/post/5-guys-where-its-like-whats-going-on-with-them/)
 
-Hamlet's chaotic palette of personality traits allows an actor to emphasize those of his choosing while muting others. In collaboration with the director, he can truly make the role “his own.” 
+Working with Hamlet's chaotic palette of personality traits, an actor can emphasize those of his choosing while muting others. In collaboration with the director, he can truly make the role “his own.” 
 
 <div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
@@ -65,7 +65,7 @@ You gotta give it up for overachiever Mr. Branagh, who starred and directed this
   ></iframe>
 </div>
 
-Ethan Hawke shines in 2000’s maligned and forgotten adaptation. This precursor to the Shakespearean boardroom dramatics of Succession transposes the story to contemporary times. The Danish prince is now the would-be heir to a New York-based media corporation named Denmark. (Cute, right?) Hawke’s Hamlet goes small where others go big. He simmers where others burn. He seethes where others blow a gasket. In the ‘90s, Hawke’s brand was built on the foundation of him being a sensitive boy-about-town in slice-of-life dramedies like Reality Bites or Before Sunrise. Those “quietly suffering Gen X-er” vibes serve him well here. His lowkey haunted smarm is a good contrast to the epic chaos he leaves in his wake. It’s just too bad that this movie was written off as trying too hard to appeal to the MTV set. While the movie did itself no favors by setting an iconic soliloquy in a freakin’ Blockbuster, I do think critics were unfair to an adaptation that took risks, got messy, and found the devious humor that’s key to a successful *Hamlet*.
+Ethan Hawke shines in 2000’s maligned and forgotten adaptation. This precursor to the Shakespearean boardroom dramatics of *Succession* transposes the story to contemporary times. The Danish prince is now the would-be heir to a New York-based media corporation named Denmark. (Cute, right?) Hawke’s Hamlet goes small where others go big. He simmers where others burn. He seethes where others blow a gasket. In the ‘90s, Hawke’s brand was built on the foundation of him being a sensitive boy-about-town in slice-of-life dramedies like Reality Bites or Before Sunrise. Those “quietly suffering Gen X-er” vibes serve him well here. His lowkey haunted smarm is a good contrast to the epic chaos he leaves in his wake. It’s just too bad that this movie was written off as trying too hard to appeal to the MTV set. While the movie did itself no favors by setting an iconic soliloquy in a freakin’ Blockbuster, I do think critics were unfair to an adaptation that took risks, got messy, and found the devious humor that’s vital to a successful *Hamlet*.
 
 <div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
@@ -77,4 +77,4 @@ Ethan Hawke shines in 2000’s maligned and forgotten adaptation. This precursor
   ></iframe>
 </div>
 
-These four actors are but the tip of the iceberg, as illustrated by this supercut. And I'd love to see more Hamlets embodied by women and nonbinary performers giving their own fresh take on this character's brand of uncontainable mess. After all, it's why this tale has endured for four centuries: Hamlet's brand of chaos is, amusingly, disturbingly, within all of us.
+These four actors are but the tip of the iceberg, as illustrated by the above supercut. And I'd love to see more Hamlets embodied by women and nonbinary performers giving their own fresh take on this character's brand of uncontainable mess. After all, it's why this tale has endured for four centuries: Hamlet's brand of chaos is, amusingly, disturbingly, within all of us.
