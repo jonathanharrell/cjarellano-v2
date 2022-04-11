@@ -13,6 +13,8 @@ Hamlet. Sad boy. Mad boy. The original fuckboy. 
 
 I’ve watched four versions of *Hamlet* this past month, as part of the Bard binge that overtook my life since I drank in the splendor of Joel Coen’s impeccable *[The Tragedy of Macbeth](https://www.youtube.com/watch?v=HM3hsVrBMA4)* and a sharp production of *[The Merchant of Venice](https://www.nytimes.com/2022/02/15/theater/merchant-of-venice-theater-for-a-new-audience-review.html)* at the Theatre for a New Audience.
 
+![](/static/img/hamlet_edwin_booth_hamlet_1870.jpg "Hamlet, as portrayed by Edwin Booth (c. 1870)")
+
 Hamlet is such an off-kilter character. He vows to avenge his dad, then skips around the castle trolling his mom and Polonius and anyone else who dare try to decipher his cryptic wordplay. He professes his love to Ophelia, then spurns her in a paranoid, misogynistic rage. He hatches his master plan to “catch the conscience of the king,” then in the very next scene contemplates whether life is even worth living.
 
 His behavior isn’t inconsistent, but it sure is worrying! I wouldn't protest if we decided he was the first character in modern English literature to inspire the immortal question, [“What’s going on with him?” ](https://reductress.com/post/5-guys-where-its-like-whats-going-on-with-them/)
