@@ -6,7 +6,7 @@ image: /static/img/revolution-of-the-daleks-posters-1280x720.png
 ---
 Oof. It’s hard out here for us Whovians. 
 
-Despite a flimsy last couple of seasons, I watched "Revolution of the Daleks" with anticipatory glee: the latest *Doctor Who* special sees the beloved Captain Jack reunite with the Doctor in their latest scrap against the Daleks. 
+The Jodie Whittaker seasons have been flimsy at best, despite a talented cast who appear to yearn every week for material that can play to their strengths. Still, I watched "Revolution of the Daleks" with anticipatory glee: the latest *Doctor Who* special sees the beloved Captain Jack reunite with the Doctor in their latest scrap against the Daleks. 
 
 <div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
