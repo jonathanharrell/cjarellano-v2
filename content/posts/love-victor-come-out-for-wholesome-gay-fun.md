@@ -4,7 +4,7 @@ date: 2020-12-14T17:38:07.870Z
 description: Love, Victor on Hulu. It's gay and wholesome and has won my heart.
 image: /static/img/poster_lovevictor.jpg
 ---
-I’ve been enjoying Love, Victor on Hulu. Like many coming-out journeys, it’s dotted with joyful highs and cringe-y lows. 
+I’ve been enjoying *Love, Victor* on Hulu. Like many coming-out journeys, it’s dotted with joyful highs and cringe-y lows. 
 
 As an avid consumer of *Love, Simon, Never Have I Ever*, and other colorful teen rom coms I wish I had growing up, I dissected all 10 episodes of *Love, Victor* season 1:
 
