@@ -6,7 +6,7 @@ image: /static/img/revolution-of-the-daleks-posters-1280x720.png
 ---
 Oof. It’s hard out here for us Whovians. 
 
-Despite a flimsy couple of seasons, I watched "Revolution of the Daleks" with anticipatory glee: the latest *Doctor Who* special sees the beloved Captain Jack reunite with the Doctor in their latest scrap against the Daleks. 
+Despite a flimsy last couple of seasons, I watched "Revolution of the Daleks" with anticipatory glee: the latest *Doctor Who* special sees the beloved Captain Jack reunite with the Doctor in their latest scrap against the Daleks. 
 
 <div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
@@ -19,7 +19,5 @@ Despite a flimsy couple of seasons, I watched "Revolution of the Daleks" with an
 </div>
 
 Showrunner Chris Chibnall continues to infuse the show with gorgeous production value, while (superficially) bolstering the franchise’s diversity and inclusion quotient. He also continues to dog the show with half-baked writing choices and an overall perfunctory vibe that leaves this once-innovative show seeming like it’s oh-so-bored with itself.
-
-
 
 It’s a question that fans have asked at various fallow points in the show’s rocky six-decade history: Can the Doctor be saved?
