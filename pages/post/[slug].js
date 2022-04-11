@@ -50,10 +50,14 @@ class Project extends Component {
                   <h1 className="text-4xl md:text-5xl font-bold leading-none">{title}</h1>
                   <section className="mt-4">
                     <p className="sr-only">Post tags</p>
-                    {tags.map(tag => (
-                        <Tag key={tag} tag={tag} />
-                    ))}
-                    <span className="block md:inline text-md mt-4 md:mt-0 md:ml-4 text-gray-400">Published {formattedDate}</span>
+                    {tags && (
+                      <span className="block md:inline mb-4 md:mb-0 md:mr-4">
+                        {tags?.map(tag => (
+                            <Tag key={tag} tag={tag} />
+                        ))}
+                      </span>
+                    )}
+                    <span className="text-md text-gray-400">Published {formattedDate}</span>
                   </section>
                 </header>
                 <section dangerouslySetInnerHTML={{ __html: html }} className="max-w-none prose lg:prose-xl text-gray-400"/>
