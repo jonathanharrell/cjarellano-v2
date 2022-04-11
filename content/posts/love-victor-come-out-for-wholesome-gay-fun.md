@@ -1,5 +1,5 @@
 ---
-title: "LOVE, VICTOR: Come Out for Wholesome Gay Fun"
+title: "LOVE, VICTOR: Come Out for Some Wholesome Gay Fun"
 date: 2020-12-14T17:38:07.870Z
 description: Love, Victor on Hulu. It's gay and wholesome and has won my heart.
 image: /static/img/poster_lovevictor.jpg
