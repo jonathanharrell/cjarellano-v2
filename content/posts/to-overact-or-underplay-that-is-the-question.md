@@ -15,6 +15,10 @@ I’ve watched four versions of *Hamlet* this past month, as part of the Bard bi
 
 ![](/static/img/hamlet_edwin_booth_hamlet_1870.jpg "Hamlet, as portrayed by Edwin Booth (c. 1870)")
 
+*Hamlet, as portrayed by Edwin Booth (c. 1870).*
+
+
+
 Hamlet is such an off-kilter character. He vows to avenge his dad, then skips around the castle trolling his mom and Polonius and anyone else who dare try to decipher his cryptic wordplay. He professes his love to Ophelia, then spurns her in a paranoid, misogynistic rage. He hatches his master plan to “catch the conscience of the king,” then in the very next scene contemplates whether life is even worth living.
 
 His behavior isn’t inconsistent, but it sure is worrying! I wouldn't protest if we decided he was the first character in modern English literature to inspire the immortal question, [“What’s going on with him?” ](https://reductress.com/post/5-guys-where-its-like-whats-going-on-with-them/)
@@ -31,7 +35,7 @@ Working with Hamlet's chaotic palette of personality traits, an actor can emphas
   ></iframe>
 </div>
 
-In this 1948 adaptation, Sir Lawrence Olivier (who also directed) portrays Hamlet with a sort of haughty prissiness. It’s a watchable performance because of its unsettling precision. Even in Hamlet's uncertain moments, Olivier moves with poise and purpose. Not a breath or tic is wasted. It’s not so much that you feel for this Hamlet; it’s more like you want to keep an eye on him because you feel like he’ll cut you the second you turn away. He’s chilling, but with enticing notes of sadness. 
+In this 1948 adaptation, Sir Laurence Olivier (who also directed) portrays Hamlet with a sort of haughty prissiness. It’s a watchable performance because of its unsettling precision. Even in Hamlet's uncertain moments, Olivier moves with poise and purpose. Not a breath or tic is wasted. It’s not so much that you feel for this Hamlet; it’s more like you want to keep an eye on him because you feel like he’ll cut you the second you turn away. He’s chilling, but with enticing notes of sadness. 
 
 <div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
