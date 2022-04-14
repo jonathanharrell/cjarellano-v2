@@ -12,7 +12,7 @@ Recently, a film student reached out to me seeking advice on how to hone her dir
 
 It got me asking myself what a director even does.
 
-Certainly there's more to it than just this amusing scene from *Nine* would have us believe, right? 
+Certainly there's more to it than just this scene from *Nine* would have us believe, right? 
 
 <div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
