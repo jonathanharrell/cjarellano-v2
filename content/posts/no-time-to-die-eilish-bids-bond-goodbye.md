@@ -1,5 +1,5 @@
 ---
-title: "NO TIME TO DIE: Eilish Bids Bond Goodbye"
+title: "NO TIME TO DIE: Billie Bids Bond Goodbye"
 date: 2020-02-14T15:14:00.305Z
 description: "He gone. "
 image: /static/img/billieeilish.jpg.webp
