@@ -1,5 +1,5 @@
 ---
-title: "DIRECTING: You Have One Job. Which is... What, Exactly?"
+title: "DIRECTING: You Have One Job. Which is a Million Jobs."
 date: 2022-04-13T00:24:03.610Z
 description: I talk about directing.
 image: /static/img/img_0062.jpg
@@ -10,7 +10,7 @@ Recently, a film student reached out to me seeking advice on how to hone her dir
 
 ![](https://lh6.googleusercontent.com/nmSza2nw7N_Dl4gYcnTas1H4Kfwj6v--MZlayuQislralJMSXi3fWk2CGWyk-CjSO47CzhU-rPFrwXq1a6-OtzvLcvZcmxjPOusskKeISSdCSxeVeED9b6-zUcdu9g0gLTD5pGPH)*Me, right, directing my oh-so-precious student film at Columbia in 2007.*
 
-It got me asking myself what a director even does*.* 
+It got me asking myself what a director even does.
 
 Certainly there's more to it than just this amusing scene from *Nine* would have us believe, right? 
 
