@@ -36,7 +36,7 @@ class Project extends Component {
     return (
       <>
         <Meta
-          title={`${title} - C.J. Arellano`}
+          title={title}
           description={description}
           image={image}
           type="article"
@@ -51,7 +51,7 @@ class Project extends Component {
                   <section className="mt-4">
                     <p className="sr-only">Post tags</p>
                     {tags && (
-                      <span className="block md:inline mb-4 md:mb-0 md:mr-4">
+                      <span className="flex flex-wrap md:inline mb-2 md:mb-0 md:mr-4">
                         {tags?.map(tag => (
                             <Tag key={tag} tag={tag} />
                         ))}
