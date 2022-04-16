@@ -40,9 +40,13 @@ class Blog extends React.Component {
               </Link>
               <section className="mt-6">
                 <h2 className="sr-only">Post tags</h2>
-                {tags.map(t => (
-                  <Tag key={t} tag={t} selected={t === tag}/>
-                ))}
+                {tags.length > 0 && (
+                  <div className="flex flex-wrap">
+                    {tags.map(t => (
+                      <Tag key={t} tag={t} selected={t === tag}/>
+                    ))}
+                  </div>
+                )}
               </section>
             </header>
             {filteredPosts.length > 0 ? (
