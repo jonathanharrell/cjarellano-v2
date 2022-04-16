@@ -1,12 +1,13 @@
 import React, { Component, useEffect, useState } from "react";
 import Head from "next/head";
 import Link from "next/link";
+import { withRouter } from "next/router";
 import { motion, useMotionValue, useViewportScroll } from "framer-motion";
 import { attributes } from "../content/home.md";
 import Meta from "../components/meta";
 import ProjectTeaser from "../components/project-teaser";
-import { getAllProjects } from "../lib/api";
-import { withRouter } from "next/router";
+import {getAllPosts, getAllProjects} from "../lib/api";
+import PostTeaser from "../components/post-teaser";
 
 const HomeHeader = ({ title, getImageFilter, handleMouseOver, handleMouseOut }) => {
   const { scrollY } = useViewportScroll();
@@ -146,13 +147,17 @@ class Home extends Component {
   }
 
   static async getInitialProps() {
-    const projects = await getAllProjects();
-    return { projects };
+    const [projects, posts] = await Promise.all([
+      getAllProjects(),
+      getAllPosts()
+    ]);
+    return { projects, posts };
   }
 
   render() {
     const { title } = attributes;
-    const recentProjects = this.props.projects.slice(0, 9);
+    const recentProjects = this.props.projects.slice(0, 6);
+    const recentPosts = this.props.posts.slice(0, 3);
 
     const getImageFilter = () => {
       switch (this.state.activeLink) {
@@ -205,6 +210,26 @@ class Home extends Component {
                   <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
                     {recentProjects.map(project => (
                       <ProjectTeaser key={project.slug} project={project} animate={true}/>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            </section>
+          </div>
+        )}
+        {(recentPosts && recentPosts.length > 0) && (
+          <div className="relative z-10">
+            <section aria-labelledby="recent-posts-label" className="mb-12 sm:mb-20">
+              <div className="container">
+                <div className="2xl:max-w-6xl mx-auto">
+                  <header className="mb-8">
+                    <h2 id="recent-posts-label" className="text-2xl font-semibold">
+                      Recent posts
+                    </h2>
+                  </header>
+                  <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+                    {recentPosts.map(post => (
+                      <PostTeaser key={post.slug} post={post}/>
                     ))}
                   </div>
                 </div>
