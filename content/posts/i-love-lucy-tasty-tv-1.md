@@ -17,7 +17,7 @@ Truth be told, the episode’s immortal status has more to do with its one memor
 
 The episode kicks off with Ricky in need of a spokeswoman for the ad break of the TV special he’s hosting.  Lucy pleads for the job, and in one of her oddest gambits to prove her talent, she climbs into the Ricardos’ TV set to prove she looks good on the small screen.  
 
-This is one of those era-specific bits that only could have existed in the time in which it first aired.  An analogous scenario today might have involved Lucy trying to disguise an iPhone self-tape as a legitimate commercial, but no kind of modernity would have been as funny as Lucy shoving herself inside a home appliance. It’s hard to top the delirious absurdity of Lucy dropping the lighter and reaching out of the TV to retrieve it.  The pratfalls of this scene, however, are but a prelude to the iconic shtick that follows.  
+This is one of those era-specific bits that only could have existed in the time in which it first aired.  An analogous scenario today might have involved Lucy trying to disguise an iPhone self-tape as a legitimate commercial, but no kind of modernity would have been as funny as Lucy shoving herself inside a home appliance. It’s hard to top the delirious absurdity of Lucy dropping the lighter and reaching out of the TV to retrieve it.  Nevertheless, Lucy's clowning in this scene is but a prelude to the iconic shtick that follows.  
 
 <div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
