@@ -3,6 +3,10 @@ title: "LIVE FROM A STUDIO AUDIENCE: Those Were the Days. Keep 'Em There!"
 date: 2019-05-23T11:11:39.752Z
 description: I'm movin' on up... and away from my couch.
 image: /static/img/allinthefamilyjeffersons.jpg
+tags:
+  - television
+  - sitcom
+  - comedy
 ---
 So….. that *All in the Family / Jeffersons* revival. Thanks! I hated it. \
 \
@@ -12,12 +16,12 @@ Yes, *All in the Family* was as groundbreaking as the butter-thick fanfare from 
 
 \
 \
-TV pundits have spent the last four-odd decades asking, “Would such a groundbreaking show like ‘All in the Family’ ever work in today’s PC culture?” The question clouds the issue by the very way it’s framed. The truth is, as evidenced by last night’s painfully well-intentioned tribute, *All in the Family* wouldn’t work today for all the reasons that it DID work back in 1970.  \
+TV pundits have spent the last four-odd decades asking, “Would such a groundbreaking show like *All in the Family* ever work in today’s PC culture?” The question clouds the issue by the very way it’s framed. The truth is, as evidenced by last night’s painfully well-intentioned tribute, *All in the Family* wouldn’t work today for all the reasons that it DID work back in 1970.  \
 \
 It worked because back then, American pop culture was a monolith of 3 broadcast channels, a vanilla Billboard chart, and no Twitter. So when the Bunkers screeched their way onto TV with their racism, sexism, and freewheeling ignorance - almost nihilistically joyful in their ceaseless bickering - they made public what was shamefully private. I’m sure that large portions of the white viewing audience heard the Bunkers’ living room arguments almost as eerie transcriptions of their own.  
 
 \
-But to trot out a sitcom text designed for 1973 and present it to an audience in 2019 is to pretend - for 25 uncomfortable minutes - that today we aren’t bombarded with daily social media tirades from the Trump-loving Archie Bunkers and smug snowflake Mike Stivics in our lives. If *All in the Family* had a mission to expose the ugliness of middle America to itself, to get it all out and onto the kitchen table so we can poke at it and deal with it, we might look around the hellscape that is our News Feeds today and say, “Uh….. mission accomplished?” 
+But to trot out a sitcom text designed for 1973 and present it to an audience in 2019 is to pretend - for 25 uncomfortable minutes - that today we aren’t bombarded with daily social media tirades from the Trump-loving Archie Bunkers and smug snowflake Mike Stivics in our lives. If *All in the Family* had a mission to expose the ugliness of middle America to itself, to get it all out and onto the kitchen table so we can poke at it and deal with it, we might look around the hellscape that is our social media feeds today and say, “Uh….. mission accomplished?” 
 
 <div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
@@ -67,6 +71,10 @@ And the rest of the Bunkers similarly wrestled with not just the dated material,
 \
 The *Jeffersons* re-do fared a little better, because the material hewed just a little closer to something resembling how contemporary fiction and pop culture grapple with race and class. Louise’s struggle to come to terms with her newfound social standing still feels resonant in 2019. Will Ferrell and Kerry Washington as the Willises gave us something that we badly needed throughout this whole affair: a fresh interpretation of the original characters. I enjoyed that James L. Brooks directed them to lean into Tom and Helen’s gleeful intoxication. I would watch these two as a whiskey-swilling, cardigan-wearing, cackling-about-their-riches couple for many divine seasons. \
 \
-Also, I gay-gasped when Marla Gibbs popped her head in to show everyone how it’s done. \
+Also, I gay-gasped when Marla Gibbs popped her head in to show everyone how it’s done. 
+
+![](/static/img/jeffersons_marlagibbs.png)
+
+\
 \
 Anyway, I hope that this revival was a one-off special destined to live on at the bottom of a few Wikipedia entries, and that it wasn’t a back-door litmus test to resurrect these shows in earnest. (Ya never know.) Let’s leave the legendary Lear oeuvre in the past. Let new giants stand on his shoulders, and let new unspoken truths be spoken. Let’s sing “Those Were the Days” one more full-throated time, and move on.
