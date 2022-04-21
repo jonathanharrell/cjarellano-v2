@@ -20,7 +20,7 @@ class Blog extends React.Component {
     const tag = router.query.tag;
 
     let filteredPosts = posts;
-    if (tag) filteredPosts = posts.filter(post => post.tags.includes(tag));
+    if (tag) filteredPosts = posts.filter(post => post.tags?.includes(tag));
 
     return (
       <>
