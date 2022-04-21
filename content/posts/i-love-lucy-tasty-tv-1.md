@@ -41,7 +41,7 @@ Thanks to an intercepted phone message, Lucy worms her way into the job as the s
   ></iframe>
 </div>
 
-Lucy’s first reaction to the taste is the highlight of the entire half-hour.   Her sunny face melts into a sick frown, as if she had just thrown back a sewage milkshake. She punctuates it with a shiver that makes us feel the liquid slithering down her throat like bitter cement.  The director makes her rehearse again. And again. With each take, Lucille Ball adds but one more hiccup and mismatched syllable.  The joy in this comic set-piece, the reason for its timelessness, is that it’s not an assault of quips and pratfalls. It’s the slowest of builds.  By the end, she’s turned the Vitameatavegamin table into a pub counter, setting the spoon on the table and pouring the liquid into it with all the delicacy of Jackson Pollock.  She’s not just a drunk version of Lucy.  It’s as if she’s morphed into a different character altogether. Lucy’s drunk uncle, maybe?
+Lucy’s first reaction to the taste is the highlight of the entire half-hour.   Her sunny face melts into a sick frown, as if she had just thrown back a sewage milkshake. She punctuates it with a shiver that makes us feel the liquid slithering down her throat like bitter cement.  The director makes her rehearse again. And again. The joy in this comic set-piece, the reason for its timelessness, is that it’s not an assault of quips and pratfalls. It’s the slowest of builds.  With each take, Lucille Ball adds but one more hiccup and mismatched syllable.  By the end, she’s turned the Vitameatavegamin table into a pub counter, setting the spoon on the table and pouring the liquid into it with all the delicacy of Jackson Pollock.  She’s not just a drunk version of Lucy.  It’s as if she’s morphed into a different character altogether. Lucy’s drunk uncle, maybe?
 
 ![](/static/img/vitameatavegamin_5.png)
 
@@ -63,7 +63,7 @@ When *I Love Lucy* aired, commercial spots like these were common: instead of a 
   ></iframe>
 </div>
 
-So with the timeless comedic sequence and sharp satire, what’s missing from “Lucy Does a TV Commercial”?  There’s not much in the way of narrative elegance here.  Lucy’s inebriated rehearsal leaves viewers to wonder what kind of havoc she’ll wreak on Ricky’s show and how the fallout might unfold for the clashing couple.  Alas, the writers are all out of steam at this point – Lucy stumbles on stage during Ricky’s broadcast, he scoops her up, and the episode is done.  
+So with the timeless comedic sequence and sharp satire, what’s missing from “Lucy Does a TV Commercial”?  There’s not much in the way of narrative elegance here.  Lucy’s inebriated rehearsal leaves viewers to wonder what kind of havoc she’ll wreak on Ricky’s show and how the fallout might unfold for the clashing couple.  Alas, the writers are all out of steam at this point – Lucy stumbles on stage during Ricky’s broadcast, he scoops her up, and the credits roll.  
 
 ![](/static/img/012012_whatsarerun_ilovelucy_lucydoesatvcommercial_1200x900_a01.jpg)
 
