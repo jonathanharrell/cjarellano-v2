@@ -13,7 +13,7 @@ You can find Lucy Ricardo’s disgusted face presiding over spoon and bottle on 
 
 ![](/static/img/vitameatavegamine.png)
 
-Truth be told, the episode’s immortal status has more to do with the one memorable sequence than as a complete A-to-B arc. “Lucy Does a TV Commercial” is sketch comedy gold, functioning not only as another display of Lucille Ball’s mad brilliance but also as sly “bite the hand that feeds you” satire. Taken as a whole, though, the story falls flat.
+Truth be told, the episode’s immortal status has more to do with its one memorable sequence than its complete A-to-B arc. “Lucy Does a TV Commercial” is sketch comedy gold, functioning not only as another display of Lucille Ball’s mad brilliance but also as sly “bite the hand that feeds you” satire. Taken as a whole, though, the story falls flat.
 
 The episode kicks off with Ricky in need of a spokeswoman for the ad break of the TV special he’s hosting.  Lucy pleads for the job, and in one of her oddest gambits to prove her talent, she climbs into the Ricardos’ TV set to prove she looks good on the small screen.  
 
