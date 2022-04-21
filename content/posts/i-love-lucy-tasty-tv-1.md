@@ -11,9 +11,9 @@ tags:
 ---
 You can find Lucy Ricardo’s disgusted face presiding over spoon and bottle on T-shirts, magnets, lunchboxes, posters, postcards, and keychains.  You can even buy Vitameatavegamin bottles filled with little heart-shaped candy. To armies of fans, casual or diehard, “Lucy Does a TV Commercial” is the episode that defines *I Love Lucy*. For many viewers who have never seen the show, it’s the one episode they can name at all.
 
-![](/static/img/vitameatavegamine.png)
+![](/static/img/vitameatavegamin_3.png)
 
-Truth be told, the episode’s immortal status has more to do with the one memorable sequence than as a complete A-to-B arc. “Lucy Does a TV Commercial” is sketch comedy gold, functioning not only as another display of Lucille Ball’s mad brilliance but also as sly “bite the hand that feeds you” satire. Taken as a whole, though, the story falls flat.
+Truth be told, the episode’s immortal status has more to do with its one memorable sequence than its complete A-to-B arc. “Lucy Does a TV Commercial” is sketch comedy gold, functioning not only as another display of Lucille Ball’s mad brilliance but also as sly “bite the hand that feeds you” satire. Taken as a whole, though, the story falls flat.
 
 The episode kicks off with Ricky in need of a spokeswoman for the ad break of the TV special he’s hosting.  Lucy pleads for the job, and in one of her oddest gambits to prove her talent, she climbs into the Ricardos’ TV set to prove she looks good on the small screen.  
 
@@ -29,9 +29,7 @@ This is one of those era-specific bits that only could have existed in the time 
   ></iframe>
 </div>
 
-Thanks to an intercepted phone message, Lucy worms her way into the job as the spokeswoman for a health tonic named Vitameatavegamin, a four-pronged portmanteau of its disgusting key ingredients.  
-
-Lucy arrives on set for rehearsal, unaware that the drink also contains a 23% alcohol quotient.  She impresses the director as she rattles off her memorized monologue with pep and professionalism.  When she downs a spoonful of the stuff, the poise ends and the comedy begins.
+Thanks to an intercepted phone message, Lucy worms her way into the job as the spokeswoman for a health tonic named Vitameatavegamin, a four-pronged portmanteau of its disgusting key ingredients. She arrives on set for rehearsal, unaware that the drink also contains a 23% alcohol quotient.  She impresses the director as she rattles off her memorized monologue with pep and professionalism.  When she downs a spoonful of the stuff, the poise ends and the comedy begins.
 
 <div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
@@ -45,7 +43,7 @@ Lucy arrives on set for rehearsal, unaware that the drink also contains a 23% al
 
 Lucy’s first reaction to the taste is the highlight of the entire half-hour.   Her sunny face melts into a sick frown, as if she had just thrown back a sewage milkshake. She punctuates it with a shiver that makes us feel the liquid slithering down her throat like bitter cement.  The director makes her rehearse again. And again. With each take, Lucille Ball adds but one more hiccup and mismatched syllable.  The joy in this comic set-piece, the reason for its timelessness, is that it’s not an assault of quips and pratfalls. It’s the slowest of builds.  By the end, she’s turned the Vitameatavegamin table into a pub counter, setting the spoon on the table and pouring the liquid into it with all the delicacy of Jackson Pollock.  She’s not just a drunk version of Lucy.  It’s as if she’s morphed into a different character altogether. Lucy’s drunk uncle, maybe?
 
-![](/static/img/vitameatavegamin_1.jpg)
+![](/static/img/vitameatavegamin_5.png)
 
 Fiction writers love to talk about stakes. Stakes, stakes, stakes, stakes, stakes.  You could mistake a writers’ room for a butcher shop.   The curious thing about this episode is that the writers chose to stage the main sequence during the rehearsal of Ricky’s show, not the actual live broadcast when much more would be at stake.
 
@@ -67,6 +65,10 @@ When *I Love Lucy* aired, commercial spots like these were common: instead of a 
 
 So with the timeless comedic sequence and sharp satire, what’s missing from “Lucy Does a TV Commercial”?  There’s not much in the way of narrative elegance here.  Lucy’s inebriated rehearsal leaves viewers to wonder what kind of havoc she’ll wreak on Ricky’s show and how the fallout might unfold for the clashing couple.  Alas, the writers are all out of steam at this point – Lucy stumbles on stage during Ricky’s broadcast, he scoops her up, and the episode is done.  
 
-This is one of those episodes that just ends with no real resolution or final dramatic punch to wrap up the story. The writers of I Love Lucy often did construct crackerjack plots with surprising endings that rewarded audiences with insight (however broad) into marriage or friendship or whatever sitcom-friendly topic they had at play that week.
+![](/static/img/012012_whatsarerun_ilovelucy_lucydoesatvcommercial_1200x900_a01.jpg)
+
+*original art by [Aireen Arellano](https://www.brimbranding.com)*
+
+The episode ends with no real resolution or final dramatic punch to wrap up the story. The writers of I Love Lucy often did construct crackerjack plots with surprising endings that rewarded audiences with insight (however broad) into marriage or friendship or whatever sitcom-friendly topic they had at play that week.
 
 It seems like a nitpicky quibble, but the dangling strands of “Lucy Does a TV Commercial” make the whole episode feel like empty calories. But ultimately, who cares? It’s so tasty, too!
