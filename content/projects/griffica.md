@@ -79,6 +79,9 @@ awards:
   - source: Shockfest Film Festival
     title: Official Selection
     link: https://www.shockfilmfest.com
+  - source: Midwest Film Festival
+    title: Official Selection
+    link: https://www.midwestfilm.com
 ---
 He'll keep you up all night. 
 
