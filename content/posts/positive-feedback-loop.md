@@ -9,6 +9,7 @@ tags:
   - directing
   - film
   - horror
+  - WorkByCJArellano
 ---
 Whoa! My short “Griffica” was awarded BEST FILM by the LGBT+ Los Angeles Film Festival, an offshoot of the Wildsound Feedback Film Festival. Bonus: the fest put together this compilation of audience feedback that left a big dumb smile on my face!:
 
