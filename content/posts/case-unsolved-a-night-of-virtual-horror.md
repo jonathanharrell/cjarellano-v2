@@ -5,6 +5,9 @@ description: A virtual reading of "Case Unsolved," my feature screenplay.
 image: /static/img/caseunsolved_120938792_10103709790691997_3216874830890471427_n.jpg
 tags:
   - writing
+  - film
+  - horror
+  - WorkByCJArellano
 ---
 Many many thank you's to [Asian CineVision](https://www.asiancinevision.org) for selecting my screenplay "Case Unsolved" as the WINNER of the 43rd Asian-American International Film Festival's Screenplay Competition!
 
