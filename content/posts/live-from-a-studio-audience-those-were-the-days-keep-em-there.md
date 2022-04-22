@@ -5,8 +5,9 @@ description: I'm movin' on up... and away from my couch.
 image: /static/img/allinthefamilyjeffersons.jpg
 tags:
   - television
-  - sitcom
   - comedy
+  - directing
+  - acting
 ---
 So….. that *All in the Family / Jeffersons* revival. Thanks! I hated it. \
 \
