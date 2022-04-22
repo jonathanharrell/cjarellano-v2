@@ -6,9 +6,9 @@ image: /static/img/screenshot_seinfeld.jpg
 tags:
   - comedy
   - television
-  - sitcom
   - writing
   - podcast
+  - directing
 ---
 In the latest *Bottle Episodes,* Courtney and I discuss the *Seinfeld* classic "The Chinese Restaurant," which finds our antisocial antiheroes trapped in their own private Sartrean hell of waiting for a table.
 
