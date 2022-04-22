@@ -8,6 +8,7 @@ tags:
   - directing
   - comedy
   - television
+  - acting
 ---
 You can find Lucy Ricardo’s disgusted face presiding over spoon and bottle on T-shirts, magnets, lunchboxes, posters, postcards, and keychains.  You can even buy Vitameatavegamin bottles filled with little heart-shaped candy. To armies of fans, casual or diehard, “Lucy Does a TV Commercial” is the episode that defines *I Love Lucy*. For many viewers who have never seen the show, it’s the one episode they can name at all.
 
