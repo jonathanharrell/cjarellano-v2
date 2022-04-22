@@ -6,7 +6,7 @@ image: /static/img/billieeilish.jpg.webp
 tags:
   - writing
   - music
-  - movies
+  - film
 ---
 Billie did a Bond theme. As a spy-fi nerd, I am contractually obligated to have opinions.
 
