@@ -5,6 +5,7 @@ description: I talk about directing.
 image: /static/img/img_0062.jpg
 tags:
   - directing
+  - WorkByCJArellano
 ---
 Recently, a film student reached out to me seeking advice on how to hone her directing skills, as she was nearing completion of her undergraduate program at my alma mater, Columbia College Chicago. 
 
