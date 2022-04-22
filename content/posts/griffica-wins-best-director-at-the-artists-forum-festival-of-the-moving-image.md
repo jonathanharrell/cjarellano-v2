@@ -1,5 +1,5 @@
 ---
-title: GRIFFICA wins Best Director!
+title: "GRIFFICA: Best Director Winner!"
 date: 2021-12-12T17:56:13.832Z
 description: The Artists' Forum Festival of the Moving Image had their closing
   night awards ceremony last night, and I won Best Director for my short
@@ -8,8 +8,8 @@ image: /static/img/20210124_griffica_setphotos_day2_05.jpg
 tags:
   - directing
   - writing
-  - filmmaking
   - horror
+  - WorkByCJArellano
 ---
 The Artists' Forum Festival of the Moving Image had their closing night awards ceremony last night, and I won Best Director for my short "Griffica"!
 
