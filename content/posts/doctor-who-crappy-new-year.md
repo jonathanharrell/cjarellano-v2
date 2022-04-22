@@ -3,6 +3,10 @@ title: "DOCTOR WHO: Crappy New Year"
 date: 2021-01-05T22:16:19.228Z
 description: There's plenty to revolt about in Doctor Who's Revolution of the Daleks.
 image: /static/img/revolution-of-the-daleks-posters-1280x720.png
+tags:
+  - writing
+  - directing
+  - television
 ---
 Oof. It’s hard out here for us Whovians. 
 
