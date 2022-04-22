@@ -16,7 +16,7 @@ You can find Lucy Ricardo’s disgusted face presiding over spoon and bottle on 
 
 Truth be told, the episode’s immortal status has more to do with its one memorable sequence than its complete A-to-B arc. “Lucy Does a TV Commercial” is sketch comedy gold, functioning not only as another display of Lucille Ball’s mad brilliance but also as sly “bite the hand that feeds you” satire. Taken as a whole, though, the story falls flat.
 
-The episode kicks off with Ricky in need of a spokeswoman for the ad break of the TV special he’s hosting.  Lucy pleads for the job, and in one of her oddest gambits to prove her talent, she climbs into the Ricardos’ TV set to prove she looks good on the small screen.  
+The episode kicks off with Ricky in need of a spokeswoman for the TV special he’s hosting.  Lucy pleads for the job, and in one of her oddest gambits to prove her talent, she climbs into the Ricardos’ TV set to prove she looks good on the small screen.  
 
 This is one of those era-specific bits that only could have existed in the time in which it first aired.  An analogous scenario today might have involved Lucy trying to disguise an iPhone self-tape as a legitimate commercial, but no kind of modernity would have been as funny as Lucy shoving herself inside a home appliance. It’s hard to top the delirious absurdity of Lucy dropping the lighter and reaching out of the TV to retrieve it.  Nevertheless, Lucy's clowning in this scene is but a prelude to the iconic shtick that follows.  
 
@@ -50,9 +50,9 @@ Fiction writers love to talk about stakes. Stakes, stakes, stakes, stakes, stake
 
 It’s a smart move, though.  By setting it at the rehearsal, they’ve granted the audience a scenario in which Lucy repeats the monologue over and over again, getting drunker and drunker in the process.  The writers have traded in higher stakes for a relentless negative feedback loop of comedy.   
 
-Also notable about the classic sequence is how it functions less as another testament to Lucy’s daffiness and more as a coy satire on advertising.  If the original spokesmodel had shown up to the audition, she too would have ended up as a drunken mess stumbling through the studio. The root cause of the chaos isn’t Lucy. It’s the product-makers. 
+Also notable about the classic sequence is how it functions less as another testament to Lucy’s daffiness and more as a coy send-up of advertising.  If the original spokesmodel had shown up to the audition, she too would have ended up as a drunken mess stumbling through the studio. The root cause of the chaos isn’t Lucy. It’s the product-makers. 
 
-When *I Love Lucy* aired, commercial spots like these were common: instead of a 30-second segment with flashy visuals, ad breaks often consisted of a pretty spokesperson extolling snake-oily products not unlike Vitameatavegamin. Since those advertisers were footing the bill for I Love Lucy, it was a cheeky move on Desilu’s part to produce an episode in which the biggest idiot on display isn’t Lucy, but the product of the week.  The original broadcast of this episode more than likely cut from Lucy drooling over the Vitameatavegamin table to a spokesperson holding up a can of Fluffo Shortening (one of the show’s original sponsors).
+When *I Love Lucy* aired, commercial spots like these were common: instead of a 30-second segment with flashy visuals, ad breaks often consisted of a pretty spokesperson extolling snake-oily products not unlike Vitameatavegamin. Since those advertisers were footing the bill for *I Love Lucy*, it was a cheeky move on Desilu’s part to produce an episode in which the biggest idiot on display isn’t Lucy, but the product of the week.  The original broadcast of this episode more than likely cut from Lucy drooling over the Vitameatavegamin table to a spokesperson holding up a can of Fluffo Shortening (one of the show’s original sponsors).
 
 <div class="relative mb-12" style="padding: 56.25% 0 0 0;">
   <iframe 
@@ -70,6 +70,6 @@ So with the timeless comedic sequence and sharp satire, what’s missing from �
 
 *original art by [Aireen Arellano](https://www.brimbranding.com)*
 
-The episode ends with no real resolution or final dramatic punch to wrap up the story. The writers of I Love Lucy often did construct crackerjack plots with surprising endings that rewarded audiences with insight (however broad) into marriage or friendship or whatever sitcom-friendly topic they had at play that week.
+The episode ends with no real resolution or final dramatic punch to wrap up the story. The writers of *I Love Lucy* often did construct crackerjack plots with surprising endings that rewarded audiences with insight (however broad) into marriage or friendship or whatever sitcom-friendly topic they had at play that week.
 
 It seems like a nitpicky quibble, but the dangling strands of “Lucy Does a TV Commercial” make the whole episode feel like empty calories. But ultimately, who cares? It’s so tasty, too!
