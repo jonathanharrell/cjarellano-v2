@@ -1,14 +1,14 @@
 ---
 title: "COMPANY: Bobbie's Hobbies Are Just Like Robby's"
 date: 2022-04-10T01:58:26.232Z
-description: "Always sorry, always grateful. "
+description: "This adaptation feels fresh. It has nothing to do with-- all to do with her. "
 image: /static/img/company-1-mediumsquareat3x.jpg
 tags:
   - music
   - theater
   - directing
 ---
-I've adored *Company* ever since I squinted at a low-res DVD of the 2006 production starring Raúl Esparza as Bobby the boundless bachelor. This weekend, I finally saw my favorite Sondheim show on Broadway this weekend!
+I've adored *Company* ever since I squinted at a low-res DVD of the 2006 production starring Raúl Esparza as Bobby the boundless bachelor. This weekend, I finally saw my favorite Sondheim show on Broadway!
 
 ![](/static/img/company_img_3144.jpg)
 
