@@ -1,7 +1,7 @@
 ---
 title: "COMPANY: Bobbie's Hobbies Are Just Like Robby's"
 date: 2022-04-10T01:58:26.232Z
-description: "Always sorry, always grateful. "
+description: "This adaptation feels fresh. It has nothing to do with-- all to do with her. "
 image: /static/img/company-1-mediumsquareat3x.jpg
 tags:
   - music
