@@ -8,11 +8,11 @@ tags:
   - theater
   - directing
 ---
-I've adored *Company* ever since I squinted at a low-res DVD of the 2006 production starring Raúl Esparza as Bobby the boundless bachelor. This weekend, I finally saw my favorite Sondheim show on Broadway!
+I've adored *Company* ever since I squinted at a low-res DVD of the 2006 production starring Raúl Esparza as Bobby, the boundless bachelor. This weekend, I finally saw my all-time favorite Sondheim show on Broadway! 
 
 ![](/static/img/company_img_3144.jpg)
 
-What can I say? I love a sexistential crisis. Director Marianne Elliott and the effervescent cast whip the exhausting niceties of marriage into a dazzling disco circus punctuated by selfies and martinis. 
+I'm thrilled to report this adaptation honors and even elevates Sondheim's original story about a charismatic thirtysomething's sexistential crisis. Director Marianne Elliott and the effervescent cast whip the exhausting niceties of marriage into a dazzling disco circus punctuated by martinis and selfies. 
 
 ![](/static/img/company_cmp_prod-image8_photo_by_brinkhoff-moegenburg.png.jpg)
 
@@ -28,7 +28,7 @@ But the societal (and biological!) pressure to settle down is still there. Nuanc
 
 For all its savvy updates, the show still has its heels dug into 1970. I wish Bobbie was given more opportunities to explore all the options she *really* has at her disposal in 2022. But at that point, I think I'd be asking for a different show altogether - one that could have her seriously consider polyamory, or freezing her eggs, or finding true joy in being single. 
 
-"Bobby becomes Bobbie" deprives the show of some things. The "Ladies Who Lunch" scene is defanged of its Oedipal bite.
+"Bobby becomes Bobbie" also deprives the show of some things. The "Ladies Who Lunch" scene is defanged of its Oedipal bite.
 
 ![](/static/img/company_screen-shot-2022-04-24-at-10.21.49-pm.jpg)
 
