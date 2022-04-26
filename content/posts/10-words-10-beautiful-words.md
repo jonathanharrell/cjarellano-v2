@@ -16,8 +16,6 @@ It's just a list of words that feel good against the ear.
 
 ![](/static/img/recumbentostrich-nap-pillow-4.jpg)
 
-
-
 **2. Ersatz** - having quality of poor substitute
 
 ![](/static/img/ersatz_791a6514-dfe3-4191-8c1d-2e31673ef4bd.17daf18f655658a2c78c0f365a4a3ebd.jpg)
@@ -38,21 +36,17 @@ It's just a list of words that feel good against the ear.
 
 ![](/static/img/augur_screen-shot-2022-04-26-at-11.50.25-am.jpg)
 
-**7. Belay** - fix arount a cleat, rock, pin, or other object, in order to secure it 
+**7. Belay** - fix around a cleat, rock, pin, or other object, in order to secure it 
 
 ![](/static/img/belay_istockphoto-985771024-612x612.jpg)
 
 **9. Equanimity** - mental calmness, composure, and evenness of temper, especially in a difficult situation
-
-
 
 ![](/static/img/equanimity_this_is_fine.jpg)
 
 **8. Perspicacious** - having keen insight
 
 ![](/static/img/perspicacious_screen-shot-2022-04-26-at-12.01.01-pm.jpg)
-
-
 
 **10. Clump** - a compacted mass or lump of something
 
