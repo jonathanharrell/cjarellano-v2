@@ -6,10 +6,6 @@ image: /static/img/cellardoor_z48c62vxc6h61.jpg
 tags:
   - writing
 ---
-
-
-
-
 **10 Words That I Think Are Beautiful and Don’t Ask Me to Explain**
 
 ![](/static/img/cellardoor_z48c62vxc6h61.jpg)
@@ -44,11 +40,11 @@ They just feel good against the ear.
 
 ![](/static/img/belay_istockphoto-985771024-612x612.jpg)
 
-**9. Equanimity** - mental calmness, composure, and evenness of temper, especially in a difficult situation
+**8. Equanimity** - mental calmness, composure, and evenness of temper, especially in a difficult situation
 
 ![](/static/img/equanimity_this_is_fine.jpg)
 
-**8. Perspicacious** - having keen insight
+**9. Perspicacious** - having keen insight
 
 ![](/static/img/perspicacious_screen-shot-2022-04-26-at-12.01.01-pm.jpg)
 
