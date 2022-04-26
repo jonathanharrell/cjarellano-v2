@@ -6,11 +6,11 @@ image: /static/img/cellardoor_z48c62vxc6h61.jpg
 tags:
   - writing
 ---
-**10 Words That I Think Are Beautiful and Don’t Ask Me to Explain, Just Go With It** 
+**10 Words That I Think Are Beautiful and Don’t Ask Me to Explain**
 
 ![](/static/img/cellardoor_z48c62vxc6h61.jpg)
 
-It's just a list of words that feel good against the ear.
+They just feel good against the ear.
 
 **1. Recumbent** - resting, idle, inactive
 
