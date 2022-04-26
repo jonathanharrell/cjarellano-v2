@@ -52,4 +52,4 @@ They just feel good against the ear.
 
 ![](/static/img/clump_1449441483-12676e9ba48e545bc2fda6dc2f383e61.jpg)
 
-*Runners-up: superluminal, triage, gubernatorial, pennyfarthing, goose*
+*Runners-up: superluminal, triage, gubernatorial, penny-farthing, goose*
