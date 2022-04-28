@@ -184,7 +184,7 @@ class Category extends Component {
                       </div>
                     ))}
                     <div>
-                      <Link href="/about">
+                      <Link href="/blog">
                         <a className="block relative overflow-hidden rounded-lg shadow-xl hover:shadow-2xl transform lg:hover:scale-110 transition-all ease-out duration-300 group" style={{ padding: "35% 0" }}>
                           <motion.figure layoutId="aboutImage" className="absolute inset-0 w-full h-full">
                             <img src="/static/img/cjarellano.jpg" alt="" loading="lazy" className="absolute inset-0 w-full h-full object-cover"/>
@@ -192,7 +192,7 @@ class Category extends Component {
                           </motion.figure>
                           <div className="flex items-center justify-center absolute inset-0 z-10 w-full h-full p-6 pb-8">
                             <h3 className="text-xl leading-tight font-semibold tracking-wide capitalize">
-                              About
+                              Blog
                             </h3>
                           </div>
                         </a>

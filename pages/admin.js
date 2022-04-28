@@ -20,10 +20,10 @@ const Admin = () => {
             name: 'url',
             label: 'URL',
             widget: 'string',
-            hint: 'The src of the iframe embed provided by YouTube or Vimeo'
+            hint: 'The src of the iframe embed provided by YouTube or Vimeo (ex: youtube.com/embed/[videoId])'
           }
         ],
-        pattern: /^<div class="relative mb-12" style="padding: 56\.25% 0 0 0;">$\s*?<iframe\s*?src="(.*?)".*?><\/iframe>\n^<\/div>$/ms,
+        pattern: /^<div class="relative my-12" style="padding: 56\.25% 0 0 0;">$\s*?<iframe\s*?src="(.*?)".*?><\/iframe>\n^<\/div>$/ms,
         fromBlock: function(match) {
           return {
             url: match[1]
@@ -31,7 +31,7 @@ const Admin = () => {
         },
         toBlock: function(data) {
           if (!data.url) return null;
-          return `<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+          return `<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="${data.url}" 
     title="Video player" 
@@ -43,7 +43,7 @@ const Admin = () => {
         },
         toPreview: function(data) {
           if (!data.url) return null;
-          return `<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+          return `<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="${data.url}" 
     title="Video player" 

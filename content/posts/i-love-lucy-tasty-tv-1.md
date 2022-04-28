@@ -20,7 +20,7 @@ The episode kicks off with Ricky in need of a spokeswoman for the TV special he�
 
 This is one of those era-specific bits that only could have existed in the time in which it first aired.  An analogous scenario today might have involved Lucy trying to disguise an iPhone self-tape as a legitimate commercial, but no kind of modernity would have been as funny as Lucy shoving herself inside a home appliance. It’s hard to top the delirious absurdity of Lucy dropping the lighter and reaching out of the TV to retrieve it.  Nevertheless, Lucy's clowning in this scene is but a prelude to the iconic shtick that follows.  
 
-<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/EkB8Asqcczw" 
     title="Video player" 
@@ -32,7 +32,7 @@ This is one of those era-specific bits that only could have existed in the time 
 
 Thanks to an intercepted phone message, Lucy worms her way into the job as the spokeswoman for a health tonic named Vitameatavegamin, a four-pronged portmanteau of its disgusting key ingredients. She arrives on set for rehearsal, unaware that the drink also contains a 23% alcohol quotient.  She impresses the director as she rattles off her memorized monologue with pep and professionalism.  When she downs a spoonful of the stuff, the poise ends and the comedy begins.
 
-<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/KY3eOtJwOhE" 
     title="Video player" 
@@ -54,7 +54,7 @@ Also notable about the classic sequence is how it functions less as another test
 
 When *I Love Lucy* aired, commercial spots like these were common: instead of a 30-second segment with flashy visuals, ad breaks often consisted of a pretty spokesperson extolling snake-oily products not unlike Vitameatavegamin. Since those advertisers were footing the bill for *I Love Lucy*, it was a cheeky move on Desilu’s part to produce an episode in which the biggest idiot on display isn’t Lucy, but the product of the week.  The original broadcast of this episode more than likely cut from Lucy drooling over the Vitameatavegamin table to a spokesperson holding up a can of Fluffo Shortening (one of the show’s original sponsors).
 
-<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/On7OFQTp4lM" 
     title="Video player" 

@@ -15,7 +15,7 @@ The Artists' Forum Festival of the Moving Image had their closing night awards c
 
 Here's my acceptance speech. I had to deliver it at the last minute, hence the handheld aesthetic and my super-casual *Back to the Future* holiday sweater:
 
-<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://player.vimeo.com/video/655877698?h=f7b8555f8c" 
     title="Video player" 

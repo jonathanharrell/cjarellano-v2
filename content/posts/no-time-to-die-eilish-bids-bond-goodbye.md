@@ -10,7 +10,7 @@ tags:
 ---
 Billie did a Bond theme. As a spy-fi nerd, I am contractually obligated to have opinions.
 
-<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/BboMpayJomw" 
     title="Video player" 
@@ -34,7 +34,7 @@ What needed to DIE:
 
 \- I’m bummed that this track bears such a striking similarity to its immediate predecessor, Sam Smith’s rousing “Writing’s on the Wall.” It even apes that song’s sonic tick of having the singer begin the verses a whole step down from the orchestration. In “No Time to Die,” this portentous whistle-y tone hits an F# while Billie chimes in at an E. In “Writing,” the dramatic piano plinks a G as Sam croons at an F. In both cases, it produces a sultry yet reflective effect that very much defines this era of Bond.
 
-<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/8jzDnsjYv9A" 
     title="Video player" 

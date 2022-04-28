@@ -18,7 +18,7 @@ As an avid consumer of *Love, Simon, Never Have I Ever*, and other colorful teen
 
 
 
-<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/RD1o51f5qBE" 
     title="Video player" 
@@ -28,7 +28,7 @@ As an avid consumer of *Love, Simon, Never Have I Ever*, and other colorful teen
   ></iframe>
 </div>
 
-<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/jac1w7s2SsA" 
     title="Video player" 
@@ -40,7 +40,7 @@ As an avid consumer of *Love, Simon, Never Have I Ever*, and other colorful teen
 
 
 
-<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/HSDi-tBfx3c" 
     title="Video player" 
@@ -52,7 +52,7 @@ As an avid consumer of *Love, Simon, Never Have I Ever*, and other colorful teen
 
 
 
-<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/AoLjZi5zPIk" 
     title="Video player" 
@@ -64,7 +64,7 @@ As an avid consumer of *Love, Simon, Never Have I Ever*, and other colorful teen
 
 
 
-<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/7xtiCPuo7xg" 
     title="Video player" 
@@ -76,7 +76,7 @@ As an avid consumer of *Love, Simon, Never Have I Ever*, and other colorful teen
 
 
 
-<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/Z5jkaG0t8uw" 
     title="Video player" 
@@ -88,7 +88,7 @@ As an avid consumer of *Love, Simon, Never Have I Ever*, and other colorful teen
 
 
 
-<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/CMBrKEnRCKQ" 
     title="Video player" 
@@ -98,7 +98,7 @@ As an avid consumer of *Love, Simon, Never Have I Ever*, and other colorful teen
   ></iframe>
 </div>
 
-<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/rpQ2-ZbnAaY" 
     title="Video player" 
@@ -108,7 +108,7 @@ As an avid consumer of *Love, Simon, Never Have I Ever*, and other colorful teen
   ></iframe>
 </div>
 
-<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/9X-GoZ7GM1s" 
     title="Video player" 
@@ -118,7 +118,7 @@ As an avid consumer of *Love, Simon, Never Have I Ever*, and other colorful teen
   ></iframe>
 </div>
 
-<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/DIzjtFTbn8A" 
     title="Video player" 

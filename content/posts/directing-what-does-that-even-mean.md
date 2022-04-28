@@ -15,7 +15,7 @@ It got me asking myself what a director even does.
 
 Certainly there's more to it than saying "yes/no," as this scene from *Nine* would have us believe, right? 
 
-<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/Fe8_xJoV-mY" 
     title="Video player" 
