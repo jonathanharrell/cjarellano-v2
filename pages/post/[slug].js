@@ -44,7 +44,7 @@ class Project extends Component {
         />
         <div className="py-28 lg:py-32">
           <div className="container">
-            <div className="max-w-3xl mx-auto">
+            <div className="max-w-2xl mx-auto">
               <article>
                 <header className="mb-8">
                   <h1 className="text-4xl md:text-5xl font-bold leading-none">{title}</h1>
