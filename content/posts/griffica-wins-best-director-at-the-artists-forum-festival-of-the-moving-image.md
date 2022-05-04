@@ -1,5 +1,5 @@
 ---
-title: "GRIFFICA: Best Director Winner!"
+title: "GRIFFICA: On the Way to the (Artists') Forum"
 date: 2021-12-12T17:56:13.832Z
 description: The Artists' Forum Festival of the Moving Image had their closing
   night awards ceremony last night, and I won Best Director for my short
@@ -26,5 +26,11 @@ Here's my acceptance speech. I had to deliver it at the last minute, hence the h
 </div>
 
 "Griffica" also picked up nominations for Best Lead Actor (congrats to my dude James Dolbeare!), Best Screenplay, Best Editing, and the fest's Juror's Award. 
+
+![](/static/img/1_279562775_10104234337520947_1277622023008763985_n.jpg)
+
+![](/static/img/2_279553633_10104234337515957_4662592213978399671_n.jpg)
+
+![](/static/img/3_279243605_10104234337510967_7959052283899316632_n.jpg)
 
 Many many thanks to the fine folks at the Artists' Forum!
