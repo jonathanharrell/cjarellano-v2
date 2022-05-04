@@ -1,5 +1,5 @@
 ---
-title: "GRIFFICA: Best Director Winner!"
+title: "GRIFFICA: On the Way to the (Artists') Forum"
 date: 2021-12-12T17:56:13.832Z
 description: The Artists' Forum Festival of the Moving Image had their closing
   night awards ceremony last night, and I won Best Director for my short
