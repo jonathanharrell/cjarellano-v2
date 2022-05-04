@@ -24,7 +24,7 @@ It worked because back then, American pop culture was a monolith of 3 broadcast 
 \
 But to trot out a sitcom text designed for 1973 and present it to an audience in 2019 is to pretend - for 25 uncomfortable minutes - that today we aren’t bombarded with daily social media tirades from the Trump-loving Archie Bunkers and smug snowflake Mike Stivics in our lives. If *All in the Family* had a mission to expose the ugliness of middle America to itself, to get it all out and onto the kitchen table so we can poke at it and deal with it, we might look around the hellscape that is our social media feeds today and say, “Uh….. mission accomplished?” 
 
-<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/GI46_zBGv1A" 
     title="Video player" 
@@ -34,7 +34,7 @@ But to trot out a sitcom text designed for 1973 and present it to an audience in
   ></iframe>
 </div>
 
-<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/WDixKh3Zhu0" 
     title="Video player" 
@@ -49,7 +49,7 @@ The difference, of course, between our news feeds and the fictional Bunkers is t
 \
 And the rest of the Bunkers similarly wrestled with not just the dated material, but - oh my God - those accents! ABC needs to send a formal apology to Queens, and especially to national treasure Ellie Kemper. I guess it’s also worth mentioning that, with few current exceptions, the studio sitcom is something of a lost art. Despite the fact that the actors all had various levels of experience with acting against four cameras, no one came close to achieving the patter and rhythms of the source material they spent all night revering. 
 
-<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/v2cHkyPp3_o" 
     title="Video player" 
@@ -59,7 +59,7 @@ And the rest of the Bunkers similarly wrestled with not just the dated material,
   ></iframe>
 </div>
 
-<div class="relative mb-12" style="padding: 56.25% 0 0 0;">
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://www.youtube.com/embed/2QTiAmvygC4" 
     title="Video player" 
