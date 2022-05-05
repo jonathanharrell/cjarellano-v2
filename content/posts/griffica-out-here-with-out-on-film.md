@@ -7,7 +7,7 @@ tags:
   - horror
   - writing
   - directing
-  - WorkByCJA
+  - WorkByCJArellano
 ---
 I'm thrilled to report that Out on Film: Atlanta's LGBTQ Film Festival awarded my film "Griffica" with the Audience Award for Best Horror Short! 
 
