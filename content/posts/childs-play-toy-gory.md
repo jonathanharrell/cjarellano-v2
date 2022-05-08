@@ -40,13 +40,35 @@ Lots to love, including a knife-sharp “funhouse of horror” aesthetic, wide-a
 
 Dumb as balls. 
 
-Bride of Chucky (1998)
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+  <iframe 
+    src="https://www.youtube.com/embed/934LXPqgFWI" 
+    title="Video player" 
+    class="absolute top-0 left-0 w-full h-full"
+    frameborder="0" 
+    allowfullscreen
+  ></iframe>
+</div>
+
+**Bride of Chucky (1998)**
 
 It’s the ‘90s! The *Scream* vibes - not to mention the *Craft* vibes - are strong with this one. Gay series creator Don Mancini starts to lean heavy into the queer aesthetics, serving up a gay best friend character (with frosted tips!), an appearance by trans performer Alexis Arquette, sustained reverence for gay horror legend James Whale, and a relentless camp sensibility. Also, John Ritter showed up, and I started crying. 
+
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+  <iframe 
+    src="https://www.youtube.com/embed/I-WZYQ6nABA" 
+    title="Video player" 
+    class="absolute top-0 left-0 w-full h-full"
+    frameborder="0" 
+    allowfullscreen
+  ></iframe>
+</div>
 
 **Seed of Chucky (2004)**
 
 At times, it’s a more biting Hollywood satire than, say, Scream 3, but Seed fizzles out with dated pop-culture gags and blue humor. We’re talking “Martha Stewart goes to prison” jokes and a whole scene where Chucky masturbates. The script sort of dabbles in pro-trans/nonbinary rhetoric, albeit in rude and slipshod ways. The animatronic work hits franchise highs here - the range of facial expressions on the trio of killer dolls made them feel as fully realized as Pixar characters. An extended John Waters cameo gives the franchise a firm push into camp with a capital CAMP. 
+
+
 
 **Curse of Chucky (2013)**
 
