@@ -3,6 +3,13 @@ title: "CHILD'S PLAY: Toy Gory"
 date: 2021-07-31T04:10:15.881Z
 description: 7 movies and a show? He truly is our friend to the end!
 image: /static/img/child-splay03.jpg
+tags:
+  - horror
+  - film
+  - directing
+  - acting
+  - writing
+  - television
 ---
 In giddy anticipation of the *Chucky* TV series dropping later this year, I watched all the movies starring our cute lil’ killer doll so you don’t have to! 
 
