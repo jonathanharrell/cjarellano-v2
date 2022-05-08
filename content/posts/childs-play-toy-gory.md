@@ -106,4 +106,4 @@ Protagonists repping all eras of the series pop their heads in for a fun hello. 
   ></iframe>
 </div>
 
-Unlike other long-running horror franchises, the Chucky saga carries the distinction of boasting a single narrative continuity overseen by a single creator. Mancini has made his pet series weirder and gayer with each installment. Now that he’s continuing the story in a cultural landscape less openly hostile to queer sensibilities than in 1988, subtext can finally become text and Chucky can let his rainbow knife fly once and for all.
+Despite the franchise's wild swings in tone and quality, I'm looking forward to the TV series debuting on the USA Network later this year. Unlike other long-running horror franchises, the Chucky saga carries the distinction of boasting a single narrative continuity overseen by a single creator. Mancini has made his pet series weirder and gayer with each installment. Now that he’s continuing the story in a cultural landscape less openly hostile to queer sensibilities than in 1988, subtext can finally become text and Chucky can let his rainbow knife fly once and for all.
