@@ -1,6 +1,6 @@
 ---
 title: "CHILD'S PLAY: Toy Gory"
-date: 2022-05-08T04:10:15.881Z
+date: 2021-07-31T04:10:15.881Z
 description: "7 movies and a show. He truly is our friend to the end. "
 image: /static/img/child-splay03.jpg
 ---
