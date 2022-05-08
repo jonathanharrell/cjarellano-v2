@@ -12,9 +12,29 @@ In giddy anticipation of the Chucky TV series debuting on USA later this year, I
 
 A taut suspense tale. Catharine Hicks deserves way more recognition than she receives in the annals of horror heroines. A tight script and slick set pieces make this entry the only Chucky movie that approaches true *Twilight Zone*-style terror in the way it vibes off the close - sometimes too close - relationships that kids have with the toys they christen with entire personas.  
 
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+  <iframe 
+    src="https://www.youtube.com/embed/sjiyV8mtXiU" 
+    title="Video player" 
+    class="absolute top-0 left-0 w-full h-full"
+    frameborder="0" 
+    allowfullscreen
+  ></iframe>
+</div>
+
 **Child’s Play 2 (1989)**
 
 Lots to love, including a knife-sharp “funhouse of horror” aesthetic, wide-angle lenses galore, and savvy actors who play every scene like an earnest after-school special spattered in blood. It’s the most visually accomplished and tonally balanced movie of the bunch. 
+
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+  <iframe 
+    src="https://www.youtube.com/embed/uwcLgXZRljM" 
+    title="Video player" 
+    class="absolute top-0 left-0 w-full h-full"
+    frameborder="0" 
+    allowfullscreen
+  ></iframe>
+</div>
 
 **Child’s Play 3 (1990)**
 
