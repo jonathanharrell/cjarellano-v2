@@ -1,6 +1,6 @@
 ---
 title: "CASE UNSOLVED: Pitch, Please"
-date: 2022-05-08T18:19:07.837Z
+date: 2018-10-15T00:19:00.000Z
 description: "Spoiler alert: We won!"
 image: /static/img/0_44094754_10102705194500817_5149475044111417344_n.jpg
 ---
