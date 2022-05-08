@@ -4,13 +4,13 @@ date: 2021-07-31T04:10:15.881Z
 description: 7 movies and a show? He truly is our friend to the end!
 image: /static/img/child-splay03.jpg
 ---
-In giddy anticipation of the Chucky TV series debuting on USA later this year, I watched all the movies starring our cute lil’ killer doll so you don’t have to! 
+In giddy anticipation of the *Chucky* TV series dropping later this year, I watched all the movies starring our cute lil’ killer doll so you don’t have to! 
 
 ![](/static/img/child-splay04.jpg)
 
 **Child’s Play (1988)**
 
-A taut suspense tale. Catharine Hicks deserves way more recognition than she receives in the annals of horror heroines. A tight script and slick set pieces make this entry the only Chucky movie that approaches true *Twilight Zone*-style terror in the way it vibes off the close - sometimes too close - relationships that kids have with the toys they christen with entire personas.  
+A taut suspense tale and a timeless classic. I'm serious as a hammer to the head! Catharine Hicks deserves way more recognition than she receives in the annals of horror heroines. A tight script and slick set pieces make this entry the only Chucky movie that approaches true *Twilight Zone*-style terror in the way it vibes off the close - sometimes too close - relationships that kids have with the toys they christen with entire personas.  
 
 <div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
@@ -66,7 +66,7 @@ It’s the ‘90s! The *Scream* vibes - not to mention the *Craft* vibes - are s
 
 **Seed of Chucky (2004)**
 
-At times, it’s a more biting Hollywood satire than, say, Scream 3, but *Seed* fizzles out with dated pop-culture gags and blue humor. We’re talking “Martha Stewart goes to prison” jokes and a whole scene where Chucky masturbates. The script sort of dabbles in pro-trans/nonbinary rhetoric, albeit in rude and slipshod ways. The animatronic work hits franchise highs here - the range of facial expressions on the trio of killer dolls made them feel as fully realized as Pixar characters. An extended John Waters cameo gives the franchise a firm push into camp with a capital CAMP. 
+At times, it’s a more biting Hollywood satire than, say, *Scream 3*, but *Seed* fizzles out with dated pop-culture gags and blue humor. We’re talking “Martha Stewart goes to prison” jokes and a whole scene where Chucky masturbates. The script sort of dabbles in pro-trans/nonbinary rhetoric, albeit in rude and slipshod ways. The animatronic work hits franchise highs here - the range of facial expressions on the trio of killer dolls made them feel as fully realized as Pixar characters. An extended John Waters cameo gives the franchise a firm push into camp with a capital CAMP. 
 
 <div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
@@ -106,7 +106,7 @@ Protagonists repping all eras of the series pop their heads in for a fun hello. 
   ></iframe>
 </div>
 
-Despite the franchise's wild swings in tone and quality, I'm looking forward to the TV series debuting on the USA Network later this year. Unlike other long-running horror franchises, the Chucky saga carries the distinction of a single narrative continuity overseen by a single creator. Mancini has made his pet series weirder and gayer with each installment. Now that he’s continuing the story in a cultural landscape less openly hostile to queer sensibilities than in 1988, subtext can finally become text and Chucky can let his rainbow knife fly once and for all.
+Despite the franchise's wild swings in tone and quality, I'm looking forward to the TV series. Unlike other long-running horror franchises, the Chucky saga carries the distinction of a single narrative continuity overseen by a single creator. Mancini has made his pet series weirder and gayer with each installment. Now that he’s continuing the story in a cultural landscape less openly hostile to queer sensibilities than in 1988, subtext can finally become text and Chucky can let his rainbow knife fly once and for all.
 
 <div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
