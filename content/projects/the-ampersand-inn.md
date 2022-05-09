@@ -9,8 +9,8 @@ categories:
 image: /static/img/ampersand_thumbnail_2.jpg
 awards:
   - source: New York International Screenplay Awards
-    title: First Prize - Feature Screenplay Category
-    link: https://nyisa.com
+    title: First Place - Feature Screenplay Category
+    link: https://nyisa.com/#archive-2022
   - source: Horror Underground Film & Screenplay Festival
     title: Official Selection
     link: https://festivalforhorror.com
