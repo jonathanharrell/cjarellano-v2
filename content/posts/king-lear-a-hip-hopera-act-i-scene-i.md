@@ -10,7 +10,7 @@ tags:
   - music
   - WorkByCJArellano
 ---
-I once wrote a heist screenplay in which the characters - as part of an elaborate ruse, of course - perform a hip-hopera version of *King Lear*. Here's the opening scene. Enjoy!
+I once wrote a heist screenplay in which the characters - as part of an elaborate ruse, of course - perform a hip-hopera version of *King Lear*. I've long toyed with the idea of developing this musical-within-a-movie into a bona fide project in its own right. Until then, here's the opening scene. Enjoy!
 
 KING LEAR\
 I'm the top motherfuckin' dog on my block\
