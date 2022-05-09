@@ -8,7 +8,10 @@ tags:
   - writing
   - Shakespeare
   - music
+  - WorkByCJArellano
 ---
+I once wrote a heist screenplay in which the characters - as part of an elaborate ruse, of course - perform a hip-hopera version of *King Lear*. Here's the opening scene. Enjoy!
+
 KING LEAR\
 I'm the top motherfuckin' dog on my block\
 Rule with an iron fist and an iron Glock\
