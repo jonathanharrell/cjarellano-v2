@@ -23,6 +23,6 @@ awards:
 ---
 "You've got creatures. We've got comfort."
 
-In this horror adventure yarn, Sky Ampersand runs a charming New England inn that specializes in curing supernatural ailments and injuries. 
+In this horror adventure yarn, Sky Ampersand runs a New England inn that cures supernatural ailments and injuries. 
 
-His personal and professional lives collide when his latest guests seek shelter from a killer sea monster... who happens to be his boyfriend.
+Sky's personal and professional lives collide when his guests seek shelter from a killer sea monster... who happens to be Sky's boyfriend.
