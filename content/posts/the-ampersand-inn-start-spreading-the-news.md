@@ -8,7 +8,7 @@ tags:
   - horror
   - WorkByCJArellano
 ---
-WOWEE WOW WOW! Thank you so much to the New York International Screenplay Awards for awarding my script “The Ampersand Inn” with the First Place Gold Award in the Feature Screenplay category! The awards ceremony at DROM Music Venue in the East Village was in many ways more exciting than the win itself. I will never not love meeting and connecting with fellow writers and filmmakers who just want to make things.  
+WOWEE WOW WOW! Thank you so much to the [New York International Screenplay Awards](https://nyisa.com/#archive-2022) for awarding my script *The Ampersand Inn* with the First Place Gold Award in the Feature Screenplay category! The awards ceremony at DROM Music Venue in the East Village was in many ways more exciting than the win itself. I will never not love meeting and connecting with fellow writers and filmmakers who just want to make things.  
 
 ![](/static/img/279956708_10104242245782727_4192490102060245309_n.jpg)
 
@@ -17,7 +17,7 @@ WOWEE WOW WOW! Thank you so much to the New York International Screenplay Awards
 ![](/static/img/5279855508_10104242245772747_7622903366958180888_n.jpg)
 
 \
-Super incredible thanks to my super incredible pals Kevin and Adam for coming along for the ride, being my emotional support buddies, and taking these sweet pics of me fumbling through absurdly unprepared remarks. (Once I bring up Doctor Who, I KNOW I’m rambling.) Last night reminded me that awards are terrific, but it’s the people - friends and fellow artists - who make magic that lasts.
+Super incredible thanks to my super incredible pals Kevin and Adam for coming along for the ride, being my emotional support buddies, and taking these sweet pics of me fumbling through absurdly unprepared remarks. (Once I bring up Doctor Who, I KNOW I’m rambling.) The ceremony reminded me that awards are terrific, but it’s the people - friends and fellow artists - who make magic that lasts.
 
 ![](/static/img/279889835_10104242245762767_8639637562257390218_n.jpg)
 
