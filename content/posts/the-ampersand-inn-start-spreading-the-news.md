@@ -2,7 +2,7 @@
 title: "THE AMPERSAND INN: Start Spreading the News"
 date: 2022-05-12T21:12:09.545Z
 description: "Thank you, New York International Screenplay Awards! "
-image: /static/img/279847578_10104242245787717_509692713505015496_n.jpg
+image: /static/img/279956708_10104242245782727_4192490102060245309_n.jpg
 tags:
   - writing
   - horror
