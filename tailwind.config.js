@@ -1,22 +1,18 @@
 const colors = require("tailwindcss/colors");
 
 module.exports = {
-  purge: {
-    content: [
-      "./pages/**/*.js",
-      "./components/**/*.js"
-    ],
-    options: {
-      safelist: [
-        "aspect-w-16",
-        "aspect-h-9",
-        "text-magenta",
-        "text-cyan",
-        "text-yellow",
-        "text-red"
-      ]
-    }
-  },
+  content: [
+    "./pages/**/*.js",
+    "./components/**/*.js"
+  ],
+  safelist: [
+    "aspect-w-16",
+    "aspect-h-9",
+    "text-magenta",
+    "text-cyan",
+    "text-yellow",
+    "text-red"
+  ],
   darkMode: "class",
   theme: {
     colors: {
@@ -55,16 +51,6 @@ module.exports = {
       screens: {
         "xs": "480px"
       }
-    }
-  },
-  variants: {
-    extend: {
-      backgroundImage: ["group-hover"],
-      ringColor: ["focus-visible"],
-      ringOffsetColor: ["focus-visible"],
-      ringOffsetWidth: ["focus-visible"],
-      ringOpacity: ["focus-visible"],
-      ringWidth: ["focus-visible"]
     }
   },
   plugins: [

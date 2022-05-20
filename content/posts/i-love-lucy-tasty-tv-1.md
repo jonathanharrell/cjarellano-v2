@@ -66,9 +66,7 @@ When *I Love Lucy* aired, commercial spots like these were common: instead of a 
 
 So with the timeless comedic sequence and sharp satire, what’s missing from “Lucy Does a TV Commercial”?  There’s not much in the way of narrative elegance here.  Lucy’s inebriated rehearsal leaves viewers to wonder what kind of havoc she’ll wreak on Ricky’s show and how the fallout might unfold for the clashing couple.  Alas, the writers are all out of steam at this point – Lucy stumbles on stage during Ricky’s broadcast, he scoops her up, and the credits roll.  
 
-![](/static/img/012012_whatsarerun_ilovelucy_lucydoesatvcommercial_1200x900_a01.jpg)
-
-*original art by [Aireen Arellano](https://www.brimbranding.com)*
+![](/static/img/012012_whatsarerun_ilovelucy_lucydoesatvcommercial_1200x900_a01.jpg "original art by [Aireen Arellano](https://www.brimbranding.com)")
 
 The episode ends with no real resolution or final dramatic punch to wrap up the story. The writers of *I Love Lucy* often did construct crackerjack plots with surprising endings that rewarded audiences with insight (however broad) into marriage or friendship or whatever sitcom-friendly topic they had at play that week.
 

@@ -105,6 +105,10 @@ select {
     @apply w-full;
   }
 
+  img {
+    @apply w-full;
+  }
+
   img + em {
       @apply block -mt-2 text-sm leading-relaxed text-gray-500;
   }
