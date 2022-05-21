@@ -112,11 +112,11 @@ class Post extends Component {
               </article>
               <nav
                 aria-label="More Articles"
-                className="flex flex-col sm:flex-row items-center sm:justify-between mt-12 md:mt-24 text-gray-400"
+                className="flex flex-col sm:flex-row sm:justify-between mt-12 md:mt-24 leading-relaxed text-gray-400"
               >
                 {previous && (
                   <Link href={`/post/${previous.slug}`}>
-                    <a rel="prev" className="py-2 hover:underline">
+                    <a rel="prev" className="sm:w-1/2 py-2 hover:underline text-center sm:text-left">
                       <ArrowLeft size={20} className="inline mr-1"/>
                       <span className="sr-only">Previous article: </span>
                       {previous.title}
@@ -125,7 +125,7 @@ class Post extends Component {
                 )}
                 {next && (
                   <Link href={`/post/${next.slug}`}>
-                    <a rel="next" className="sm:ml-auto py-2 hover:underline">
+                    <a rel="next" className="sm:w-1/2 sm:ml-auto py-2 hover:underline text-center sm:text-right">
                       <span className="sr-only">Next article: </span>
                       {next.title}
                       <ArrowRight size={20} className="inline ml-1"/>
