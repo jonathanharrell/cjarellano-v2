@@ -4,6 +4,11 @@ date: 2022-05-29T13:01:21.529Z
 description: "Look, it's a bunch of random editing tips. You either want them or
   you don't. "
 image: /static/img/theholiday.png.webp
+tags:
+  - film
+  - editing
+  - television
+  - WorkByCJArellano
 ---
 Over the past 15 years, I’ve cut feature films, narrative scenes, verite/documentary, commercials, trailers, music videos, and anything else you can throw on an editing timeline. Here’s an assortment of tips I’ve compiled along the way. While this list is far from comprehensive, these principles have kept me sane through long and weary nights in the editing bay. 
 
