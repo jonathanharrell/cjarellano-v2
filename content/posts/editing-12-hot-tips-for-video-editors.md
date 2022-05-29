@@ -36,7 +36,7 @@ Pacing is everything. Don't slow the scene's inner pulse just to linger on what 
 
 ## 6. Find the forward momentum
 
-If you are creating a slow and languid rhythm on purpose (i.e., for a dramatic short narrative or a contemplative experimental film), take care to ensure that slow burn silences are suspenseful and evocative, not boring or inert.  Does the complexity of the image demand that we continue to investigate it?  Does the music, sound design, or dialogue help to sustain the image at length? Even in slow-burn projects, find the forward momentum. 
+If you are creating a languid rhythm on purpose (i.e., for a dramatic short narrative or a contemplative experimental film), take care to ensure that slow-burn silences are suspenseful and evocative, not boring or inert.  Does the complexity of the image demand that we continue to investigate it?  Does the music, sound design, or dialogue help sustain the image at length? Even in slow-burn projects, find the forward momentum. 
 
 ## 7. When it comes to the 180-degree rule, film is theatre
 
@@ -48,7 +48,7 @@ If you strive to cut to an angle more than 30 degrees away from the previous ang
 
 ## 9. L-cuts and J-cuts mirror how we observe
 
-In dialogue scenes with multiple speakers, use L-cuts and J-cuts to mimic an observer turning their attention to a new speaker. In a conversation between Peggy and Don, an observer would typically look and listen to Peggy, then hear 1-2 words from Don before turning to him. Deploy a J-cut accordingly by letting the audience first hear 1-2 words from Don before cutting to him. If Peggy says something shocking mid-sentence, use an L-cut to show Don’s reaction before he decides to speak. And finally, consider this: if Peggy asks a question, perhaps an L-cut and J-cut is not needed since an observer would turn to Don immediately after Peggy finishes asking the question since we’re expecting him to speak after her. The larger takeaway: to improve how you cut dialogue scenes, take note of when you look at and listen to people the next time you observe a conversation in real life. 
+In dialogue scenes with multiple speakers, use L-cuts and J-cuts to mimic an observer turning their attention to a new speaker. In a conversation between Peggy and Don, an observer would typically look and listen to Peggy, then hear one or two words from Don before turning to him. Deploy a J-cut accordingly by letting the audience first hear one or two words from Don before cutting to him. If Peggy says something shocking mid-sentence, use an L-cut to show Don’s reaction before he decides to speak. And finally, consider this: if Peggy asks a question, perhaps neither an L-cut or J-cut is needed since an observer would immediately turn to Don after Peggy finishes asking the question. The larger takeaway: to boost your dialogue-cutting skills, take note of how you observe conversations in real life. 
 
 ## 10. Variety is the spice of film
 
@@ -60,7 +60,7 @@ In dialogue scenes with multiple speakers, try cutting after prepositions, conne
 
 So for example, if the above sentence were a character’s dialogue, I might cut it like this: 
 
-> “In dialogue-heavy scenes with \[cut] two or more characters, try cutting after \[cut] prepositions, connecting adverbs, and \[cut] other transitional words.”
+*“In dialogue-heavy scenes with \[cut] two or more characters, try cutting after \[cut] prepositions, connecting adverbs, and \[cut] other transitional words.”*
 
 The results feel much smoother. The cuts feel much more invisible. I think it has to do with how the brain processes language. Those neural pathways of ours are most greased up for new information after words that indicate that something new is about to come. It's not an exact science, of course. There are also plenty of other things to consider, like overall scene rhythm, story motivation for cutting, and what the content of the shots convey to the viewer.
 
