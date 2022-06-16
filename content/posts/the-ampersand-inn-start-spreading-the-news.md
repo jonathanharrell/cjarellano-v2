@@ -17,11 +17,21 @@ WOWEE WOW WOW! Thank you so much to the [New York International Screenplay Award
 ![](/static/img/5279855508_10104242245772747_7622903366958180888_n.jpg)
 
 \
-Super incredible thanks to my super incredible pals Kevin and Adam for coming along for the ride, being my emotional support buddies, and taking these sweet pics of me fumbling through absurdly unprepared remarks. (Once I bring up Doctor Who, I KNOW I’m rambling.) The ceremony reminded me that awards are terrific, but it’s the people - friends and fellow artists - who make magic that lasts.
+Super incredible thanks to my super incredible pals Kevin and Adam for coming along for the ride, being my emotional support buddies, and taking these sweet pics of me fumbling through absurdly unprepared remarks. (Once I bring up *Doctor Who*, I KNOW I’m rambling.) The ceremony reminded me that awards are terrific, but it’s the people - friends and fellow artists - who make magic that lasts.
 
 ![](/static/img/279889835_10104242245762767_8639637562257390218_n.jpg)
 
 ![](/static/img/279847578_10104242245787717_509692713505015496_n.jpg)
+
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+  <iframe 
+    src="https://player.vimeo.com/video/713777247?h=8628238f9e" 
+    title="Video player" 
+    class="absolute top-0 left-0 w-full h-full"
+    frameborder="0" 
+    allowfullscreen
+  ></iframe>
+</div>
 
 As for “The Ampersand Inn,” it is so stupidly close to my heart; I started it in 2014 and wrote over 300 pages in botched attempts. Imagine my giddiness the morning after I finished a single draft that worked even a little bit: 
 
