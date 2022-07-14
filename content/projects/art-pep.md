@@ -10,6 +10,10 @@ categories:
   - motion graphics
 image: /static/img/screen-shot-2022-02-07-at-7.40.08-pm.png
 video: https://vimeo.com/666821950
+awards:
+  - source: Outfest
+    title: Official Selection
+    link: https://www.outfest.org
 ---
 Falling in love was easy. Fighting for love was everything. 
 
