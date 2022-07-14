@@ -27,7 +27,7 @@ posts:
 ---
 C.J. is a media creator specializing in genre-driven and human interest content.
 
-As a [writer](/category/writer), C.J. has won grand prizes in the 43rd Asian-American International Film Festival's Screenplay Competition, the New York International Screenplay Awards, and Columbia College Chicago's Written Image contest in the Alumni Feature Screenplay category. He was named one of the Top 25 Screenwriters to Watch by the International Screenwriters' Association.  
+As a [writer](/category/writer), C.J. has won grand prizes in the 43rd Asian-American International Film Festival's Screenplay Competition, the New York International Screenplay Awards, and Columbia College Chicago's Written Image contest in the Alumni Feature Screenplay category. He was named one of the Top 25 Screenwriters to Watch by the International Screenwriters' Association.  Viewers can watch "[Griffica](https://www.dekkoo.com/griffica)," a short he wrote and directed, on gay streamer Dekkoo.  
 
 As a [director](/category/director), C.J.'s work has been honored at multiple international festivals. He won Best Director at the Artists' Forum Festival of the Moving Image and the Rising Star Award at the British Horror Film Festival. His work also won Best Series/Pilot at the Deep Focus Film Festival and the Audience Award for Best Horror Short at Out on Film: Atlanta's LGBTQ+ Festival.  C.J. has also directed commercial projects for big names such as McDonald's, Chef Boyardee, Motorola, Heaven's Door Whiskey, and The Second City.
 
