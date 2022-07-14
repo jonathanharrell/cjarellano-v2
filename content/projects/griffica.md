@@ -85,4 +85,8 @@ awards:
 ---
 He'll keep you up all night. 
 
-A man suspects his coffee-loving boyfriend is a demon in this short horror tale. (Tap the laurels below for fest-specific info!)
+A man suspects his coffee-loving boyfriend is a demon in this short horror tale. 
+
+Watch it now on gay streamer [Dekkoo](https://www.dekkoo.com/griffica). 
+
+Tap the laurels below for fest-specific info!
