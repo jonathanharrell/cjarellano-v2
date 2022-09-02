@@ -9,6 +9,12 @@ categories:
   - directing
 image: /static/img/_-griffica_poster_bright_notext_2.jpg
 video: https://vimeo.com/533670808
+quotes:
+  - text: "\"I definitely want to see more from Arellano because the direction of
+      [\"Griffica\"], the writing of it - it's smart, it's clever, it's
+      self-aware, and I want to see more of that.\""
+    source: Horror Queers podcast - hosted by Rotten Tomatoes-approved critics Joe
+      Lipsett & Trace Thurman
 awards:
   - source: The Artists' Forum Festival of the Moving Image
     title: Winner - Best Director
