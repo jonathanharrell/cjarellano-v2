@@ -8,13 +8,13 @@ categories:
   - writing
   - directing
 image: /static/img/_-griffica_poster_bright_notext_2.jpg
-video: https://vimeo.com/533670808
+video: https://www.youtube.com/watch?v=ocmz_8hG9Ow
 quotes:
   - text: "\"I definitely want to see more from Arellano because the direction of
       [\"Griffica\"], the writing of it - it's smart, it's clever, it's
       self-aware, and I want to see more of that.\""
-    source: Horror Queers podcast - hosted by Rotten Tomatoes-approved critics Joe
-      Lipsett & Trace Thurman
+    source: Bloody Disgusting's Horror Queers podcast (hosted by Rotten
+      Tomatoes-approved critics Joe Lipsett & Trace Thurman)
 awards:
   - source: The Artists' Forum Festival of the Moving Image
     title: Winner - Best Director
@@ -93,6 +93,8 @@ He'll keep you up all night.
 
 A man suspects his coffee-loving boyfriend is a demon in this short horror tale. 
 
-Watch it now on gay streamer [Dekkoo](https://www.dekkoo.com/griffica). 
+Watch it now on **[Omeleto](http://omeleto.com/258892/?fbclid=IwAR2UTliR6TK33pB7Wwv_gpKShfCyIBk3ChQ4RkG9eFbNY5pzstEl58sEveQ)**. 
+
+Listen to Bloody Disgusting's **[Horror Queers podcast](https://l.facebook.com/l.php?u=https%3A%2F%2Fpodcasts.apple.com%2Fca%2Fpodcast%2Fmicro-queers-griffica-2021%2Fid1449041559%3Fi%3D1000577293646%26fbclid%3DIwAR3GX3Si0VPqJlFzJF0HCGh5Xhh3ifc94rRm4BzWVe9OzZYn9nhr0DBq6BA&h=AT3XJo_IpzuNI_KJsullc4SqUQ6yzxQIIPyM7ali9Jsm80_8Ngw2QDQirwoWe_f7h0z6CA2KEc_xSSxmrilvqeB0u_Q-g7uJ4oemwtJ1GvxbGcb40OWBY7CkbzwK7SI2TVwt_Q&__tn__=%2CmH-R&c[0]=AT2uS0EOkkYGXF0NQYK6CO8nTKuPxAtGwYigdpbLuGqVsI0iWKYb9hyHOdoijKrePezY6twOEBE9CcbSZHCAZOgbusazdkqdELj-RrYgvqWZ2pjjo7rQgJt8F2mM9aJVTck3Ozjy1-GkfH_sV0JA7YPIWzLrddizgl4ujntNVLYWmEeH5SFd4Q)** discuss the short.
 
 Tap the laurels below for fest-specific info!
