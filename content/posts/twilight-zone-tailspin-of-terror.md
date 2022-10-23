@@ -17,7 +17,7 @@ tags: []
   ></iframe>
 </div>
 
-Portrait of a scary story, told thrice over decades apart. The bare bones of each telling as similar to each other as the airborne vehicles they depict. For once and future builders of this horror tale, the invoice for the parts list might read something like this: A terrified man, a turbulent flight, and certain doom that only he can see coming.
+Portrait of a scary story, told thrice over decades apart, the bare bones of each telling as similar to each other as the airborne vehicles they depict. For once and future builders of this horror tale, the invoice for the parts list might read something like this: A terrified man, a turbulent flight, and certain doom that only he can see coming.
 
 But while they each use established conventions of the horror genre to confront stigmas around mental illness, myriad differences between the three versions emerge and each diverges into its own unique route, for better or worse. 
 
