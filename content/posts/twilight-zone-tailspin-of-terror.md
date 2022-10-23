@@ -9,7 +9,7 @@ tags: []
 ---
 <div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
-    src="https://youtu.be/embed/g9yLNdPJMfw" 
+    src="https://youtube.com/embed/g9yLNdPJMfw" 
     title="Video player" 
     class="absolute top-0 left-0 w-full h-full"
     frameborder="0" 
