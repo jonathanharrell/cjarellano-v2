@@ -21,7 +21,7 @@ Portrait of a scary story, told thrice over decades apart, the bare bones of eac
 
 But while they each use established conventions of the horror genre to confront stigmas around mental illness, myriad differences between the three versions emerge and each diverges into its own unique route, for better or worse. 
 
-So which of these “Nightmares” stick the landing with clear-eyed insight about mental health and what we owe to each other? And which are best left to sputter through the forgotten corners of T*he Twilight Zone*?
+So which of these “Nightmares” stick the landing with clear-eyed insight about mental health and what we owe to each other? And which are best left to sputter through the forgotten corners of *The Twilight Zone*?
 
 \-----
 
@@ -163,6 +163,6 @@ The finale of each adaptation contributes to its particular takeaway on mental i
 
 Amidst the vagueness of Sanderson’s story, his grim fate cautions us against the extreme lengths we might traverse in a mental health crisis to gain control of the uncontrollable. But his muddled story is devoid of suspense or narrative clarity.  It’s a far cry from the 1983 version, which excelled at phenomenal practical effects and a potent if exaggerated depiction of mental and social unrest. 
 
-Ultimately, though, 1963 version soars over its successors thanks to its pressure cooker approach that seethes with interpersonal tension and disturbing psychological underpinnings.   
+Ultimately, though, the 1963 version soars over its successors thanks to its pressure cooker approach that seethes with interpersonal tension and disturbing psychological underpinnings.   
 
 Whatever the decade, the story of a person in distress trapped aboard a plane with a monster that only he can see has gone from a sci-fi writer’s fleeting flight of fancy to a contemporary allegory forever etched into our collective consciousness. For as long as people respond to mental illness with fear instead of empathy, the legacy of “Nightmare at 20,000 Feet” will remain sadly relevant, in our own dark skies…. and in *The Twilight Zone*.
