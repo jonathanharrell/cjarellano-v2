@@ -11,19 +11,7 @@ quotes:
     source: Time Out Chicago
   - text: The show boasts slick video design by C.J. Arellano.
     source: Chicago Reader
-posts:
-  - url: https://twitter.com/cjarellano/status/1414594402819915776
-  - url: https://twitter.com/cjarellano/status/1286002288226635777
-  - url: https://twitter.com/cjarellano/status/928667652947632128
-  - url: https://www.facebook.com/cjlucasarellano/posts/10102645446022247
-  - url: https://www.facebook.com/cjlucasarellano/posts/10102133406678197
-  - url: https://twitter.com/cjarellano/status/1030529535261990913
-  - url: https://twitter.com/cjarellano/status/1023643129159802882
-  - url: https://www.facebook.com/cjlucasarellano/posts/10101245366802227
-  - url: https://www.facebook.com/cjlucasarellano/posts/10101638997602947
-  - url: https://twitter.com/cjarellano/status/1024718683262906368
-  - url: https://www.facebook.com/cjlucasarellano/posts/10102456063037267
-  - url: https://www.facebook.com/cjlucasarellano/posts/10102192848486337
+posts: []
 ---
 No matter the medium, C.J. Arellano loves telling genre-driven stories through an empathetic lens.
 
