@@ -45,17 +45,6 @@ const Footer = () => {
             </li>
             <li className="p-2">
               <a
-                href="http://www.twitter.com/cjarellano"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-gray-300 transition-colors ease-out duration-300"
-              >
-                <span className="sr-only">Twitter</span>
-                <Twitter/>
-              </a>
-            </li>
-            <li className="p-2">
-              <a
                 href="http://www.instagram.com/cjlucasarellano"
                 target="_blank"
                 rel="noopener noreferrer"
