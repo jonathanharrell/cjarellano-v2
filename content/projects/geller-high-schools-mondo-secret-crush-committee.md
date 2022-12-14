@@ -21,7 +21,7 @@ awards:
     source: New York Screenplay Contest
   - title: Official Selection
     source: Reno Comedy Film Festival
-  - title: 1st Place Winner, Alumni Feature Screenplay Category
+  - title: 1st Place Winner, Feature Screenplay Category
     source: Written Image Screenwriting Competition
   - source: Austin Comedy Film Festival
     title: Official Selection
