@@ -34,17 +34,6 @@ const Footer = () => {
           <ul aria-label="Social Links" className="flex items-center justify-center mt-4 sm:mt-0 space-x-4">
             <li className="p-2">
               <a
-                href="http://www.facebook.com/cjlucasarellano"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-gray-300 transition-colors ease-out duration-300"
-              >
-                <span className="sr-only">Facebook</span>
-                <Facebook/>
-              </a>
-            </li>
-            <li className="p-2">
-              <a
                 href="http://www.instagram.com/cjlucasarellano"
                 target="_blank"
                 rel="noopener noreferrer"
