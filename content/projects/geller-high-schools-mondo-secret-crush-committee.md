@@ -19,7 +19,7 @@ quotes:
 awards:
   - title: Grand Prize Winner, Action/Adventure Category
     source: New York Screenplay Contest
-  - title: Official Selection
+  - title: Finalist - Best Romantic Comedy Feature Screenplay
     source: Reno Comedy Film Festival
   - title: 1st Place Winner, Feature Screenplay Category
     source: Written Image Screenwriting Competition
