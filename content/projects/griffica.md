@@ -8,7 +8,7 @@ categories:
   - writing
   - directing
 image: /static/img/_-griffica_poster_bright_notext_2.jpg
-video: https://www.youtube.com/watch?v=ocmz_8hG9Ow
+video: https://www.youtube.com/watch?v=qUW4bug9l6Y
 quotes:
   - text: "\"I definitely want to see more from Arellano because the direction of
       [\"Griffica\"], the writing of it - it's smart, it's clever, it's
