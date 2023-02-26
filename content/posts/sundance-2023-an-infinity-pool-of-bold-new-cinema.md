@@ -1,5 +1,5 @@
 ---
-title: "SUNDANCE 2023: An Infinity Pool of Bold New Cinema"
+title: "SUNDANCE 2023: An Infinity Pool of Indie Film!"
 date: 2023-02-24T21:55:56.268Z
 description: The movies were hot. The weather was not.
 image: /static/img/fmc_mc_infinitypool.jpeg
