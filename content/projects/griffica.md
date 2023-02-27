@@ -7,6 +7,7 @@ type: "Short film "
 categories:
   - writing
   - directing
+  - editing
 image: /static/img/_-griffica_poster_bright_notext_2.jpg
 video: https://www.youtube.com/watch?v=qUW4bug9l6Y
 quotes:
