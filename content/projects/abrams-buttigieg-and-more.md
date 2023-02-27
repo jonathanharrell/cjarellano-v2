@@ -1,6 +1,6 @@
 ---
 title: Abrams, Buttigieg, and More
-date: 2020-11-08T18:30:19.108Z
+date: 2019-06-01T17:30:19.108Z
 description: Political spots edited by C.J. Arellano.
 type: Political Messaging
 categories:
