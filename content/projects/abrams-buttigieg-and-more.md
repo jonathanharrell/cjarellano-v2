@@ -11,7 +11,7 @@ video: https://vimeo.com/802797644/7014fb7255
 ---
 Candidates running at every level need messaging that sticks. 
 
-Over the past decade, I've worked with premier media agencies such as Hardpin Media and AKPD Media to create compelling broadcast and digital ads for political candidates. See the video that kicked off Becca Balint's winning campaign for the U.S. Congress on this page's featured panel. 
+Over the past decade, I've worked with premier media agencies such as [Hardpin Media](https://www.hardpinmedia.com) and [AKPD](https://akpdmedia.com) to create compelling broadcast and digital ads for political candidates. See the video that kicked off [Becca Balint](https://vimeo.com/802797644/7014fb7255)'s winning congressional campaign on this page's featured panel. 
 
 See also my work with [Joe Biden's presidential campaign](https://www.cjarellano.com/project/biden-for-president). 
 
