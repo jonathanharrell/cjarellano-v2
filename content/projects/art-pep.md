@@ -15,11 +15,11 @@ quotes:
       exploration... A real charmer."'
     source: RogerEbert.com
 awards:
+  - source: Chicago International Film Festival
+    title: Best Documentary - Audience Award
   - source: Outfest
     title: Official Selection
     link: https://www.outfest.org
-  - source: Chicago International Film Festival
-    title: Official Selection
   - source: Centre Film Festival
     title: Official Selection
   - source: Outreels Cincinnati
