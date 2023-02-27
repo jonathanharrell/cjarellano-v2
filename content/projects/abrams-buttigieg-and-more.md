@@ -7,7 +7,7 @@ categories:
   - editing
   - motion graphics
 image: /static/img/political-messaging-edited-by-c.j.-arellano_website-thumbnail.00_00_00_00.still001.jpg
-video: https://vimeo.com/802797644/7014fb7255
+video: https://vimeo.com/802836262/0d63e09afe
 ---
 Candidates running at every level need messaging that sticks. 
 
