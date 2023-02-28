@@ -5,7 +5,7 @@ description: A re-imagined icon has arrived
 type: Brand Videos
 categories:
   - directing
-image: /static/img/razr3.jpg
+image: /static/img/moto_reimagined.jpg
 video: https://vimeo.com/469481061/79b00b2682
 ---
 The re-invented RAZR has arrived.
