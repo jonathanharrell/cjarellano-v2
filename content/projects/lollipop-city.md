@@ -11,6 +11,8 @@ awards:
     title: Best Feature Screenplay
   - title: Finalist
     source: George Lindsey UNA Film Festival
+  - source: Big Apple Film Festival and Screenplay Competition
+    title: Quarter-Finalist
 ---
 Family is like karaoke: The song is sweet. The notes are sour. 
 
