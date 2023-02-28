@@ -20,6 +20,8 @@ awards:
   - source: BlueCat Screenplay Competition
     link: https://www.bluecatscreenplay.com/2022-semi-finalists/
     title: Semi-Finalist
+  - source: Queer Fear Film Festival
+    title: Semi-Finalist
 ---
 "You've got creatures. We've got comfort."
 
