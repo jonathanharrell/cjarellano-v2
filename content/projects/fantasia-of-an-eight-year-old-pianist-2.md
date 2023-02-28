@@ -6,7 +6,7 @@ description: "A child reckons with her troublesome home life as she loses
 type: Short Story
 categories:
   - writing
-image: /static/img/fantasiaofaneightyearoldpianist_2022-02-07-0-00-00-00-.png
+image: /static/img/fantasiaofaneightyearoldpianist_2022-02-07-0-00-00-00-.jpg
 video: https://www.youtube.com/watch?v=1BkZ8ci8_k4
 quotes:
   - text: The narrative structure is a blast. The language, the feather-touch of
