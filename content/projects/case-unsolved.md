@@ -2,7 +2,7 @@
 title: Case Unsolved
 date: 2018-08-24T19:31:20.591Z
 description: Boyfriends battle monsters from a cursed TV show
-type: Feature Film
+type: Feature Screenplay
 categories:
   - writing
 image: /static/img/case-unsolved.jpg
@@ -42,5 +42,3 @@ awards:
 A couple must defeat the supernatural monsters summoned from a cursed 1990s TV show.
 
 This project won the 43rd Asian-American International Film Festival's Screenplay Competition, the International Screenwriters' Association's Fast Track Fellowship, and the Chicago International Film Festival's Pitch at Industry Days competition. [Screencraft](https://screencraft.org/) said, "Case Unsolved is a clever and inventive script that contains scenes of action and suspense, high drama and other dramatic excitement. There are a number of strong emotional beats throughout."
-
-This feature film is currently in development. Head to [CaseUnsolved.com](https://www.caseunsolved.com/) to learn more!
