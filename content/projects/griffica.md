@@ -3,7 +3,7 @@ title: Griffica
 date: 2021-06-24T22:59:30.270Z
 description: A gay man suspects his coffee-loving boyfriend is a demon in this
   LGBTQ horror film from filmmaker C.J. Arellano.
-type: "Short film "
+type: "Short Film "
 categories:
   - writing
   - directing
