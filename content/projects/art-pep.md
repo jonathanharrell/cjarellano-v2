@@ -8,7 +8,7 @@ type: Feature Documentary
 categories:
   - editing
   - motion graphics
-image: /static/img/screen-shot-2022-02-07-at-7.40.08-pm.png
+image: /static/img/screen-shot-2022-02-07-at-7.40.08-pm.jpg
 video: https://vimeo.com/666821950
 quotes:
   - text: '"Works as both an intimate personal story and as a broader historical
