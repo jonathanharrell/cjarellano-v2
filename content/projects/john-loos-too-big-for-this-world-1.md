@@ -9,7 +9,7 @@ type: Web Series
 categories:
   - directing
 image: /static/img/johnloos.jpg
-video: https://vimeo.com/287059243
+video: https://vimeo.com/245546562/20a2c04b2f
 awards:
   - source: New York Television Festival
     title: Official Selection
