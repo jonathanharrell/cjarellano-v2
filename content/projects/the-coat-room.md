@@ -5,7 +5,7 @@ description: She's all dressed down with nowhere to go
 type: Web Series
 categories:
   - directing
-image: /static/img/coat-room.jpg
+image: /static/img/thecoatroom_ep003_andrew-corduroy_2018-04-04.00_02_41_02.still001.jpg
 video: https://vimeo.com/247929125
 awards:
   - source: Deep Focus Film Festival
