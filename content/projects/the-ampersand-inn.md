@@ -26,3 +26,5 @@ awards:
 In this horror adventure yarn, Sky Ampersand runs a New England inn that cures supernatural ailments and injuries. 
 
 Sky's personal and professional lives collide when his guests seek shelter from a killer sea monster... who happens to be Sky's boyfriend.
+
+[Drop C.J. a line](mailto:cj@cjarellano.com) to read this unproduced award-winning screenplay!
