@@ -6,7 +6,7 @@ type: Web Series
 categories:
   - directing
 image: /static/img/coat-room.jpg
-video: https://vimeo.com/260594504
+video: https://vimeo.com/247929125
 awards:
   - source: Deep Focus Film Festival
     title: Winner - Best Series/Pilot
