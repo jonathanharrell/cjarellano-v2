@@ -2,7 +2,7 @@
 title: "VOICEOVER: Announcing My Announcements"
 date: 2023-03-01T16:36:23.309Z
 description: He does voiceover, too!
-image: /static/img/vo-headshot.jpeg
+image: /static/img/vo_cjarellano.jpg
 tags: []
 ---
 As a creative, I pour my voice into scripts, films, prose, and snarky opinion pieces. And sometimes for fun and profit, I pour my literal voice into paid commercial work.
