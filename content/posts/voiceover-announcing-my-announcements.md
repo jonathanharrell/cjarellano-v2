@@ -7,7 +7,7 @@ tags: []
 ---
 As a creative, I pour my voice into scripts, films, prose, and snarky opinion pieces. And sometimes for fun and profit, I pour my literal voice into paid commercial work.
 
-Listen to my silky pipes featured in ads, social media spots, industrial videos, and - of course - my very own podcast:
+Listen to my adorable pipes featured in ads, social media spots, industrial videos, and - of course - my very own podcast:
 
 <iframe
         height="346px" width="350px"
@@ -56,8 +56,8 @@ Here are a few of my VO samples in their original video contexts: 
   ></iframe>
 </div>
 
-I stumbled into this side hustle years ago by accident. It’s common for editors to include temporary tracks of their own voices in early rough cuts, to help give clients a preview of timing and pacing before the real VO gets added later. On more than one occasion, producers and clients have opted to make my temporary VO tracks permanent after deciding my humble vocal efforts matched the needs of their project. And thus, my VO side hustle was born. 
+I stumbled into VO gigging by accident. It’s common for editors to include temporary tracks of their own voices in early rough cuts, to help give clients a preview of timing and pacing before the real VO gets added later. On more than one occasion, producers and clients have opted to make my temporary VO tracks permanent after deciding my humble vocal efforts matched the needs of their project. And thus, my VO side hustle was born. 
 
 ![](/static/img/vo_cjarellano.jpg)
 
-Hit me up if you need a warm, friendly, and tastefully nerdy voice to spruce up your own project! I have a home studio setup and cabinet shelves of tea and lozenges. Let’s make some VO magic today!
+Hit me up if you need a warm, friendly, and tastefully nerdy voice to spruce up your own project! I have a home studio setup and shelves of tea and lozenges. Let’s make some VO magic today!
