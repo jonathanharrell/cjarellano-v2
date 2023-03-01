@@ -58,6 +58,6 @@ Here are a few of my VO samples in their original video contexts: 
 
 I stumbled into this side hustle years ago by accident. It’s common for editors to include temporary tracks of their own voices in early rough cuts, to help give clients a preview of timing and pacing before the real VO gets added later. On more than one occasion, producers and clients have opted to make my temporary VO tracks permanent after deciding my humble vocal efforts matched the needs of their project. And thus, my VO side hustle was born. 
 
-![](/static/img/vo-headshot.jpeg)
+![](/static/img/vo_cjarellano.jpg)
 
 Hit me up if you need a warm, friendly, and tastefully nerdy voice to spruce up your own project! I have a home studio setup and cabinet shelves of tea and lozenges. Let’s make some VO magic today!
