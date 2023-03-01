@@ -6,7 +6,7 @@ description: "An innkeeper with magical healing abilities must defend his New
 type: Feature Screenplay
 categories:
   - writing
-image: /static/img/ampersand_thumbnail_2.jpg
+image: /static/img/ampersandinn_deck_071122_cja_10-themes-content.jpg
 awards:
   - source: New York International Screenplay Awards
     title: First Place - Feature Screenplay Category
