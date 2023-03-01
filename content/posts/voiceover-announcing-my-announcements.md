@@ -5,7 +5,7 @@ description: He does voiceover, too!
 image: /static/img/vo-headshot.jpeg
 tags: []
 ---
-As an artist, I pour my voice into scripts, films, prose, and snarky opinion pieces. And sometimes, I pour my literal voice into paid commercial work.
+As a creative, I pour my voice into scripts, films, prose, and snarky opinion pieces. And sometimes for fun and profit, I pour my literal voice into paid commercial work.
 
 Listen to my silky pipes featured in ads, social media spots, industrial videos, and - of course - my very own podcast:
 
@@ -13,8 +13,6 @@ Listen to my silky pipes featured in ads, social media spots, industrial videos,
         height="346px" width="350px"
         src="https://voice123.com/embed.html?demo_id=PPHOOZ&va=cj57"
         ></iframe>
-
-
 
 Here are a few of my VO samples in their original video contexts: 
 
