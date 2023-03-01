@@ -2,7 +2,7 @@
 title: "GRIFFICA: Out Here with Out on Film"
 date: 2022-05-03T21:25:18.684Z
 description: I chat with Out on Film, Atlanta's LGBTQ+ Film Festival!
-image: /static/img/out-on-film-talks-to-the-director-of-griffica_2.00_00_28_06.still002.jpg
+image: /static/img/outonfilm.jpg
 tags:
   - horror
   - writing
