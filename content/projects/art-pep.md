@@ -37,4 +37,4 @@ awards:
 ---
 Falling in love was easy. Fighting for love was everything. 
 
-This documentary celebrates the love story between activists Arthur Johnston and Pepe Peña, who started the iconic Chicago gay bar Sidetrack and fought for LGBTQ+ rights for over 40 years. C.J. edited the feature-length film and trailer.
+This documentary celebrates the love story between activists Arthur Johnston and Pepe Peña, who started the iconic Chicago gay bar Sidetrack and fought for LGBTQ+ rights for over 40 years. I edited the feature-length film and trailer.
