@@ -14,8 +14,12 @@ quotes:
   - text: "\"I definitely want to see more from Arellano because the direction of
       [\"Griffica\"], the writing of it - it's smart, it's clever, it's
       self-aware, and I want to see more of that.\""
-    source: Bloody Disgusting's Horror Queers podcast (hosted by Rotten
-      Tomatoes-approved critics Joe Lipsett & Trace Thurman)
+    source: Horror Queers podcast (hosted by Rotten Tomatoes-approved critics Joe
+      Lipsett & Trace Thurman)
+  - text: '"Griffica" tows the line between ambiguity and the supernatural, crafting
+      a compelling story which will have you asking questions up until the
+      credits.'
+    source: Bloody Flicks
 awards:
   - source: The Artists' Forum Festival of the Moving Image
     title: Winner - Best Director
@@ -94,7 +98,7 @@ He'll keep you up all night.
 
 A man suspects his coffee-loving boyfriend is a demon in this short horror tale. 
 
-Watch it now on **[Omeleto](http://omeleto.com/258892/?fbclid=IwAR2UTliR6TK33pB7Wwv_gpKShfCyIBk3ChQ4RkG9eFbNY5pzstEl58sEveQ)**. 
+Watch it now on **[Omeleto](https://www.youtube.com/watch?v=qUW4bug9l6Y)**. 
 
 Listen to Bloody Disgusting's **[Horror Queers podcast](https://podcasts.apple.com/us/podcast/horror-queers/id1449041559?i=1000577293646)** discuss the short.
 
