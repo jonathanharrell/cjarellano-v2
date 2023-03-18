@@ -8,6 +8,7 @@ type: Feature Documentary
 categories:
   - editing
   - motion graphics
+  - documentary
 image: /static/img/screen-shot-2022-02-07-at-7.40.08-pm.jpg
 video: https://vimeo.com/666821950
 quotes:
