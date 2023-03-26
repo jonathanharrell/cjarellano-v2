@@ -1,10 +1,10 @@
-import React, { Fragment, useEffect, useRef, useState } from "react";
+import React, {Fragment, useEffect, useRef, useState} from "react";
 import Link from "next/link";
-import { useRouter } from "next/router";
-import { motion, useMotionValue, useViewportScroll } from "framer-motion";
-import { Transition, Dialog } from "@headlessui/react";
-import { MailIcon } from "@heroicons/react/solid";
-import { XIcon } from "@heroicons/react/outline";
+import {useRouter} from "next/router";
+import {motion, useMotionValue, useViewportScroll} from "framer-motion";
+import {Transition, Dialog} from "@headlessui/react";
+import {MailIcon} from "@heroicons/react/solid";
+import {XIcon} from "@heroicons/react/outline";
 import Logo from "./logo";
 
 const MobileMenu = () => {
@@ -66,7 +66,8 @@ const MobileMenu = () => {
                   title="Close menu"
                   onClick={() => setIsOpen(false)}
                 >
-                  <XIcon className="w-8 h-8 text-gray-600 group-hover:text-gray-400 transition-colors ease-in-out duration-fast"/>
+                  <XIcon
+                    className="w-8 h-8 text-gray-600 group-hover:text-gray-400 transition-colors ease-in-out duration-fast"/>
                   <span className="sr-only">Close menu</span>
                 </button>
               </header>
@@ -74,37 +75,44 @@ const MobileMenu = () => {
                 <ul>
                   <li>
                     <Link href="/" rel="home">
-                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">Home</a>
+                      <a
+                        className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">Home</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/category/writer">
-                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">Writer</a>
+                      <a
+                        className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">Writer</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/category/director">
-                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">Director</a>
+                      <a
+                        className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">Director</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/category/editor">
-                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">Editor</a>
+                      <a
+                        className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">Editor</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/blog">
-                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">Blog</a>
+                      <a
+                        className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">Blog</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/about">
-                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">About</a>
+                      <a
+                        className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">About</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="mailto:cj@cjarellano.com">
-                      <a className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">Contact</a>
+                      <a
+                        className="block py-3 px-8 hover:bg-gray-700 text-2xl font-semibold transition-colors ease-in-out duration-fast">Contact</a>
                     </Link>
                   </li>
                 </ul>
@@ -117,8 +125,8 @@ const MobileMenu = () => {
   );
 };
 
-const Header = () => {
-  const { scrollY } = useViewportScroll();
+const Header = ({isPrivate}) => {
+  const {scrollY} = useViewportScroll();
   const [logoAnimating, setLogoAnimating] = useState(false);
   const [pointerEvents, setPointerEvents] = useState("auto");
   const opacity = useMotionValue(1);
@@ -160,62 +168,73 @@ const Header = () => {
   return (
     <motion.div
       className="fixed top-0 left-0 w-full z-20 transition-opacity ease-out duration-300"
-      style={{ opacity, pointerEvents }}
+      style={{opacity, pointerEvents}}
     >
       <header aria-label="Site Header" className="py-6">
         <div className="container">
           <div className="max-w-8xl mx-auto">
             <div className="flex items-center justify-between">
-              <Link href="/">
-                <a
+              {isPrivate ? (
+                <div
                   className="flex items-center font-semibold tracking-wide"
-                  onMouseOver={() => setLogoAnimating(true)}
-                  onMouseOut={() => setLogoAnimating(false)}
                 >
-                  <Logo className={`w-10 h-10 mr-4${logoAnimating ? " logo-animating" : ""}`}/>
+                  <Logo className="w-10 h-10 mr-4"/>
                   <span>C.J. Arellano</span>
-                </a>
-              </Link>
-              <nav aria-label="Site Navigation" className="hidden md:block">
-                <ul className="flex">
-                  <li className="mr-8">
-                    <Link href="/category/writer">
-                      <a className="nav-link font-semibold tracking-wide hover:text-magenta">Writer</a>
-                    </Link>
-                  </li>
-                  <li className="mr-8">
-                    <Link href="/category/director">
-                      <a className="nav-link font-semibold tracking-wide hover:text-cyan">Director</a>
-                    </Link>
-                  </li>
-                  <li className="mr-8">
-                    <Link href="/category/editor">
-                      <a className="nav-link font-semibold tracking-wide hover:text-yellow">Editor</a>
-                    </Link>
-                  </li>
-                  <li className="mr-8">
-                    <Link href="/blog">
-                      <a className="nav-link font-semibold tracking-wide">Blog</a>
-                    </Link>
-                  </li>
-                  <li className="mr-8">
-                    <Link href="/about">
-                      <a className="nav-link font-semibold tracking-wide">About</a>
-                    </Link>
-                  </li>
-                  <li className="flex items-center">
+                </div>
+              ) : (
+                <>
+                  <Link href="/">
                     <a
-                      href="mailto:cj@cjarellano.com"
-                      title="Email C.J."
-                      className="block hover:opacity-40 transition-opacity ease-out duration-300"
+                      className="flex items-center font-semibold tracking-wide"
+                      onMouseOver={() => setLogoAnimating(true)}
+                      onMouseOut={() => setLogoAnimating(false)}
                     >
-                      <span className="sr-only">Email C.J.</span>
-                      <MailIcon className="w-5 h-5"/>
+                      <Logo className={`w-10 h-10 mr-4${logoAnimating ? " logo-animating" : ""}`}/>
+                      <span>C.J. Arellano</span>
                     </a>
-                  </li>
-                </ul>
-              </nav>
-              <MobileMenu/>
+                  </Link>
+                  <nav aria-label="Site Navigation" className="hidden md:block">
+                    <ul className="flex">
+                      <li className="mr-8">
+                        <Link href="/category/writer">
+                          <a className="nav-link font-semibold tracking-wide hover:text-magenta">Writer</a>
+                        </Link>
+                      </li>
+                      <li className="mr-8">
+                        <Link href="/category/director">
+                          <a className="nav-link font-semibold tracking-wide hover:text-cyan">Director</a>
+                        </Link>
+                      </li>
+                      <li className="mr-8">
+                        <Link href="/category/editor">
+                          <a className="nav-link font-semibold tracking-wide hover:text-yellow">Editor</a>
+                        </Link>
+                      </li>
+                      <li className="mr-8">
+                        <Link href="/blog">
+                          <a className="nav-link font-semibold tracking-wide">Blog</a>
+                        </Link>
+                      </li>
+                      <li className="mr-8">
+                        <Link href="/about">
+                          <a className="nav-link font-semibold tracking-wide">About</a>
+                        </Link>
+                      </li>
+                      <li className="flex items-center">
+                        <a
+                          href="mailto:cj@cjarellano.com"
+                          title="Email C.J."
+                          className="block hover:opacity-40 transition-opacity ease-out duration-300"
+                        >
+                          <span className="sr-only">Email C.J.</span>
+                          <MailIcon className="w-5 h-5"/>
+                        </a>
+                      </li>
+                    </ul>
+                  </nav>
+                  <MobileMenu/>
+                </>
+              )}
             </div>
           </div>
         </div>

@@ -29,6 +29,8 @@ const App = ({ Component, pageProps, router }) => {
     };
   }, []);
 
+  const isPrivate = pageProps.category?.attributes?.public === false;
+
   return (
     <>
       <Head>
@@ -50,11 +52,11 @@ gtag('config', 'G-PJ4MFW5RE2');`}}/>
           >
             Skip to content
           </a>
-          <Header/>
+          <Header isPrivate={isPrivate}/>
           <main ref={mainRef} id="main" tabIndex="-1" aria-label="Main Content">
             <Component {...pageProps} />
           </main>
-          <Footer/>
+          <Footer isPrivate={isPrivate}/>
         </div>
       </AnimateSharedLayout>
     </>
