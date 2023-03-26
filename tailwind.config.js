@@ -20,7 +20,7 @@ module.exports = {
       current: "currentColor",
       black: colors.black,
       white: colors.white,
-      gray: colors.trueGray,
+      gray: colors.neutral,
       magenta: {
         DEFAULT: "#f0f"
       },

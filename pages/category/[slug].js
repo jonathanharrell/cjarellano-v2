@@ -7,11 +7,13 @@ import Meta from "../../components/meta";
 import ProjectTeaser from "../../components/project-teaser";
 import CategoryTeaser from "../../components/category-teaser";
 import Video from "../../components/video";
-import { getAllCategories, getProjectsByCategory } from "../../lib/api";
+import {getAllCategories, getCategory, getProjectsByCategory} from "../../lib/api";
 import { getCategoryColor } from "../../helpers";
+import fs from "fs";
 
 const CategoryHeader = ({ category }) => {
-  const { attributes: { title, action, headline, image, reels } } = category;
+  const { attributes } = category;
+  const { title, action, headline, image, reels, public: isPublic } = attributes;
   const { scrollY } = useViewportScroll();
   const [textPointerEvents, setTextPointerEvents] = useState("auto");
   const textOpacity = useMotionValue(1);
@@ -91,7 +93,7 @@ const CategoryHeader = ({ category }) => {
                   {headline}
                 </p>
                 {(reels && reels.length) && (
-                  <div className="mt-8">
+                  <section className="mt-8">
                     {reels.map(reel => (
                       <Video
                         key={reel.title}
@@ -114,7 +116,7 @@ const CategoryHeader = ({ category }) => {
                         )}
                       />
                     ))}
-                  </div>
+                  </section>
                 )}
               </div>
             </div>
@@ -126,37 +128,21 @@ const CategoryHeader = ({ category }) => {
 };
 
 class Category extends Component {
-  static async getInitialProps({ query }) {
-    const { slug } = query;
-    const [category, categories] = await Promise.all([
-      import(`../../content/categories/${slug}.md`).catch(error => null),
-      getAllCategories()
-    ]);
-
-    let projects = [];
-
-    if (category) {
-      projects = await getProjectsByCategory(category.default.attributes.action);
-    }
-
-    return { category, projects, categories };
-  }
-
   render() {
     if (!this.props.category) return <div>not found</div>;
 
     const categories = this.props.categories
-      .filter(category => category.title !== this.props.category.attributes.title);
+      .filter(category => category.title !== this.props.category.title);
 
     return (
       <>
         <Meta
-          title={`C.J. Arellano - ${this.props.category.attributes.title}`}
-          description={this.props.category.attributes.headline}
-          image={this.props.category.attributes.image}
+          title={`C.J. Arellano - ${this.props.category.title}`}
+          description={this.props.category.headline}
+          image={this.props.category.image}
           url={this.props.router.asPath}
         />
-        <CategoryHeader category={this.props.category.default}/>
+        <CategoryHeader category={this.props.category}/>
         <div className="relative">
           <section>
             <div className="container">
@@ -170,7 +156,20 @@ class Category extends Component {
               </div>
             </div>
           </section>
-          {(categories && categories.length > 0) && (
+          {this.props.category.html && (
+            <section className="mt-16 mb-8 xs:mt-16 xl:my-20">
+              <div className="container">
+                <header className="mb-8">
+                  <h2 className="text-2xl font-semibold">About C.J.</h2>
+                </header>
+                <div
+                  dangerouslySetInnerHTML={{ __html: this.props.category.html }}
+                  className="max-w-none prose lg:prose-xl text-gray-400"
+                />
+              </div>
+            </section>
+          )}
+          {(this.props.category.public && categories && categories.length > 0) && (
             <section className="mt-16 mb-8 xs:mt-16 xl:my-20">
               <div className="container">
                 <div className="2xl:max-w-6xl mx-auto">
@@ -210,3 +209,36 @@ class Category extends Component {
 }
 
 export default withRouter(Category);
+
+export async function getStaticProps(context) {
+  const { slug } = context.params;
+
+  const [category, categories] = await Promise.all([
+    getCategory(slug),
+    getAllCategories()
+  ]);
+
+  let projects = [];
+
+  if (category) {
+    projects = await getProjectsByCategory(category.attributes.action);
+  }
+
+  return {
+    props: { category, projects, categories },
+  }
+}
+
+export async function getStaticPaths() {
+  const paths = fs
+    .readdirSync('./content/categories')
+    .map(categoryName => {
+      const trimmedName = categoryName.substring(0, categoryName.length - 3);
+      return { params: { slug: trimmedName } };
+    });
+
+  return {
+    paths,
+    fallback: false
+  }
+}

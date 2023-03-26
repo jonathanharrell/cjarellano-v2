@@ -25,6 +25,16 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Video", name: "video", widget: "string", hint: "A Vimeo or YouTube URL." }
+  - name: "landingPages"
+    label: "Landing Pages"
+    label_singular: "Landing Pages"
+    folder: content/landing-pages
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Headline", name: "headline", widget: "string" }
+      - { label: "Image", name: "image", widget: "image" }
   - name: "projects"
     label: "Projects"
     label_singular: "Project"
@@ -43,6 +53,11 @@ collections:
         multiple: true
         search_fields: [ "action" ]
         value_field: "action"
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        collection: "tags"
+        multiple: true
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Image", name: "image", widget: "image" }
       - { label: "Video", name: "video", widget: "string", required: false, hint: "A Vimeo or YouTube URL." }
