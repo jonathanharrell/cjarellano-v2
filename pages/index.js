@@ -209,7 +209,7 @@ class Home extends Component {
                   </header>
                   <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
                     {recentProjects.map(project => (
-                      <ProjectTeaser key={project.slug} project={project} animate={true}/>
+                      <ProjectTeaser key={project.slug} project={project} animate={false}/>
                     ))}
                   </div>
                 </div>
