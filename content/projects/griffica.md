@@ -8,6 +8,8 @@ categories:
   - writing
   - directing
   - editing
+tags:
+  - home
 image: /static/img/griffica_thumbnail2.jpg
 video: https://www.youtube.com/watch?v=qUW4bug9l6Y
 quotes:
