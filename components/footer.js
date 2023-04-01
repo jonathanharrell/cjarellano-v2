@@ -1,8 +1,8 @@
 import React from "react";
-import {Facebook, Instagram, Linkedin, Mail, Twitter, Youtube} from "react-feather";
+import {Instagram, Linkedin, Mail, Youtube} from "react-feather";
 import Link from "next/link";
 
-const Footer = () => {
+const Footer = ({ isPrivate }) => {
   const year = new Date().getFullYear();
 
   return (
@@ -11,25 +11,27 @@ const Footer = () => {
         <div className="sm:flex items-center justify-between max-w-8xl mx-auto text-center sm:text-left text-gray-400">
           <div className="lg:flex items-center">
             <p className="font-medium">© {year} C.J. Arellano</p>
-            <nav aria-label="Site Navigation" className="mt-4 sm:mt-2 lg:mt-0 lg:ml-16">
-              <ul className="flex items-center justify-center space-x-6">
-                <li>
-                  <Link href="/" rel="home">
-                    <a className="hover:text-gray-300 transition-colors ease-out duration-300">Home</a>
-                  </Link>
-                </li>
-                <li className="hover:text-gray-300 transition-colors ease-out duration-300">
-                  <Link href="/blog">
-                    <a>Blog</a>
-                  </Link>
-                </li>
-                <li className="hover:text-gray-300 transition-colors ease-out duration-300">
-                  <Link href="/about">
-                    <a>About</a>
-                  </Link>
-                </li>
-              </ul>
-            </nav>
+            {!isPrivate && (
+              <nav aria-label="Site Navigation" className="mt-4 sm:mt-2 lg:mt-0 lg:ml-16">
+                <ul className="flex items-center justify-center space-x-6">
+                  <li>
+                    <Link href="/" rel="home">
+                      <a className="hover:text-gray-300 transition-colors ease-out duration-300">Home</a>
+                    </Link>
+                  </li>
+                  <li className="hover:text-gray-300 transition-colors ease-out duration-300">
+                    <Link href="/blog">
+                      <a>Blog</a>
+                    </Link>
+                  </li>
+                  <li className="hover:text-gray-300 transition-colors ease-out duration-300">
+                    <Link href="/about">
+                      <a>About</a>
+                    </Link>
+                  </li>
+                </ul>
+              </nav>
+            )}
           </div>
           <ul aria-label="Social Links" className="flex items-center justify-center mt-4 sm:mt-0 space-x-4">
             <li className="p-2">

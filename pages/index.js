@@ -6,7 +6,7 @@ import { motion, useMotionValue, useViewportScroll } from "framer-motion";
 import { attributes } from "../content/home.md";
 import Meta from "../components/meta";
 import ProjectTeaser from "../components/project-teaser";
-import {getAllPosts, getAllProjects} from "../lib/api";
+import {getAllPosts, getAllProjects, getProjectsByTag} from "../lib/api";
 import PostTeaser from "../components/post-teaser";
 
 const HomeHeader = ({ title, getImageFilter, handleMouseOver, handleMouseOut }) => {
@@ -148,7 +148,7 @@ class Home extends Component {
 
   static async getInitialProps() {
     const [projects, posts] = await Promise.all([
-      getAllProjects(),
+      getProjectsByTag('home'),
       getAllPosts()
     ]);
     return { projects, posts };
@@ -209,7 +209,7 @@ class Home extends Component {
                   </header>
                   <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
                     {recentProjects.map(project => (
-                      <ProjectTeaser key={project.slug} project={project} animate={true}/>
+                      <ProjectTeaser key={project.slug} project={project} animate={false}/>
                     ))}
                   </div>
                 </div>

@@ -5,6 +5,8 @@ description: "Family is like karaoke: The song is sweet. The notes are sour."
 type: Feature Screenplay
 categories:
   - writing
+tags:
+  - home
 image: /static/img/lollipopcity.jpg
 awards:
   - source: Los Angeles Asian Film Awards

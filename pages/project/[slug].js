@@ -9,32 +9,17 @@ import Award from "../../components/award";
 import Quote from "../../components/quote";
 import ProjectTeaser from "../../components/project-teaser";
 import CategoryTeaser from "../../components/category-teaser";
-import { getAllCategories, getRelatedProjects } from "../../lib/api";
+import {getAllCategories, getCategory, getProject, getProjectsByCategory, getRelatedProjects} from "../../lib/api";
+import fs from "fs";
 
 class Project extends Component {
-  static async getInitialProps({ query }) {
-    const { slug } = query;
-    const [project, categories] = await Promise.all([
-      await import(`../../content/projects/${slug}.md`).catch(error => null),
-      getAllCategories()
-    ]);
-
-    let relatedProjects = [];
-
-    if (project) {
-      relatedProjects = await getRelatedProjects(project);
-    }
-
-    return { slug, project, categories, relatedProjects };
-  }
-
   render() {
     if (!this.props.project) return <div>not found</div>;
 
     const {
       attributes: { title, description, type, image, video, categories: projectCategories, quotes, awards, excerpt },
       html
-    } = this.props.project.default;
+    } = this.props.project;
 
     const { categories } = this.props;
 
@@ -157,3 +142,33 @@ class Project extends Component {
 }
 
 export default withRouter(Project);
+
+export async function getStaticProps(context) {
+  const { slug } = context.params;
+  const [project, categories] = await Promise.all([
+    getProject(slug),
+    getAllCategories()
+  ]);
+
+  let relatedProjects = [];
+
+  if (project) {
+    relatedProjects = await getRelatedProjects(project);
+  }
+
+  return { props: { slug, project, categories, relatedProjects } };
+}
+
+export async function getStaticPaths() {
+  const paths = fs
+    .readdirSync('./content/projects')
+    .map(projectName => {
+      const trimmedName = projectName.substring(0, projectName.length - 3);
+      return { params: { slug: trimmedName } };
+    });
+
+  return {
+    paths,
+    fallback: false
+  }
+}

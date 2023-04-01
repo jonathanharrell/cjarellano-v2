@@ -5,6 +5,8 @@ description: Videos for a historic presidential campaign
 type: Political Messaging
 categories:
   - editing
+tags:
+  - home
 image: /static/img/biden.jpg
 video: https://vimeo.com/780784475/babf90420f
 awards:
