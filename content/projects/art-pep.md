@@ -41,3 +41,5 @@ awards:
 Falling in love was easy. Fighting for love was everything. 
 
 This documentary celebrates the love story between activists Arthur Johnston and Pepe Peña, who started the iconic Chicago gay bar Sidetrack and fought for LGBTQ+ rights for over 40 years. I edited the feature-length film and trailer.
+
+Art & Pep is available to stream on [Peacock](https://www.peacocktv.com/watch-online/movies/art-and-pep/8bd4fa41-2b9a-3d32-88f9-b189f97575b9).
