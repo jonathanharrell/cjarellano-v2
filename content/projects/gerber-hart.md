@@ -9,6 +9,7 @@ categories:
   - editing
   - writing
 image: /static/img/gerberhart_thumbnail_1.jpg
+video: https://vimeo.com/818712304/c5b63edb51?share=copy
 ---
 We will not be banned! 
 
