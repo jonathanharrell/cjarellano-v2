@@ -8,6 +8,8 @@ categories:
   - directing
   - editing
   - writing
+tags:
+  - home
 image: /static/img/gerberhart_thumbnail_1.jpg
 video: https://vimeo.com/818712304/c5b63edb51?share=copy
 ---
