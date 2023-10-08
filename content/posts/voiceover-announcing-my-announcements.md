@@ -7,7 +7,7 @@ tags: []
 ---
 As a creative, I pour my voice into scripts, films, prose, and snarky opinion pieces. And sometimes for fun and profit, I pour my literal voice into paid commercial work.
 
-Listen to my adorable pipes featured in ads, social media spots, industrial videos, and - of course - my very own podcast:
+Listen to my pipes featured in ads, social media spots, industrial videos, and - of course - my very own podcast:
 
 <iframe
         height="346px" width="350px"
@@ -19,6 +19,16 @@ Here are a few of my VO samples in their original video contexts: 
 <div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
     src="https://player.vimeo.com/video/786987022?h=892f3ec6d4" 
+    title="Video player" 
+    class="absolute top-0 left-0 w-full h-full"
+    frameborder="0" 
+    allowfullscreen
+  ></iframe>
+</div>
+
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+  <iframe 
+    src="https://player.vimeo.com/video/848021029" 
     title="Video player" 
     class="absolute top-0 left-0 w-full h-full"
     frameborder="0" 
