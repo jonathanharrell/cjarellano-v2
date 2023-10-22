@@ -1,6 +1,6 @@
 ---
 title: "HERE LIES LOVE: All That Glitters Ain't Galing-Galing"
-date: 2023-10-22T17:51:26.070Z
+date: 2023-08-13T18:07:48.494Z
 description: "Dance Dance Revolution. Or is it? "
 image: /static/img/thumbnail_img_2381.jpg
 ---
