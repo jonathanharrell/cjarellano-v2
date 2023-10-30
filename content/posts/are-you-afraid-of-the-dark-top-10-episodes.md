@@ -142,7 +142,7 @@ Long live this bop. Turn out the lights and crank your speakers!
 
 <div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
-    src="https://www.youtube.com/watch?v=r9U7LBZ3rgs" 
+    src="https://www.youtube.com/embed/r9U7LBZ3rgs?si=rWFRNtoR-1DsFSPE" 
     title="Video player" 
     class="absolute top-0 left-0 w-full h-full"
     frameborder="0" 
