@@ -26,7 +26,7 @@ I also have a fondness for the episodes that manage to lend decent character bea
 
 ![](/static/img/09_quicksilver_still.jpg)
 
-Tatyana Ali guest stars in this moody installment, but her character appears to die in the prologue, in which she fails to trap a ghost in an amulet. Later, two brothers move into her old house and must stop the ghost from claiming their lives, too. 
+Tatyana Ali guest stars in this moody installment, but her character appears to die in the prologue in which she fails to trap a ghost in an amulet. Later, two brothers move into her old house and must stop the ghost from claiming their lives, too. 
 
 The tonalities on this show swing like an ax from preening camp to emotional realism. I vastly favor episodes, like this one, which feature grounded performances that lure you into the fantastical doom and gloom. Guests Tatyana Ali and Kyle Alisharan (real-life brother of main cast member Jason Alisharan, who played Frank) turn in absorbing performances worthy of the most addictive nighttime soaps. Their melancholy and terror around this ghost feel justified, given the spectacular creature effects work by the makeup team. 
 
@@ -126,7 +126,7 @@ I appreciate how this show, whether by design or happenstance, stayed consistent
 
 ## Honorable mentions:
 
-**The Tale of the Twisted Claw** - Serving as the show’s premiere episode, this is the Midnight Society’s not-so**\-**subtle riff on “The Monkey’s Paw.” It features a tense percussive score that becomes something of an earworm, as well as two kids with ridiculous accents that I think are supposed to be, like, New Jersey mafia.
+**The Tale of the Twisted Claw** - Serving as the show’s premiere episode, this is the Midnight Society's not-so-subtle riff on "The Monkey's Paw." It features a pulsating percussive score that becomes something of an earworm, as well as two kids with ridiculous accents that I think are supposed to be, like, New Jersey mafia.
 
 **The Tale of the Laughing in the Dark** - This fan-fave installment features a great all-time villain in Zeebo the Clown, but it’s marred by shitty, unsympathetic characters (despite one of them being played by one of my favorite Nickelodeon stars, The Tomorrow People’s Christian Tessier).
 
