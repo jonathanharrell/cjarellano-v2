@@ -128,9 +128,9 @@ I appreciate how this show, whether by design or happenstance, stayed consistent
 
 **The Tale of the Twisted Claw** - Serving as the show’s premiere episode, this is the Midnight Society's not-so-subtle riff on "The Monkey's Paw." It features a pulsating percussive score that becomes something of an earworm, as well as two kids with ridiculous accents that I think are supposed to be, like, New Jersey mafia.
 
-**The Tale of the Laughing in the Dark** - This fan-fave installment features a great all-time villain in Zeebo the Clown, but it’s marred by shitty, unsympathetic characters (despite one of them being played by one of my favorite Nickelodeon stars, The Tomorrow People’s Christian Tessier).
+**The Tale of the Laughing in the Dark** - This fan-fave installment features a great all-time villain in Zeebo the Clown, but it’s marred by shitty, unsympathetic characters (despite one of them being played by one of my favorite Nickelodeon stars, *The Tomorrow People*’s Christian Tessier).
 
-**The Tale of the Phone Police** - A meandering episode from the show’s glory days of Season Three, this episode - about a police force that imprisons prank callers - gets points for a novel premise. These days, they’d be the “Troll Police,” which Reddit needs to make into a real thing. 
+**The Tale of the Phone Police** - A just-okay episode from the show’s glory days of Season Three, this episode - about a police force that imprisons prank callers - gets points for a novel premise. These days, they’d be the “Troll Police,” which Reddit needs to make into a real thing. 
 
 **The Tale of the Night Shift** - This hospital-set vampire tale concludes the show’s original run with a moderately impressive fire stunt and - more pressingly - sees Gary and Sam officializing their couple status at long last. In my head-canon, these two got married and went on to produce their own Are You Afraid of the Dark?-style show. 
 
