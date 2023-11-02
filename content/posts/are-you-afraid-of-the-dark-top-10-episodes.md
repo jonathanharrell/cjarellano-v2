@@ -22,6 +22,8 @@ Insufferable Sam steals money from his responsible older brother Mike, who retal
 
 The clown’s character design hits that sweet spot between creepy and campy. The degree to which he’s made of simple childlike shapes is full-tilt comical: the spherical head, diamond eyes, and banana-like mouth feel like they’re based on doodles from a 5-year-old’s handy-dandy notebook. But it’s disquieting how the clown’s face changes although we never see it move. And the sheer relentlessness with which he stalks the maybe-dreaming Sam starts to feel like a Lynchian madhouse. There’s also something uncanny yet funny about the clown displaying a red “No” circle with Sam’s name crossed out. Sometimes the cruelest bullying tactics are the simplest.
 
+![](/static/img/01_secondary_crimson.jpg)
+
 Meanwhile, I have a fondness for the episodes that manage to lend decent character beats to the Midnight Society, even though we learn little about their lives during the three minutes of screen time they’re afforded each week.  In this episode, Gary tells the Crimson Clown story after his little brother Tucker wrongs him. The story causes Tucker to relent and apologize. It’s a fun use of the show’s wrap-around device, and it helps to mature the relationship between Gary and Tucker, an evolution that culminates in Tucker inheriting leadership of the group years later.
 
 ## 9. The Tale of the Quicksilver
@@ -32,6 +34,8 @@ Tatyana Ali guest stars in this moody installment, but her character appears to 
 
 The tonalities on this show swing like an ax from preening camp to emotional realism. I vastly favor episodes like this one, which feature grounded creative choices that lure you into the fantastical doom and gloom. Guests Tatyana Ali and Kyle Alisharan (real-life brother of main cast member Jason Alisharan, who played Frank) turn in absorbing performances worthy of the most addictive nighttime soaps. Their melancholy and terror feel justified, given the stellar creature effects work by the makeup team. 
 
+![](/static/img/02_secondary_quicksilver.jpg)
+
 In addition to having my nerves jangled by the Quicksilver ghost as a kid, I also remember being quite puzzled by the moral of the story, explicitly stated by teller-of-the-week Kiki: “Magical powers can be used for good, but if you don’t know what you’re doing, back off.” I remember finding it kinda weird that the moral-of-the-week warned about magic in such literal terms when, y’know... magic isn’t real. Now as an adult, I appreciate that the viewer could interpret “magic” as a stand-in for real-life elusive forces like power and privilege. “Fuck around and find out” might be the contemporary version of this lesson, but “be careful with magic” just hits, well, spookier.  
 
 ## 8. The Tale of the Bookish Babysitter
@@ -41,6 +45,8 @@ In addition to having my nerves jangled by the Quicksilver ghost as a kid, I als
 Couch potato Ricky meets his match in Belinda, his mysterious babysitter who goads him into reading from her stack of magical books. The stories come to life, and he must fend off the supernatural creatures… before they close the book on him!
 
 “Bookish Babysitter” functions as a sort of sampler platter for the show’s broad palette of monsters and tonalities. It offers one monster rooted in swashbuckling adventure (the knight), one rooted in spectacularly unconvincing visual effects (the witch), and one rooted in genuine terror (the king’s ghost).  I’ll be real with you: this damn ghost is a large part of why this title ended up on this list at all. Annick Chartier’s effects makeup team knew how to contour and shade their ghosts to precise, nightmarish effect. And whereas the evil spirit in, say, “The Tale of the Quicksilver” sports a devious grin to allow some camp to blunt the overall gloomy vibe of that episode, the proportions are reversed in “Bookish Babysitter”: director Iain Peterson presents the king’s ghost as a pained specter, a disturbing punctuation mark in an otherwise goofy outing.
+
+![](/static/img/03_secondary_bookish.jpg)
 
 The episode as a whole has its charms, too. Belinda is a beguiling character, bizarre hairdo notwithstanding. She’s a mischievous mentor we could file under “chaotic good,” a moral alignment box that I wish this show had explored more. The episode also seems to poke some good-natured fun at its own viewership, reminding their devoted Snick fanbase that books can provide slow-burn excitement and immersion that quick-hit TV just can’t match. Corporate-produced content encouraging you *not* to consume it? Now that’s scary. 
 
@@ -54,13 +60,19 @@ Show creator [D.J. McHale has expressed](https://www.vulture.com/2012/04/13-thin
 
 When the story does delve into its bag of horror tropes, the character development pays off. Countless episodes of this show cram their back halves with cat-and-mouse chases between kid and monster before the kid finally wins the day. The second act here is indeed an extended monster chase, but this time it’s bleaker than usual, as the “monster” isn’t really a monster at all, but someone whom our hero actually had gotten to know. Hats off to actress Beth Amos, whose portrayal of Madeline is something of a high-wire act: she’s endearing in the friendship scenes and chilling in the scenes where her ghostly nature overtakes the proceedings. Yet even when she blossoms into the full-fledged “villain,” she manages to pierce you with the pangs of her isolation. In the end, the monster isn’t Madeline at all; it’s Stacy’s relatable scheduling screw-up. This story is unsettling in the way it explores how blow-offs and grudges can wreak havoc on a friendship - pure horror for socially anxious viewers who can’t stop asking, “Are you mad at me?!”  
 
+![](/static/img/04_secondary_apt214.jpg)
+
 It’s also worth noting that this tale’s teller is tomboy Kiki, who provided some much-needed Black representation that genre fiction sorely lacked in the early ‘90s. The producers wisely center Black protagonists in the majority of her stories, including this one. Although characters’ racial/ethnic backgrounds rarely if ever played a key role on this show, the brash and lovable Kiki provided a gateway for kids of color to see themselves not only as centers of fantastical narratives, but potentially as creators of those narratives, too. 
 
 ## 6. The Tale of the Lonely Ghost
 
 ![](/static/img/06_lonely_still.jpg)
 
-At the behest of her mean-girl cousin Beth, people-pleaser Amanda falls prey to the classic “dare to spend the night in a haunted house” trope and encounters a little girl ghost trapped in a mirror. This is only the third episode in the entire series, and it exemplifies how the show hit its stride out of the box. In contrast to the later seasons’ penchant for juvenile comedy, an austere vibe pervaded that first season, which also included perennial hits like “Twisted Claw” and “Laughing in the Dark.” Watching this show through the unforgiving veneer of today’s HD screens, it’s now plain to see that the early seasons were captured on film, while later years were shot on video. It reminds me of the unfortunate cost-saving measure that Rod Serling attempted in four episodes of *The Twilight Zone*, which all look like awkward reams of surveillance footage. So when it comes to atmospherics, the first season reigns supreme.
+At the behest of her mean-girl cousin Beth, people-pleaser Amanda falls prey to the classic “dare to spend the night in a haunted house” trope and encounters a little girl ghost trapped in a mirror. This is only the third episode in the entire series, and it exemplifies how the show hit its stride out of the box. In contrast to the later seasons’ penchant for juvenile comedy, an austere vibe pervaded that first season, which also included perennial hits like “Twisted Claw” and “Laughing in the Dark.” 
+
+Watching this show through the unforgiving veneer of today’s HD screens, it’s now plain to see that the early seasons were captured on film, while later years were shot on video. It reminds me of the unfortunate cost-saving measure that Rod Serling attempted in four episodes of *The Twilight Zone*, which all look like awkward reams of surveillance footage. So when it comes to atmospherics, the first season reigns supreme.
+
+![](/static/img/05_secondary_lonely.jpg)
 
 “Lonely Ghost” benefits not only from the show’s first foray into creepy ghost imagery, but also from poignant storytelling moves. Amanda helps the wayward spirit reunite with a loved one, and those climactic scenes are sweetly acted. Meanwhile, in the “real world” of the Midnight Society, a similarly sweet romance buds between shy guy Dave (this tale's teller) and tryhard princess Kristin.  It’s kind of adorable how Dave tells an emotional ghost story to endear himself to Kristin (even gifting her a key prop from said story!), and cuter still how she seems to reciprocate with her own love-laced stories in later episodes. “Lonely Ghost” was crafty - and earnest - enough to follow in the tradition of Gothic horror and play up the unlikely role of romance in scary stories, capitalizing on these tonal harmonies early while the show was quickly discovering its distinct voice. 
 
@@ -76,6 +88,8 @@ This episode ditches the satirical leanings of Carpenter's *They Live* in favor 
 
 The cast also elevates this half-hour. “Super Specs” features a rare instance in which our leading guy and gal actually date, as opposed to merely pining for each other. Graidhne Lelieveld-Amiro as chill girl Mary Beth has remarkable chemistry with Eugene Byrd, who plays goofball Weeds. (Yes, the guy’s name is [WEEDS](https://www.hollywoodreporter.com/wp-content/uploads/2012/04/Weeds.jpg?w=2000&h=1126&crop=1), kicking off a series-long trend of bizarre character names - see also: Rush, Dayday, Clorice.) 
 
+![](/static/img/06_secondary_specs.jpg)
+
 “Super Specs” is notable for a few other series rarities, too. It’s the only episode in the original run to show members of the Midnight Society away from the campfire. In a cute prelude, Gary gives Kristen a tour of his dad’s magic shop, which later gets several shout-outs as inspiration for Gary's and Tucker's tales throughout the series. Meanwhile, for a show about a writers' club, it’s strange that no one ever seems to give each other constructive feedback, no? Well, the unthinkable happens here: in the prologue, Kristen flat-out tells Gary - this episode’s storyteller - that his stories have been stinkers lately (!!), which apparently leads him to panic and plagiarize the greatest living horror filmmaker on his VHS shelf. 
 
 ## 4. The Tale of the Dark Music 
@@ -86,6 +100,8 @@ Any YA horror series is going to tackle our universal fear of basements sooner t
 
 Another banger of a Season 1 outing, “Dark Music” exemplifies a welcome trend amongst the early episodes: unhappy endings (see also: “Pinball Wizard” and “Super Specs”). One of the peak thrills of anthology horror is that any fate can befall the protagonists, who aren't tied to any long-running story. The show embraced this narrative darkness early on, but dialed it back as the series progressed. McHale notes that Nickelodeon rarely pressured him to make the show less scary, so the later tendency toward happy endings appears to have come solely from the self-regulating writers.
 
+![](/static/img/07_secondary_music.jpg)
+
 “Dark Music” arguably boasts, well, the darkest ending of the series, as it doesn’t simply feature the protagonist trapped for good - it features him eagerly selling his soul to the devil!  Even in today’s more “complex” YA scare-fare like *Stranger Things* or *Fear Street*, it’s hard to imagine a previously plucky hero simply breaking bad because it feels good. Kudos to “Dark Music” for subverting the didacticism that typifies most YA programming in favor of “letting kids be kids” - even if that means letting kids indulge in a sadistic outcome. 
 
 ## 3. The Tale of the Shiny Red Bicycle 
@@ -95,6 +111,8 @@ Another banger of a Season 1 outing, “Dark Music” exemplifies a welcome tren
 Anyone who watched this show as a child has *THAT ONE* - the one episode that seared disturbing imagery into your brain and kept you staring at your bedroom ceiling at night. Well, welcome to mine. “The Tale of the Shiny Red Bicycle” kicks off with a grisly opener: a boy named Mike fails to save his best friend Ricky from drowning. Years later, Mike is still plagued with grief, which only worsens as Mike sees Ricky’s ghost alongside the bike he was riding when he perished. 
 
 This is the fourth episode that wound up on this list thanks to the hair-raising appearance of a mute ghost. But the makeup and editing - and in this case, a Vaseline filter that feels very *Drag Race* Season 1 - aren’t the only elements heightening the fear factor here. “Shiny Red Bicycle” is also psychologically terrifying for a YA narrative. Mike is in a dark place compared to many of the show’s protagonists, grappling with his survivors’ guilt as his family coldly tells him it’s time to get over his friend’s death.  Aside from a throwaway mention of Mike's doctor, there’s no reference to therapy or grief counseling, so Mike has few if any lifelines afforded to him.  With his grief and guilt on overdrive, every sighting of his dead friend leaves him that much more destabilized, and actor Matthew Edison does commendable work in pushing Mike to the ragged edge. 
+
+![](/static/img/08_secondary_bicycle.jpg)
 
 Alas, the episode culminates in a squeaky tidy ending: Ricky isn’t haunting Mike to guilt him, but to prevent the drowning death of Mike’s little brother Ben. As Mike saves the day, he and Ricky share one final goodbye before Ricky appears to move on for good. I suppose anything less “happy” would have been too grim for a kids’ show, but by embracing a treacly sentiment like “the ones we grieve watch over us,” the show misses an opportunity to venture a more meaningful insight about grief and closure. Still, as a chilling ghost yarn with a palpable undercurrent of teen angst, “Shiny Red Bicycle” is a tour de force. 
 
@@ -107,6 +125,8 @@ All hail the once and future scream queen in our midst!  Two years before she w
 While the “worst fears realized” story is a well-worn trope (see also: “Nightmares” from *Buffy* or “X-Cops” from *The X-Files*), this episode offers a novel spin on the premise by suggesting that one can actually metabolize fear into a delicacy. Writer D.J. McHale offers a patina of class satire by portraying the upper crust as literally feeding off the suffering of the working class. McHale could have gone deeper with the “eat the rich because the rich eats you” fun-and-games had this installment been the series’ lone two-parter instead of Season 4’s tiresome “Cutter’s Treasure.” 
 
 Instead, McHale naturally focuses on the fear aspect, delivering grotesque imagery that includes an ax on a pendulum and more than one goosebumpy encounter with snakes. Lest McHale reduce all the characters’ fears to easy-to-quantify phobias, he makes a more sophisticated character choice with Reed, Nonnie’s co-worker who grew up with an abusive uncle. Vink cruelly terrorizes Reed with an illusion of his dead uncle’s resurrection, underscoring that the trauma of abuse doesn’t simply dissipate when the abuser dies - a weighty insight for a TV-Y7 show.
+
+![](/static/img/09_secondary_soup.jpg)
 
 “Dangerous Soup” also includes the series’ sharpest Midnight Society scenes of any episode. It’s confounding that Frank is one the series’ most infrequent tellers, given that actor Jason Alisharan is one of the only orators amongst the cast who applies a sinister edge to his line readings. Here, Frank polls the group about their worst fears. With typical tween braggadocio, Tucker claims he’s afraid of nothing. When Frank concludes the story, he dares Tucker to open a mysterious box to prove his claim to fearlessness, but Tucker chickens out and flees the scene. When pressed to reveal the box’s contents, Frank reveals it’s empty and quips that it contains exactly what Tucker’s afraid of: nothing. That conclusion simply blew my mind as a child, and as an adult, it’s still satisfying to ponder the clever wordplay as well as the underlying insight about how fear is inherently all a matter of perception. 
 
@@ -121,6 +141,8 @@ Young repairman Johnny finds a ring amongst his belongings, and he can’t remov
 This episode stands out as the most resistant to campy theatrics, with nary a cackling villain or Scooby-Doo chase in sight. Instead, director David Winning focuses on extracting two gorgeous performances from his lead actors. Fab Filippo, who’d later score roles on *Buffy* and *Queer as Folk*, highlights Johnny’s gentle, yearning qualities. He strikes up beautiful onscreen chemistry with Andrea Nemeth as the melancholic Erica. Her performance takes on a whole new dimension after all the ghost’s secrets are revealed. Nemeth’s line readings and reactions are enough to justify a rewatch.  
 
 The carefully honed performances are matched by Winning’s choices to infuse the production design with 1950s-inspired aesthetics. Letterman jackets, slick hairstyles, and ice cream sundaes served at the bowling alley call to mind the teenage romance and longing of *Grease* or *Rebel Without a Cause*. Those youthful pangs are further emphasized by Raymond Fabi’s score that sounds like a broken music box. His eerie musical motifs soon give way to a full-on “Careless Whisper”-flavored saxophone. 
+
+![](/static/img/10_secondary_dreamgirl.jpg)
 
 I appreciate how this show, whether by design or happenstance, stayed consistent with the brand of stories told by each Midnight Society member. Like the departed Dave before her, Samantha had a penchant for stories that blended horror with romance. With “Dream Girl,” she (that is, writer David Preston) delivers the genre fusion to heartbreaking effect. As much as I cherish *Are You Afraid of the Dark?* for the creepy-campy shlockfest that it is, I wish more of the episodes had gone in the direction of “Dream Girl”: Gothic horror with emotional oomph, all set to syrupy ‘90s sax.  
 
