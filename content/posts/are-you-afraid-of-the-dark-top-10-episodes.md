@@ -3,6 +3,9 @@ title: "ARE YOU AFRAID OF THE DARK?: Top 10 Episodes"
 date: 2023-10-30T20:06:13.203Z
 description: THE definitive list of the best Are You Afraid of the Dark? Episodes ever.
 image: /static/img/midnightsociety.jpg
+tags:
+  - horror
+  - television
 ---
 *Are You Afraid of the Dark?* has forever held its twisted claw around my horror-craving heart. So it goes for swaths of anxiety-addled millennials who grew up with this anthology creep-show that originally ran on Nickelodeon from 1991 to 1996. Every week a group of teenagers called the Midnight Society would meet in the middle of the woods to tell scary stories. And that was it - *Twilight Zone* for tweens.
 
