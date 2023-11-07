@@ -6,13 +6,13 @@ image: /static/img/thumbnail_img_2381.jpg
 ---
 ![](/static/img/img_2374.jpg)
 
-Last night, I got my disco history on!
+Last night, I got my disco history on! 
 
-This ain’t your grandpa’s Broadway show. (It’s your cool tita’s, who wears way too much purple eyeshadow.)
-
-Two novelties serve as the conjoined epicenter of *Here Lies Love*: first, we have the ALL-IMMERSIVE 360-degree theatrical experience, where you-the-audience shake your shit on a dance floor as actors, video & screens, and industrial light and magic surround you at every turn.
+*Here Lies Love* ain’t your grandpa’s Broadway show. It’s your cool tita’s, who wears way too much purple eyeshadow.
 
 ![](/static/img/img_2389.jpg)
+
+Two novelties serve as the conjoined epicenter of *Here Lies Love*: first, we have the ALL-IMMERSIVE 360-degree theatrical experience, where you-the-audience shake your shit on a dance floor as actors, video & screens, and industrial light and magic surround you at every turn.
 
 Second, we have the story, in which a high-energy, high-sex-appeal, mega-talented ALL-FILIPINO cast regales you with a crucial slice of Philippines history.
 
