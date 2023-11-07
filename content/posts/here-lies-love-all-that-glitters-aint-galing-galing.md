@@ -8,7 +8,7 @@ image: /static/img/thumbnail_img_2381.jpg
 
 Last night, I got my disco history on! 
 
-*Here Lies Love* ain’t your grandpa’s Broadway show. It’s your cool tita’s, who wears way too much purple eyeshadow.
+*Here Lies Love* ain’t your grandpa’s Broadway show - it’s your cool tita’s, who wears way too much purple eyeshadow. But while it serves up nonstop spectacle, its story has about as much nutritive value as box of barquillos.  
 
 ![](/static/img/img_2389.jpg)
 
