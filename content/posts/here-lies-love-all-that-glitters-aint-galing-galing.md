@@ -12,15 +12,13 @@ Last night, I got my disco history on!
 
 ![](/static/img/img_2389.jpg)
 
-Two novelties serve as the conjoined epicenter of *Here Lies Love*: first, we have the ALL-IMMERSIVE 360-degree theatrical experience, where you-the-audience shake your shit on a dance floor as actors, video & screens, and industrial light and magic surround you at every turn.
+Two novelties serve as the conjoined epicenter of *Here Lies Love*: first, we have the ALL-IMMERSIVE 360-degree theatrical experience, where you-the-audience shake your shit on a dance floor as actors, video screens, and industrial light and magic surround you at every turn.
 
 Second, we have the story, in which a high-energy, high-sex-appeal, mega-talented ALL-FILIPINO cast regales you with a crucial slice of Philippines history.
 
 The all-immersive stuff is a full-body delight, and reason enough to recommend the show to anyone who's hungry for theatrical innovation - or, put another way, a sucker for gimmicks. (I'm both.)
 
-Anywhere in the theater that director Alex Timbers could stick an actor or audience cluster, he stuck them. The all-around projections feel like you're falling through a rabbit hole sponsored by MTV. Somehow it doesn't feel like chaos: thanks to the floor crew traffic-directing
-
-audience members like we're tiny mewling cats, the show feels interactive but not overbearing. (If anything, it could have used MORE moments of audience dance participation, but I understand you gotta keep it friendly for the various ages and hip conditions of the audience.)
+Anywhere in the theater that director Alex Timbers could stick an actor or audience cluster, he stuck them. The all-around projections feel like you're falling through a rabbit hole sponsored by MTV. Somehow it doesn't feel like chaos: thanks to the floor crew traffic-directing audience members like we're tiny mewling cats, the show feels interactive but not overbearing. (If anything, it could have used MORE moments of audience dance participation, but I understand you gotta keep it friendly for the various ages and hip conditions of the audience.)
 
 The Filipino aspect of this show, on the other hand, is a mixed *supot*. 
 
