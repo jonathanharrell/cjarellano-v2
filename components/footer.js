@@ -47,7 +47,7 @@ const Footer = ({ isPrivate }) => {
             </li>
             <li className="p-2">
               <a
-                href="https://www.linkedin.com/pub/c-j-arellano/8b/a12/5b3"
+                href="https://www.linkedin.com/in/c-j-arellano-133a88269"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-gray-300 transition-colors ease-out duration-300"

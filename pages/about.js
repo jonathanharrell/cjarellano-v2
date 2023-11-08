@@ -30,7 +30,7 @@ const About = () => {
             <header className="mb-8">
               <h1 className="text-4xl md:text-5xl font-bold leading-none">{title}</h1>
             </header>
-            <section dangerouslySetInnerHTML={{ __html: html }} className="max-w-none prose lg:prose-xl text-gray-400"/>
+            <section dangerouslySetInnerHTML={{ __html: html }} className="max-w-none prose lg:prose-xl text-gray-300"/>
             {quotes && (
               <section className="my-16 xl:my-20">
                 <h2 className="sr-only">Quotes</h2>

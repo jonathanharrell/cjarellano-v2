@@ -164,7 +164,7 @@ class Category extends Component {
                 </header>
                 <div
                   dangerouslySetInnerHTML={{ __html: this.props.category.html }}
-                  className="max-w-none prose lg:prose-xl text-gray-400"
+                  className="max-w-none prose lg:prose-xl text-gray-300"
                 />
               </div>
             </section>

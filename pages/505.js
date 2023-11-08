@@ -12,7 +12,7 @@ const Custom505 = () => (
               A server-side error occurred
             </h1>
           </header>
-          <p className="text-lg text-center text-gray-400">
+          <p className="text-lg text-center text-gray-300">
             Well, that's embarrassing. We've run into a bit of an issue here...
           </p>
         </div>

@@ -72,7 +72,7 @@ class Project extends Component {
                       </p>
                       <h1 className="text-4xl md:text-5xl font-bold leading-none">{title}</h1>
                     </header>
-                    <div dangerouslySetInnerHTML={{ __html: html }} className="project-content text-lg leading-relaxed text-gray-400"/>
+                    <div dangerouslySetInnerHTML={{ __html: html }} className="project-content text-lg leading-relaxed text-gray-300"/>
                   </div>
                 </div>
                 {awards && (
@@ -100,7 +100,7 @@ class Project extends Component {
                 {excerpt && (
                   <section className="my-16 xl:my-20">
                     <div className="p-8 sm:p-12 xl:py-24 bg-gray-800 rounded-xl shadow-xl">
-                      <div className="max-w-4xl mx-auto prose lg:prose-xl text-gray-400">
+                      <div className="max-w-4xl mx-auto prose lg:prose-xl text-gray-300">
                         <ReactMarkdown>{excerpt}</ReactMarkdown>
                       </div>
                     </div>

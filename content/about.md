@@ -23,4 +23,4 @@ C.J. has served as a [video editor](/category/editor) for many eye-catching and 
 
 C.J. co-created and directed **[Lavender Scare](https://anchor.fm/lavender-scare-podcast),** a horror anthology podcast featuring audio plays written and performed by LGBTQ+ artists. He also co-hosts **[Bottle Episodes](https://anchor.fm/cj-arellano),** a podcast that discusses TV episodes that take place in a single location. Both shows are available on podcatchers everywhere, including Apple and Spotify.
 
-Get in touch, and let's make some magic!: **cj \[at] cjarellano \[dot] com**
+Get in touch, and let's make some magic!: [cj@cjarellano.com](mailto:cj@cjarellano.com)
