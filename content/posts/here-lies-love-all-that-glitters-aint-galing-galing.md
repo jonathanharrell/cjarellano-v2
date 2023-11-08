@@ -22,7 +22,7 @@ Anywhere in the theater that director Alex Timbers could stick an actor or audie
 
 The Filipino aspect of this show, on the other hand, is a mixed *supot*. 
 
-It was an unmatchable thrill to see Filipino faces on stage and in the audience LIVING for the night. It was a magic moment for me when a character intoned “Putang ina mo!” and roughly 60% of the crowd went “Ohhhh!” because #IYKYK.
+It was an unmatchable thrill to see Filipino faces on stage and in the audience LIVING for the night. It was a magic moment for me when a character intoned “*Putang ina mo!*” and roughly 60% of the crowd went “Ohhhh!” because #IYKYK.
 
 ![](/static/img/img_2402.jpg)
 
@@ -30,7 +30,7 @@ The show tells the story (really a quickfire summary) of President Ferdinand Mar
 
 Anyway, it’s complicated. And more than a 90-minute dance-stravaganza could cover. But this show doesn’t even try to dig deep. The audience is left with a pretty flimsy portrait of Imelda, who’s reduced to character beats that feel straight out of the “biopic of a famous woman” playbook.  \*\*\*She’s motivated by a broken heart, and she had a DRUG problem!\*\*\* Her 11 o’clock number has her wailing, “Why don’t you love me?” to her country - a straightforward riff on at least 3 numbers from *Evita*, itself a thin yet rousing show about a fascinating political figure. 
 
-David Byrne and Fatboy Slim’s “outside looking in” approach to the material dampens the full potential of *Here Lies Love*. White American authors leaning hard into the white-friendly notion that “Filipinos aspire to American ideals” simply feels meh. Even more frustrating: when you hear the names of those 2 musicians, you think it’s gonna be this hyper-modern-sounding disco-new-wave-electronica-flavored show that sounds unlike anything else on Broadway, right? Well, the songs are danceable and sometimes catchy, but all kinda safe-sounding. (For history-flavored bop that really hit the spot, stick with *Six*). It’s kinda telling when the evening’s finest number is the acoustic closer that sounds nothing like the rest of the show. 
+David Byrne and Fatboy Slim’s “outside looking in” approach to the material dampens the full potential of *Here Lies Love*. White American authors leaning hard into the white-friendly notion that “Filipinos aspire to American ideals” simply feels meh. Even more frustrating: when you hear the names of those 2 musicians, you think it’s gonna be this hyper-modern-sounding disco-new-wave-electronica-flavored show that sounds unlike anything else on Broadway, right? Well, the songs are danceable and sometimes catchy, but all kinda safe-sounding. (For history-flavored bangers that really hit the spot, stick with *Six*). It’s kinda telling when the evening’s finest number is the acoustic closer that sounds nothing like the rest of the show. 
 
 ![](/static/img/img_2418.jpg)
 
