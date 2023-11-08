@@ -1,7 +1,7 @@
 ---
-title: "ARE YOU AFRAID OF THE DARK?: Top 10 Episodes"
+title: "ARE YOU AFRAID OF THE DARK?: 10 Spookiest Episodes"
 date: 2023-10-30T20:06:13.203Z
-description: THE definitive list of the best Are You Afraid of the Dark? Episodes ever.
+description: THE definitive list of the spookiest Are You Afraid of the Dark? Episodes ever.
 image: /static/img/midnightsociety.jpg
 tags:
   - horror
@@ -15,7 +15,7 @@ I’ve been re-binging it lately, partly because the new *Goosebumps* on Disney+
 
 Curious to reunite with the Midnight Society but not sure where to start? Or maybe you’ve never seen the show, and you’re wondering if it has any legit scare-fare to offer? Read on for my list of the top 10 *Are You Afraid of the Dark?* episodes to ever haunt the Saturday night Snick lineup. These tales might not have Jigsaw’s blood-covered bear traps or Leatherface’s gnarly dinner parties. But they boast crackerjack storytelling, poignant coming-of-age character arcs, and - best of all - indelible horror imagery that would easily cause a fully grown, tax-paying adult to reach for the light switch. 
 
-Submitted for your approval (well… really my approval because it’s a list that reflects my personal tastes and preferences), I lazily call this list, “The Top 10 Best *Are You Afraid of the Dark?* Episodes.”
+Submitted for your approval (well… really my approval because it’s a list that reflects my personal tastes and preferences), I lazily call this list, “The 10 Spookiest *Are You Afraid of the Dark?* Episodes.”
 
 ## 10. The Tale of the Crimson Clown
 
