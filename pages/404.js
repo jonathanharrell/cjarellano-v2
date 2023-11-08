@@ -12,7 +12,7 @@ const Custom404 = () => (
               Page not found
             </h1>
           </header>
-          <p className="text-lg text-center text-gray-400">
+          <p className="text-lg text-center text-gray-300">
             Waahh sorry! No dice here. Try searching again, maybe?
           </p>
         </div>

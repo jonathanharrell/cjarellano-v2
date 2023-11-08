@@ -20,7 +20,7 @@ const CategoryPreview = ({ entry, widgetFor, widgetsFor }) => {
             <header className="mb-8">
               <h1 className="text-4xl md:text-5xl font-bold leading-none">{title}</h1>
             </header>
-            <section className="max-w-none prose lg:prose-xl text-gray-400">
+            <section className="max-w-none prose lg:prose-xl text-gray-300">
               {body}
             </section>
             {quotes.toJS().length > 0 && (

@@ -102,7 +102,7 @@ class Post extends Component {
                     <span className="text-md mb-3 text-gray-400">Published {formattedDate}</span>
                   </section>
                 </header>
-                <section className="max-w-none prose lg:prose-xl prose-headings:text-gray-200 lg:prose-h2:text-xxl text-gray-400">
+                <section className="max-w-none prose lg:prose-xl prose-headings:text-gray-200 lg:prose-h2:text-xxl text-gray-300">
                   <ReactMarkdown
                     rehypePlugins={[rehypeRaw]}
                     components={components}
@@ -112,7 +112,7 @@ class Post extends Component {
               </article>
               <nav
                 aria-label="More Articles"
-                className="flex flex-col sm:flex-row sm:justify-between mt-12 md:mt-24 leading-relaxed text-gray-400"
+                className="flex flex-col sm:flex-row sm:justify-between mt-12 md:mt-24 leading-relaxed text-gray-300"
               >
                 {previous && (
                   <Link href={`/post/${previous.slug}`}>

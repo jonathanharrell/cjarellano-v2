@@ -107,6 +107,13 @@ collections:
             widget: "list"
             fields:
               - { label: "URL", name: "url", widget: "string", hint: "A Tweet or Facebook post." }
+      - label: "Contact"
+        name: "contact"
+        file: "content/contact.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Image", name: "image", widget: "image" }
+          - { label: "Body", name: "body", widget: "markdown" }
   - name: "posts"
     label: "Posts"
     label_singular: "Post"

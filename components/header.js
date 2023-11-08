@@ -221,14 +221,12 @@ const Header = ({isPrivate}) => {
                         </Link>
                       </li>
                       <li className="flex items-center">
-                        <a
-                          href="mailto:cj@cjarellano.com"
-                          title="Email C.J."
-                          className="block hover:opacity-40 transition-opacity ease-out duration-300"
-                        >
-                          <span className="sr-only">Email C.J.</span>
-                          <MailIcon className="w-5 h-5"/>
-                        </a>
+                        <Link href="/contact">
+                          <a className="block hover:opacity-40 transition-opacity ease-out duration-300">
+                            <span className="sr-only">Contact C.J.</span>
+                            <MailIcon className="w-5 h-5"/>
+                          </a>
+                        </Link>
                       </li>
                     </ul>
                   </nav>
