@@ -15,7 +15,7 @@ posts: []
 ---
 No matter the medium, C.J. Arellano loves telling genre-driven stories through an empathetic lens.
 
-As a [writer](/category/writer), C.J. won grand prizes in the 43rd Asian-American International Film Festival's Screenplay Competition, the New York International Screenplay Awards, and the Chicago International Film Festival's Pitch at Industry Days competition. He was named one of the Top 25 Screenwriters to Watch by the International Screenwriters' Association.  Viewers can watch "[Griffica](http://omeleto.com/258892/?fbclid=IwAR2UTliR6TK33pB7Wwv_gpKShfCyIBk3ChQ4RkG9eFbNY5pzstEl58sEveQ)," a short he wrote and directed, on short channel Omeleto.  
+As a [writer](/category/writer), C.J. won grand prizes in the 43rd Asian-American International Film Festival's Screenplay Competition, the New York International Screenplay Awards, and the Chicago International Film Festival's Pitch at Industry Days competition. He was named one of the Top 25 Screenwriters to Watch by the International Screenwriters' Association.  Viewers can watch "[Griffica](https://www.cjarellano.com/project/griffica)," a short he wrote and directed, on short channel Omeleto.  
 
 As a [director](/category/director), C.J.'s work has been honored at multiple international festivals. He won Best Director at the Artists' Forum Festival of the Moving Image and the Rising Star Award at the British Horror Film Festival. His work also won Best Series/Pilot at the Deep Focus Film Festival and the Audience Award for Best Horror Short at Out on Film: Atlanta's LGBTQ+ Festival.  C.J. has also directed commercial projects for big names such as McDonald's, Chef Boyardee, Motorola, Heaven's Door Whiskey, and The Second City.
 
