@@ -68,13 +68,12 @@ const Footer = ({ isPrivate }) => {
               </a>
             </li>
             <li className="p-2">
-              <a
-                href="mailto:cj@cjarellano.com"
-                className="hover:text-gray-300 transition-colors ease-out duration-300"
-              >
-                <span className="sr-only">Email</span>
-                <Mail/>
-              </a>
+              <Link href="/contact">
+                <a className="hover:text-gray-300 transition-colors ease-out duration-300">
+                  <span className="sr-only">Contact</span>
+                  <Mail/>
+                </a>
+              </Link>
             </li>
           </ul>
         </div>
