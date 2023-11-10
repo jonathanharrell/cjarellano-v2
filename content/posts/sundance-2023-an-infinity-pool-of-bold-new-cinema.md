@@ -3,6 +3,9 @@ title: "SUNDANCE 2023: An Infinity Pool of Indie Film!"
 date: 2023-02-24T21:55:56.268Z
 description: The movies were hot. The weather was not.
 image: /static/img/fmc_mc_infinitypool.jpeg
+tags:
+  - film
+  - reviews
 ---
 I was pumped to attend the first in-person [Sundance Film Festival](https://www.sundance.org) since the pandemique pushed it into online limbo back in 2020. 
 
