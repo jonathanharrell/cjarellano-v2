@@ -11,25 +11,25 @@ I was pumped to attend the first in-person [Sundance Film Festival](https://www.
 
 I caught 11 films in flavors ranging from horror, sci-fi, to teen YA, and of course, coming-of-age dramedy. I counted but one true dud amongst a spate of thrilling new works. Roll on over to [The Artists' Forum](https://theartistsforum.org/film-2023-sundance-film-festival/) magazine to read [my piping hot takes on these films](https://theartistsforum.org/film-2023-sundance-film-festival/):
 
-*The Pod Generation*
+***The Pod Generation***
 
-*Fairyland*
+***Fairyland***
 
-*Past Lives*
+***Past Lives***
 
-*Kokomo City*
+***Kokomo City***
 
-*In My Mother's Skin*
+***In My Mother's Skin***
 
-*Mutt*
+***Mutt***
 
-*Aliens Abducted My Parents and Now I Feel Kinda Left Out*
+***Aliens Abducted My Parents and Now I Feel Kinda Left Out***
 
-*Rotting in the Sun*
+***Rotting in the Sun***
 
-*Shortcomings*
+***Shortcomings***
 
-*Infinity Pool* (the horny NC-17 cut!)
+***Infinity Pool*** (the horny NC-17 cut!)
 
 ![](/static/img/327496831_218004093998847_1000087551939639683_n.jpg)
 
