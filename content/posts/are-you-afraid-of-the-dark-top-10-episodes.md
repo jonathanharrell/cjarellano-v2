@@ -6,6 +6,7 @@ image: /static/img/midnightsociety.jpg
 tags:
   - horror
   - television
+  - reviews
 ---
 *Are You Afraid of the Dark?* has forever held its twisted claw around my horror-craving heart. So it goes for swaths of anxiety-addled millennials who grew up with this anthology creep-show that originally ran on Nickelodeon from 1991 to 1996. Every week a group of teenagers called the Midnight Society would meet in the middle of the woods to tell scary stories. And that was it - *Twilight Zone* for tweens.
 
@@ -147,7 +148,7 @@ The carefully honed performances are matched by Winning’s choices to infuse th
 
 ![](/static/img/10_secondary_dreamgirl.jpg)
 
-I appreciate how this show, whether by design or happenstance, stayed consistent with the brand of stories told by each Midnight Society member. Like the departed Dave before her, Samantha had a penchant for stories that blended horror with romance. With “Dream Girl,” she (that is, writer David Preston) delivers the genre fusion to heartbreaking effect. As much as I cherish *Are You Afraid of the Dark?* for the creepy-campy shlockfest that it is, I wish more of the episodes had gone in the direction of “Dream Girl”: Gothic horror with emotional oomph, all set to syrupy ‘90s sax.  
+This tale’s teller Samantha had a penchant for stories that blended horror with romance. With “Dream Girl,” Sam (that is, writer David Preston) executes that genre fusion to heartbreaking effect. This episode works because it frames young love itself as such a mysterious force, it can feel as supernatural - and unknowable - as a ghost from the great beyond. As much as I cherish *Are You Afraid of the Dark?* for the creepy-campy shlockfest that it is, I wish more of the episodes had gone in the direction of “Dream Girl”: Gothic horror with emotional oomph, all set to syrupy ‘90s sax.  
 
 ## Honorable mentions:
 
