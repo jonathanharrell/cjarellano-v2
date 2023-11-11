@@ -22,11 +22,11 @@ Billie did a Bond theme. As a spy-fi nerd, I am contractually obligated to have 
 
 Things to LIVE for:
 
-\- The hook is cool. It sounds soap opera-like and music box-y and delicate. Then this weird and quirky pitch-shifting that occurs at 0:17 sounds REALLY cool. It’s the perfect cross-section between the angst of Billie and the gold-dipped sexiness of Bond. I wish they play’d more with these unique vibes throughout the track.
+\- The hook is cool. It sounds soap opera-like and music box-y and delicate. Then this weird and quirky pitch-shifting that occurs at 0:17 sounds REALLY cool. It’s the perfect cross-section between the angst of Billie and the gold-dipped sexiness of Bond. I wish they played more with these unique vibes throughout the track.
 
 \- I find it super-fresh that it’s a break-up ballad, assumedly from the point of view of a Bond woman. Someone feel free to correct me, but I don’t believe that any other theme song is so nakedly about Bond breaking someone’s heart. The theme songs from the Daniel Craig era asserted Bond’s grit (“You Know My Name”), his distrust in allies (“Another Way to Die”), his search for love amongst the ruins (“Skyfall”), and most recently his desire to risk it all for love (“Writing’s on the Wall”). He’s come a long way, baby - and I hope the POV of this song is a strong hint that Craig’s swan song will aim to counterbalance the straight-male-fantasy aspects of the franchise with narrative elements that feel contemporary and compelling.
 
-\- The angsty wordsmithing is strong with this one. Billie makes a meal of diary lines like “You were my life but life is far away from fair.” It’s no “In this ever changing world in which we’re living makes you give up and cry, live and let die,” but it’ll do. Meanwhile, “The blood you bleed is just the blood you own” joins the ranks (alongside a-ha’s “Living’s in the way we die”) of Bond-song sentiments that sound profound on impact but are at their core deliciously stupid. Or is Billie sings it, “Stowpid.”
+\- The angsty wordsmithing is strong with this one. Billie makes a meal of diary lines like “You were my life but life is far away from fair.” It’s no “In this ever changing world in which we’re living makes you give up and cry, live and let die,” but it’ll do. Meanwhile, “The blood you bleed is just the blood you own” joins the ranks (alongside a-ha’s “Living’s in the way we die”) of Bond-song sentiments that sound profound on impact but are at their core deliciously stupid. Or as Billie sings it, “Stoopid.”
 
 ![](/static/img/billieeilish.jpg.webp)
 
