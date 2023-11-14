@@ -48,7 +48,9 @@ The tonalities on this show swing like an ax from preening camp to emotional rea
 
 ![](/static/img/02_secondary_quicksilver.jpg)
 
-In addition to having my nerves jangled by the Quicksilver ghost as a kid, I also remember being quite puzzled by the moral of the story, explicitly stated by teller-of-the-week Kiki: “Magical powers can be used for good, but if you don’t know what you’re doing, back off.” I remember finding it kinda weird that the moral-of-the-week warned about magic in such literal terms when, y’know... magic isn’t real. Now as an adult, I appreciate that the viewer could interpret “magic” as a stand-in for real-life elusive forces like power and privilege. “Fuck around and find out” might be the contemporary version of this lesson, but “be careful with magic” just hits, well, spookier.  
+In addition to having my nerves jangled by the Quicksilver ghost as a kid, I also remember being quite puzzled by the moral of the story, explicitly stated by teller-of-the-week Kiki: “Magical powers can be used for good, but if you don’t know what you’re doing, back off.” I remember finding it kinda weird that the moral-of-the-week warned about magic in such literal terms when, y’know... magic isn’t real. Now as an adult, I appreciate that the viewer could interpret “magic” as a stand-in for real-life elusive forces like power and privilege. “Fuck around and find out” might be the contemporary version of this lesson, but nothing beat the ominous vibe of "Beware magical forces...."
+
+
 
 ## 8. The Tale of the Bookish Babysitter
 
@@ -70,11 +72,9 @@ After her parents separate, lonely Stacy moves into a cramped apartment with her
 
 Show creator [D.J. McHale has expressed](https://www.vulture.com/2012/04/13-things-about-are-you-afraid-of-the-dark.html) how he prioritized the characterization of the kids over the monsters-of-the-week. This episode is a great example of a horror narrative presenting a character relationship so compelling, you forget you’re watching a horror until the horrific thing rears its ugly head. Stacy and Madeline forge an intergenerational friendship that feels as sweet and tense as the chords played in *Hacks* or *Only Murders in the Building*. 
 
-When the story does delve into its bag of horror tropes, the character development pays off. Countless episodes of this show cram their back halves with cat-and-mouse chases between kid and monster before the kid finally wins the day. The second act here is indeed an extended monster chase, but this time it’s bleaker than usual, as the “monster” isn’t really a monster at all, but someone whom our hero actually had gotten to know. Hats off to actress Beth Amos, whose portrayal of Madeline is something of a high-wire act: she’s endearing in the friendship scenes and chilling in the scenes where her ghostly nature overtakes the proceedings. Yet even when she blossoms into the full-fledged “villain,” she manages to pierce you with the pangs of her isolation. In the end, the monster isn’t Madeline at all; it’s Stacy’s relatable scheduling screw-up. This story is unsettling in the way it explores how blow-offs and grudges can wreak havoc on a friendship - pure horror for socially anxious viewers who can’t stop asking, “Are you mad at me?!”  
-
 ![](/static/img/04_secondary_apt214.jpg)
 
-It’s also worth noting that this tale’s teller is tomboy Kiki, who provided some much-needed Black representation that genre fiction sorely lacked in the early ‘90s. The producers wisely center Black protagonists in the majority of her stories, including this one. Although characters’ racial/ethnic backgrounds rarely if ever played a key role on this show, the brash and lovable Kiki provided a gateway for kids of color to see themselves not only as centers of fantastical narratives, but potentially as creators of those narratives, too. 
+Countless episodes of this show cram their back halves with cat-and-mouse chases between kid and monster before the kid finally wins the day. The second act here is indeed an extended monster chase, but this time it’s bleaker than usual, as the “monster” isn’t really a monster at all, but someone whom our hero actually had gotten to know. Hats off to actress Beth Amos, whose portrayal of Madeline is something of a high-wire act: she’s endearing in the friendship scenes and chilling in the scenes where her ghostly nature overtakes the proceedings. Yet even when she blossoms into the full-fledged “villain,” she manages to pierce you with the pangs of her isolation. In the end, the monster isn’t Madeline at all; it’s Stacy’s relatable scheduling screw-up. This story is unsettling in the way it explores how blow-offs and grudges can wreak havoc on a friendship - pure horror for socially anxious viewers who can’t stop asking, “Are you mad at me?!”  
 
 ## 6. The Tale of the Lonely Ghost
 
@@ -162,7 +162,7 @@ This tale’s teller Samantha had a penchant for stories that blended horror wit
 
 **The Tale of the Twisted Claw** - Serving as the show’s premiere episode, this is the Midnight Society's not-so-subtle riff on "The Monkey's Paw." It features a pulsating percussive score that becomes something of an earworm, as well as two kids with ridiculous accents that I think are supposed to be, like, New Jersey mafia.
 
-**The Tale of the Laughing in the Dark** - This fan-fave installment features a great all-time villain in Zeebo the Clown, but it’s marred by shitty, unsympathetic characters (despite one of them being played by one of my favorite Nickelodeon stars, *The Tomorrow People*’s Christian Tessier).
+**The Tale of the Laughin in the Dark** - This fan-fave installment features a great all-time villain in Zeebo the Clown, but it’s marred by flimsy characters (despite one of them being played by one of my favorite Nickelodeon stars, *The Tomorrow People*’s Christian Tessier).
 
 **The Tale of the Phone Police** - An offbeat offering from the show’s glory days of Season 3, this episode - about a police force that imprisons prank callers - gets points for a novel premise. These days, they’d be the “Troll Police,” which Reddit needs to make into a real thing. 
 
