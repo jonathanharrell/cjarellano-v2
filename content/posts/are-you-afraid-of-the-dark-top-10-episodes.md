@@ -10,7 +10,15 @@ tags:
 ---
 *Are You Afraid of the Dark?* has forever held its twisted claw around my horror-craving heart. So it goes for swaths of anxiety-addled millennials who grew up with this anthology creep-show that originally ran on Nickelodeon from 1991 to 1996. Every week a group of teenagers called the Midnight Society would meet in the middle of the woods to tell scary stories. And that was it - *Twilight Zone* for tweens.
 
-![](/static/img/midnightsociety.jpg)
+<div class="relative my-12" style="padding: 56.25% 0 0 0;">
+  <iframe 
+    src="https://youtube.com/embed/v=oBa7dU6cF1g" 
+    title="Video player" 
+    class="absolute top-0 left-0 w-full h-full"
+    frameborder="0" 
+    allowfullscreen
+  ></iframe>
+</div>
 
 I’ve been re-binging it lately, partly because the new *Goosebumps* on Disney+ pushed my brain back into the YA horror space, partly because I love to dissect horror narratives that can’t rely on blood or even a body count to thrill its audience, and partly because - dammit, REAL LIFE is stressful and it’s nice to crank up the nostalgia machine.  
 
