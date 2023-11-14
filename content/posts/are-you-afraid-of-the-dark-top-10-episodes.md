@@ -12,7 +12,7 @@ tags:
 
 <div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
-    src="https://youtube.com/embed/v=oBa7dU6cF1g" 
+    src="https://youtube.com/embed/oBa7dU6cF1g" 
     title="Video player" 
     class="absolute top-0 left-0 w-full h-full"
     frameborder="0" 
