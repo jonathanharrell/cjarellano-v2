@@ -29,8 +29,6 @@ But while they each use established conventions of the horror genre to confront 
 
 So which of these “Nightmares” stick the landing with clear-eyed insight about mental health and what we owe to each other? And which are best left to sputter through the forgotten corners of *The Twilight Zone*?
 
-
-
 ## Chapter 1: TERROR TAKES OFF
 
 “Nightmare at 20,000 Feet” first took flight as a 1961 short story by Richard Matheson. The author of cherished horror novels I Am Legend and The Shrinking Man among many others, Matheson reported that the seed idea of this story came to him in a hilariously mundane manner.  
