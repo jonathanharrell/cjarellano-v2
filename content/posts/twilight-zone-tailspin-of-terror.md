@@ -5,7 +5,13 @@ description: Come fly with me as I break down the Twilight Zone's three tellings
   of "Nightmare at 20, 000 Feet" and examine how each grapples with the tailspin
   terror of mental health stigma.
 image: /static/img/nightmare20k_blogthumbnail_topost.jpg
-tags: []
+tags:
+  - horror
+  - writing
+  - television
+  - filmmaking
+  - directing
+  - review
 ---
 <div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
@@ -23,7 +29,7 @@ But while they each use established conventions of the horror genre to confront 
 
 So which of these “Nightmares” stick the landing with clear-eyed insight about mental health and what we owe to each other? And which are best left to sputter through the forgotten corners of *The Twilight Zone*?
 
-## **Chapter 1: TERROR TAKES OFF**  
+## Chapter 1: TERROR TAKES OFF
 
 “Nightmare at 20,000 Feet” first took flight as a 1961 short story by Richard Matheson. The author of cherished horror novels I Am Legend and The Shrinking Man among many others, Matheson reported that the seed idea of this story came to him in a hilariously mundane manner.  
 
@@ -31,13 +37,15 @@ So which of these “Nightmares” stick the landing with clear-eyed insight abo
 
 Matheson adapted the short story for *The Twilight Zone*’s fifth season in 1963. The episode features a brooding William Shatner and direction by Richard Donner, who later went on to direct *Superman,* a very different tale about an alien creature in the sky.  
 
+![](/static/img/nightmareat20kfeet_breakdown_2022-09-27.00_02_44_04.still010.jpg)
+
 Twenty years later, Matheson adapted his story again for a bigger screen in Steven Spielberg’s 1983 movie adaptation. Star John Lithgow went big and refused to go home. And those bold choices were shaped and approved by George Miller, who directed the segment with his adrenaline-boosting aesthetic he’d flaunted 3 years earlier in 1980’s *Mad Max*.  
 
 Jordan Peele’s *Twilight Zone* reboot in 2019 eschewed the gremlin creature altogether in favor of a sinister podcast on a retrofuturistic player. Story credit went to reboot creators Jordan Peele and Simon Kinberg, as well as Marco Ramirez. Meanwhile, director Greg Yaitanes, whose credits include 30 episodes of *House*, knows a thing or two about main characters who piss everyone off by insisting he’s the only one who knows what’s really happening.    
 
 In the intervening years, the episode has been referenced and parodied countless times. It continues to seep into our collective consciousness with its claustrophobic premise, mordant black humor, and disturbing implications about how we fail to make space for the mental health of ourselves and others. To determine which of these tellings soar to the highest heights of horror, let’s examine two major aspects of each version: story and aesthetics. 
 
-## **Chapter 2: PANDA BEAR NIGHTMARE**  
+## Chapter 2: PANDA BEAR NIGHTMARE
 
 The 1963 story, like the other adaptations, frames mental health stigma as the most terrifying monster to bedevil our protagonist.  
 
@@ -56,6 +64,8 @@ This over/under terminology feels inherently stigmatic. Sure enough, Wilson’s 
 As Matheson did in his 1956 novel *The Shrinking Man*, the author frames the story’s fantastical concept in part as a window into toxic masculinity. Wilson feels unable to fulfill his patriarchal duties as husband and father. The state of his mental health has left him feeling small.
 
 So much so that when he spots a humanoid on the wing, he retreats into self-doubt. The sightings persist. Of course, no one believes him. 
+
+![](/static/img/nightmareat20kfeet_breakdown_2022-09-27.00_00_05_01.still005.jpg)
 
 To heighten the horror quotient and the interpersonal drama, Matheson portrays everyone as trying. Julia tries to support her husband, but fears that he’s not “cured” after all. The crew tries to acknowledge Wilson’s claim, but they coddle him instead. Wilson himself tries to report his observation while keeping the peace, but takes matters into his own hands when he realizes he has no true allies here. 
 
@@ -81,15 +91,19 @@ Years later, when Matheson reflected on Donner’s execution of his script,, the
 
 It’s not just the monster’s design that feels comedic. Its physicality and physics lead to absurd imagery. This creature ambles around on the wing with all the menace of a dad putting on the morning coffee in his kitchen. It shuffles about the wing fully upright, with no indication that it’s battling against high winds and G-forces to stay attached. 
 
+![](/static/img/nightmareat20kfeet_breakdown_2022-09-27.00_00_49_22.still003.jpg)
+
 It’s uncertain whether Donner intended for these monster moments to play as comedy, or if he simply battled time and budget constraints as a first-time *Twilight Zone* director - he went on to direct six more episodes, so Rod Serling, at least, was pleased. Regardless of intent, the humor surrounding the gremlin doesn’t deflate the tension, but enhances it. The campy theatrics of the creature’s appearances make the situation come off as some kind of bad cosmic joke, a full-on existential prank show that has cast Wilson as its unwitting star. The utter ridiculousness of the visuals make these monster sightings all the more unbelievable, rendering Wilson that much more unwilling to believe himself, and unable to convince passengers of what he’s witnessed. It’s almost like the universe gaslights him, and does so with a cruel and twisted sense of humor. That we snicker along with this sadistic universe makes us the gaslighters, too, complicit in building Wilson’s invisible prison of mental health stigma. The monster might be funny, but the distress it inspires is no laughing matter. 
 
-## **Chapter 3: MAD MAXIMALISM**
+## Chapter 3: MAD MAXIMALISM
 
 The script Matheson wrote for the 1983 movie hews closer to the simplicity of his original short story. Gone are the spouse and developed backstory of the protagonist, called John Valentine in this version. All we learn about Valentine is that he’s a computer engineer of some repute.
 
 Whereas the ‘63 version centered on Wilson’s shortcomings as a family man, the ‘83 version emphasizes Valentine’s intellect as the source of his distress. After all, he stokes his death anxieties with current events and sobering statistics.
 
 The movie paints this tech-head as simply too brainy for his own good.  The early 1980s saw the rise of cable television and the 24-hour news cycle, with the launch of CNN in 1980. With the debut of the Apple II in 1977 and the IBM PC in 1981, the digital revolution was well on its way. Society at large began to grapple with information overload that would only mutate into today’s proliferation of social media fatigue, doomscrolling, and fake news. John Valentine appears to suffer from panic attacks brought on by a fear of flying, exacerbated by knowledge gleaned from books and media. This adaptation seems focused less on the mind of the individual and more on broader forces like the rise of the information age… or the breakdown of group dynamics in the face of crisis.
+
+![](/static/img/nightmareat20kfeet_breakdown_2022-09-27.00_01_43_19.still009.jpg)
 
 In response to Valentine’s mental distress, the plane’s crew and passengers are unhelpful, bratty, and downright hostile. In stark contrast to Shatner’s Wilson, Lithgow’s Valentine doesn’t bother with self-restraint. The “everyone is trying” ethos that turned the 1963 version into a pressure cooker, has now been replaced with all-out chaos. Miller favors aesthetics over story to make us feel the horror, which we’ll discuss more in a second, and that experiential approach certainly makes these events more immersive… but immediate thrills can come at the expense of lasting resonance. Miller presents a cold and glib worldview, where even our hero’s triumph feels empty. 
 
@@ -105,6 +119,8 @@ It’s likely the movie version gifted Matheson with the creature feature he lon
 
 It’s not just the gremlin who goes to extremes. Everyone behind and in front of the camera dials the proceedings way past ten - and way past 20,000. 
 
+![](/static/img/nightmareat20kfeet_breakdown_2022-09-27.00_00_44_23.still002.jpg)
+
 To amplify Valentine’s distress and isolation, Miller invites cinematographer Allen Daviau to throw everything into the kitchen sink here: hard blue lighting, fog, frenetic handheld camera shots with wide-angle lenses, and vertiginous shots stretched and squeezed in post-production. 
 
 Meanwhile, one of my favorite editing sequences in all of cinematic horror begins with this sustained shot of Valentine, a welcome reprieve from all the preceding chaos. The shot boils into dread the longer it holds on Valentine. It lingers for a tense 1 minute and 43 seconds as he slowly intuits that the monster lurks nearby. Very nearby.
@@ -113,7 +129,7 @@ Then the tension explodes with this fabulous subliminal gag. It appears that Kev
 
 Miller also pumps this maximalist aesthetic into his *Mad Max* series as well as his upcoming feature, *Three Thousand Years of Longing* - geez, even that title screams maximalist. Matheson seems less convinced of its effectiveness here, but this high-anxiety cacophony is undercut with bone-dry humor that comes from its cavalcade of eccentric characters. Similar to caustic satires like Veep or Arrested Development, no one here, not even Valentine, is particularly sympathetic. So when Miller dials things up to 20,000, the domineering chaos lands as one big relentless farce. Whereas the universe’s cruel joke was on Shatner’s Wilson alone, here, the joke is on everyone because the joke is everyone. Miller’s maximalism makes monsters - and victims - of all of us. In this adaptation, Mental health stigma isn’t an A to B route - it’s a vicious all-consuming cycle.
 
-## **Chapter 4: Confused Creepypasta**
+## Chapter 4: CONFUSED CREEPYPASTA
 
 Whereas the ‘83 version stripped the story down to its bare essentials and left the narrative perhaps a little too bare, the 2019 story overloads its baggage compartment and sends this tale into a tailspin. 
 
@@ -124,6 +140,8 @@ This version riffs on our shared anxieties regarding 9/11, the 2014 disappearanc
 And a sinister podcast feels like a snug fit for today’s growing interest in so-called “creepypasta” fiction: i.e., eerie urban legends that spread in the digital space.  
 
 But there’s so much fodder here for contemporary relevance that Ramirez and his co-writers get lost on their own flight path. Too many unanswered questions blunt the full horror potential of the podcast conceit. In the other “Nightmare”s, the gremlin’s origins stayed shrouded in mystery, but the monster still had a clear goal: destroy the plane. With no clear details given about the mp3 player’s origins or the motives behind the force who put it there, it feels less like a mysterious futuristic device and more like a clunky writing device. 
+
+![](/static/img/nightmareat20kfeet_breakdown_2022-09-27.00_00_32_07.still001.jpg)
 
 Sanderson’s character journey feels similarly diluted. His efforts to convince everyone of the threats surrounding the flight appear half-assed at best. He never even gets around to telling anyone about the podcast. The script blocks his single attempt with a goofy bald joke. 
 
@@ -141,18 +159,24 @@ But do the aesthetics of this adaptation offer any impactful takeaways? If Mille
 
 The circle motif is cute and brand-appropriate. In fact, in some of the reboot’s more middling installments, you can pass the time just by playing a “spot the circle” drinking game with yourself. Jury’s out on whether this motif actually works as a mood-setter. On the one hand, the preponderance of round shapes, along with the aforementioned odd camera angles, can make us feel like something’s not quite right with this world, almost like the protagonist - and therefore the viewer - is unknowingly trapped in some kind of cosmic grand design courtesy of a mischievous, even sadistic, universe.
 
+![](/static/img/nightmareat20kfeet_breakdown_2022-09-27.00_21_15_09.still013.jpg)
+
 On the other hand, circles by their nature are not threatening. 
 
 In a breakdown about the psychological effect of basic geometric shapes, No Film School offers this insight: “Circles represent things that are soft, nonthreatening, natural... The continuous curve and rounded figure reminds many of us of things that appear in nature, like galaxies, stars, planets, clouds, raindrops, flowers, and waves… Circles have been used symbolically to communicate 'completeness,' 'balance,' and 'endlessness'... the yin yang, the clock, the wedding ring."
 
 The circles of *The Twilight Zone* indeed feel soothing and pleasant, which works against the franchise’s decades-long promise of thrills and chills, and in this episode, works against Sanderon’s PTSD and the passengers’ resultant animosity toward him.  “Nightmare at 30,000 Feet,” like the 2019 reboot at large, attempts to engage us on a philosophical level but falls short of grabbing us on a visceral or psychological level - despite cinematographer Craig Wrobleski’s thoughtful shot choices that do work to bring us into Sanderson’s feeling of isolation. Like many of the other creative choices at play, the visual style of this “Nightmare” shows thought and ambition, but overshoots the runway. 
 
-## **Chapter 5: LASTING NIGHTMARES**
+## Chapter 5: LASTING NIGHTMARES
 
 The finale of each adaptation contributes to its particular takeaway on mental illness stigma. After Wilson and Valentine confront their monsters, Matheson hints at potential vindication for both of them by ending on the physical eviden ce left by the gremlin. Nonetheless, that vindication is far from guaranteed. Wilson’s and Valentine’s similar stories are a powerful reminder that mental health stigmas are often so isolating that even when people achieve victories related to their mental health, few if any people in their lives can understand or empathize with those victories. 
 
 Amidst the vagueness of Sanderson’s story, his grim fate cautions us against the extreme lengths we might traverse in a mental health crisis to gain control of the uncontrollable. But his muddled story is devoid of suspense or narrative clarity.  It’s a far cry from the 1983 version, which excelled at phenomenal practical effects and a potent if exaggerated depiction of mental and social unrest. 
 
-Ultimately, though, the 1963 version soars over its successors thanks to its pressure cooker approach that seethes with interpersonal tension and disturbing psychological underpinnings.   
+Ultimately, though, the 1963 version soars over its successors thanks to its pressure cooker approach that seethes with interpersonal tension and disturbing psychological underpinnings. 
+
+![](/static/img/2019_nightmare30k.mp4.00_31_32_29.still001.jpg)
+
+  
 
 Whatever the decade, the story of a person in distress trapped aboard a plane with a monster that only he can see has gone from a sci-fi writer’s fleeting flight of fancy to a contemporary allegory forever etched into our collective consciousness. For as long as people respond to mental illness with fear instead of empathy, the legacy of “Nightmare at 20,000 Feet” will remain sadly relevant, in our own dark skies…. and in *The Twilight Zone*.
