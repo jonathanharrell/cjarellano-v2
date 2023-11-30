@@ -8,7 +8,7 @@ tags:
   - television
   - reviews
 ---
-*Are You Afraid of the Dark?* has forever held its twisted claw around my horror-craving heart. So it goes for swaths of anxiety-addled millennials who grew up with this anthology creep-show that originally ran on Nickelodeon from 1991 to 1996. Every week a group of teenagers called the Midnight Society would meet in the middle of the woods to tell scary stories. And that was it - *Twilight Zone* for tweens.
+*Are You Afraid of the Dark?* forever holds its twisted claw around my horror-craving heart. So it goes for swaths of anxiety-addled millennials who grew up with this anthology creep-show that originally ran on Nickelodeon from 1991 to 1996. Every week a group of teenagers called the Midnight Society would meet in the middle of the woods to tell scary stories. And that was it - *Twilight Zone* for tweens.
 
 <div class="relative my-12" style="padding: 56.25% 0 0 0;">
   <iframe 
@@ -49,8 +49,6 @@ The tonalities on this show swing like an ax from preening camp to emotional rea
 ![](/static/img/02_secondary_quicksilver.jpg)
 
 In addition to having my nerves jangled by the Quicksilver ghost as a kid, I also remember being quite puzzled by the moral of the story, explicitly stated by teller-of-the-week Kiki: “Magical powers can be used for good, but if you don’t know what you’re doing, back off.” I remember finding it kinda weird that the moral-of-the-week warned about magic in such literal terms when, y’know... magic isn’t real. Now as an adult, I appreciate that the viewer could interpret “magic” as a stand-in for real-life elusive forces like power and privilege. “Fuck around and find out” might be the contemporary version of this lesson, but nothing beat the ominous vibe of "Beware magical forces...."
-
-
 
 ## 8. The Tale of the Bookish Babysitter
 
