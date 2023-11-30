@@ -23,9 +23,7 @@ But while they each use established conventions of the horror genre to confront 
 
 So which of these “Nightmares” stick the landing with clear-eyed insight about mental health and what we owe to each other? And which are best left to sputter through the forgotten corners of *The Twilight Zone*?
 
-\-----
-
-**Chapter 1: TERROR TAKES OFF**  
+## **Chapter 1: TERROR TAKES OFF**  
 
 “Nightmare at 20,000 Feet” first took flight as a 1961 short story by Richard Matheson. The author of cherished horror novels I Am Legend and The Shrinking Man among many others, Matheson reported that the seed idea of this story came to him in a hilariously mundane manner.  
 
@@ -39,9 +37,7 @@ Jordan Peele’s *Twilight Zone* reboot in 2019 eschewed the gremlin creature al
 
 In the intervening years, the episode has been referenced and parodied countless times. It continues to seep into our collective consciousness with its claustrophobic premise, mordant black humor, and disturbing implications about how we fail to make space for the mental health of ourselves and others. To determine which of these tellings soar to the highest heights of horror, let’s examine two major aspects of each version: story and aesthetics. 
 
-\-----
-
-**Chapter 2: PANDA BEAR NIGHTMARE**  
+## **Chapter 2: PANDA BEAR NIGHTMARE**  
 
 The 1963 story, like the other adaptations, frames mental health stigma as the most terrifying monster to bedevil our protagonist.  
 
@@ -87,9 +83,7 @@ It’s not just the monster’s design that feels comedic. Its physicality and p
 
 It’s uncertain whether Donner intended for these monster moments to play as comedy, or if he simply battled time and budget constraints as a first-time *Twilight Zone* director - he went on to direct six more episodes, so Rod Serling, at least, was pleased. Regardless of intent, the humor surrounding the gremlin doesn’t deflate the tension, but enhances it. The campy theatrics of the creature’s appearances make the situation come off as some kind of bad cosmic joke, a full-on existential prank show that has cast Wilson as its unwitting star. The utter ridiculousness of the visuals make these monster sightings all the more unbelievable, rendering Wilson that much more unwilling to believe himself, and unable to convince passengers of what he’s witnessed. It’s almost like the universe gaslights him, and does so with a cruel and twisted sense of humor. That we snicker along with this sadistic universe makes us the gaslighters, too, complicit in building Wilson’s invisible prison of mental health stigma. The monster might be funny, but the distress it inspires is no laughing matter. 
 
-\-----
-
-**Chapter 3: MAD MAXIMALISM**
+## **Chapter 3: MAD MAXIMALISM**
 
 The script Matheson wrote for the 1983 movie hews closer to the simplicity of his original short story. Gone are the spouse and developed backstory of the protagonist, called John Valentine in this version. All we learn about Valentine is that he’s a computer engineer of some repute.
 
@@ -119,9 +113,7 @@ Then the tension explodes with this fabulous subliminal gag. It appears that Kev
 
 Miller also pumps this maximalist aesthetic into his *Mad Max* series as well as his upcoming feature, *Three Thousand Years of Longing* - geez, even that title screams maximalist. Matheson seems less convinced of its effectiveness here, but this high-anxiety cacophony is undercut with bone-dry humor that comes from its cavalcade of eccentric characters. Similar to caustic satires like Veep or Arrested Development, no one here, not even Valentine, is particularly sympathetic. So when Miller dials things up to 20,000, the domineering chaos lands as one big relentless farce. Whereas the universe’s cruel joke was on Shatner’s Wilson alone, here, the joke is on everyone because the joke is everyone. Miller’s maximalism makes monsters - and victims - of all of us. In this adaptation, Mental health stigma isn’t an A to B route - it’s a vicious all-consuming cycle.
 
-\-----
-
-**Chapter 4: Confused Creepypasta**
+## **Chapter 4: Confused Creepypasta**
 
 Whereas the ‘83 version stripped the story down to its bare essentials and left the narrative perhaps a little too bare, the 2019 story overloads its baggage compartment and sends this tale into a tailspin. 
 
@@ -155,9 +147,7 @@ In a breakdown about the psychological effect of basic geometric shapes, No Film
 
 The circles of *The Twilight Zone* indeed feel soothing and pleasant, which works against the franchise’s decades-long promise of thrills and chills, and in this episode, works against Sanderon’s PTSD and the passengers’ resultant animosity toward him.  “Nightmare at 30,000 Feet,” like the 2019 reboot at large, attempts to engage us on a philosophical level but falls short of grabbing us on a visceral or psychological level - despite cinematographer Craig Wrobleski’s thoughtful shot choices that do work to bring us into Sanderson’s feeling of isolation. Like many of the other creative choices at play, the visual style of this “Nightmare” shows thought and ambition, but overshoots the runway. 
 
-\-----
-
-**Chapter 5: LASTING NIGHTMARES**
+## **Chapter 5: LASTING NIGHTMARES**
 
 The finale of each adaptation contributes to its particular takeaway on mental illness stigma. After Wilson and Valentine confront their monsters, Matheson hints at potential vindication for both of them by ending on the physical eviden ce left by the gremlin. Nonetheless, that vindication is far from guaranteed. Wilson’s and Valentine’s similar stories are a powerful reminder that mental health stigmas are often so isolating that even when people achieve victories related to their mental health, few if any people in their lives can understand or empathize with those victories. 
 
