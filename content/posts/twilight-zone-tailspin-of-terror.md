@@ -141,7 +141,7 @@ And a sinister podcast feels like a snug fit for today’s growing interest in s
 
 But there’s so much fodder here for contemporary relevance that Ramirez and his co-writers get lost on their own flight path. Too many unanswered questions blunt the full horror potential of the podcast conceit. In the other “Nightmare”s, the gremlin’s origins stayed shrouded in mystery, but the monster still had a clear goal: destroy the plane. With no clear details given about the mp3 player’s origins or the motives behind the force who put it there, it feels less like a mysterious futuristic device and more like a clunky writing device. 
 
-
+![](/static/img/nightmareat20kfeet_breakdown_2022-09-27.00_00_32_07.still001.jpg)
 
 Sanderson’s character journey feels similarly diluted. His efforts to convince everyone of the threats surrounding the flight appear half-assed at best. He never even gets around to telling anyone about the podcast. The script blocks his single attempt with a goofy bald joke. 
 
@@ -159,6 +159,8 @@ But do the aesthetics of this adaptation offer any impactful takeaways? If Mille
 
 The circle motif is cute and brand-appropriate. In fact, in some of the reboot’s more middling installments, you can pass the time just by playing a “spot the circle” drinking game with yourself. Jury’s out on whether this motif actually works as a mood-setter. On the one hand, the preponderance of round shapes, along with the aforementioned odd camera angles, can make us feel like something’s not quite right with this world, almost like the protagonist - and therefore the viewer - is unknowingly trapped in some kind of cosmic grand design courtesy of a mischievous, even sadistic, universe.
 
+![](/static/img/nightmareat20kfeet_breakdown_2022-09-27.00_21_15_09.still013.jpg)
+
 On the other hand, circles by their nature are not threatening. 
 
 In a breakdown about the psychological effect of basic geometric shapes, No Film School offers this insight: “Circles represent things that are soft, nonthreatening, natural... The continuous curve and rounded figure reminds many of us of things that appear in nature, like galaxies, stars, planets, clouds, raindrops, flowers, and waves… Circles have been used symbolically to communicate 'completeness,' 'balance,' and 'endlessness'... the yin yang, the clock, the wedding ring."
@@ -171,6 +173,10 @@ The finale of each adaptation contributes to its particular takeaway on mental i
 
 Amidst the vagueness of Sanderson’s story, his grim fate cautions us against the extreme lengths we might traverse in a mental health crisis to gain control of the uncontrollable. But his muddled story is devoid of suspense or narrative clarity.  It’s a far cry from the 1983 version, which excelled at phenomenal practical effects and a potent if exaggerated depiction of mental and social unrest. 
 
-Ultimately, though, the 1963 version soars over its successors thanks to its pressure cooker approach that seethes with interpersonal tension and disturbing psychological underpinnings.   
+Ultimately, though, the 1963 version soars over its successors thanks to its pressure cooker approach that seethes with interpersonal tension and disturbing psychological underpinnings. 
+
+![](/static/img/2019_nightmare30k.mp4.00_31_32_29.still001.jpg)
+
+  
 
 Whatever the decade, the story of a person in distress trapped aboard a plane with a monster that only he can see has gone from a sci-fi writer’s fleeting flight of fancy to a contemporary allegory forever etched into our collective consciousness. For as long as people respond to mental illness with fear instead of empathy, the legacy of “Nightmare at 20,000 Feet” will remain sadly relevant, in our own dark skies…. and in *The Twilight Zone*.
