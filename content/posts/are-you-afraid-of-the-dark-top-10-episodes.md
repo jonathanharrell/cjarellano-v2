@@ -2,7 +2,7 @@
 title: "ARE YOU AFRAID OF THE DARK?: 10 Spookiest Episodes"
 date: 2023-10-30T20:06:13.203Z
 description: THE definitive list of the spookiest Are You Afraid of the Dark? Episodes ever.
-image: /static/img/midnightsociety.jpg
+image: /static/img/03_bicycle03.jpg
 tags:
   - horror
   - television
