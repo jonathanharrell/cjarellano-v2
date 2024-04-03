@@ -7,7 +7,7 @@ type: Short Film
 categories:
   - directing
   - editing
-image: /static/img/boyfriends_forweb.jpg
+image: /static/img/boyfriends_forweb2.jpg
 video: https://vimeo.com/906699840/28077a26c7?share=copy
 quotes:
   - source: Dan Savage
