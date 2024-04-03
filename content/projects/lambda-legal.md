@@ -7,8 +7,7 @@ type: Promotional Video
 categories:
   - editing
   - motion graphics
-tags:
-  - home
+tags: []
 image: /static/img/lambdathumbnail_1.jpg
 video: https://vimeo.com/848021029?share=copy
 ---
