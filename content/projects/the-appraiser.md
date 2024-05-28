@@ -22,6 +22,12 @@ awards:
   - source: Kansas City International Film Festival
     title: Official Selection
     link: https://kcfilmfest.org
+  - source: Big Apple Film Festival
+    title: Official Selection
+    link: https://www.bigapplefilmfestival.com
+  - source: Chain NYC Film Festival
+    link: http://www.chainfilmfestival.com
+    title: Official Selection
 ---
 We all pay a price.
 
