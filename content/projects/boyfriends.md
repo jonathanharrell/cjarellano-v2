@@ -27,6 +27,6 @@ awards:
     title: Outstanding Achievement Award - LGBTQ Short
     link: https://calfilmfestival.com/winter-2023-2024-award-winners/
 ---
-What are we, anyway? 
+What are we anyway? 
 
 Billy gives his boyfriend Kevin a passionate welcome home, but all is not what it seems.
